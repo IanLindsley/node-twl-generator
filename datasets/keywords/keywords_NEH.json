@@ -2,2277 +2,2781 @@
   "1:1": [
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "citadel",
-      "tw_match": "citadel"
+      "tw_match": "citadel",
+      "lemma": "stronghold"
     }
   ],
   "1:2": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "captivity",
-      "tw_match": "captivity"
+      "tw_match": "captivity",
+      "lemma": "captive"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "1:3": [
     {
       "surface": "captivity",
-      "tw_match": "captivity"
+      "tw_match": "captivity",
+      "lemma": "captive"
     },
     {
       "surface": "province",
-      "tw_match": "province"
+      "tw_match": "province",
+      "lemma": "province"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "reproach",
-      "tw_match": "reproach"
+      "tw_match": "reproach",
+      "lemma": "shame"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "1:4": [
     {
       "surface": "mourned",
-      "tw_match": "mourn"
+      "tw_match": "mourn",
+      "lemma": "mourn"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "fasting",
-      "tw_match": "fasting"
+      "tw_match": "fasting",
+      "lemma": "fast"
     },
     {
       "surface": "praying",
-      "tw_match": "pray"
+      "tw_match": "pray",
+      "lemma": "pray"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     }
   ],
   "1:5": [
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "keeps",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "covenant",
-      "tw_match": "covenant"
+      "tw_match": "covenant",
+      "lemma": "covenant"
     },
     {
       "surface": "covenant faithfulness",
-      "tw_match": "covenant faithfulness"
+      "tw_match": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     }
   ],
   "1:6": [
     {
       "surface": "Please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "prayer",
-      "tw_match": "prayer"
+      "tw_match": "prayer",
+      "lemma": "pray"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "praying",
-      "tw_match": "pray"
+      "tw_match": "pray",
+      "lemma": "pray"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "confessing",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "sinned",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     }
   ],
   "1:7": [
     {
       "surface": "corruption",
-      "tw_match": "corruption"
+      "tw_match": "corruption",
+      "lemma": "corrupt"
     },
     {
       "surface": "statutes",
-      "tw_match": "statute"
+      "tw_match": "statute",
+      "lemma": "statute"
     },
     {
       "surface": "judgments",
-      "tw_match": "judgment"
+      "tw_match": "judgment",
+      "lemma": "judge"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     }
   ],
   "1:8": [
     {
       "surface": "Please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "scatter",
-      "tw_match": "scatter"
+      "tw_match": "scatter",
+      "lemma": "disperse"
     }
   ],
   "1:9": [
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "gather",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "chosen",
-      "tw_match": "chosen"
+      "tw_match": "chosen",
+      "lemma": "chosen"
     }
   ],
   "1:10": [
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "redeemed",
-      "tw_match": "redeem"
+      "tw_match": "redeem",
+      "lemma": "redeem"
     }
   ],
   "1:11": [
     {
       "surface": "Lord",
-      "tw_match": "Lord"
+      "tw_match": "Lord",
+      "lemma": "lord"
     },
     {
       "surface": "please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "prayer",
-      "tw_match": "prayer"
+      "tw_match": "prayer",
+      "lemma": "pray"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "delight",
-      "tw_match": "delight"
+      "tw_match": "delight",
+      "lemma": "delight"
     },
     {
       "surface": "fear",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "mercies",
-      "tw_match": "mercy"
+      "tw_match": "mercy",
+      "lemma": "mercy"
     },
     {
       "surface": "cupbearer",
-      "tw_match": "cupbearer"
+      "tw_match": "cupbearer",
+      "lemma": "cupbearer"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "2:1": [
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "Artaxerxes",
-      "tw_match": "Artaxerxes"
+      "tw_match": "Artaxerxes",
+      "lemma": "Artaxerxes"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "unpleasant",
-      "tw_match": "unpleasant"
+      "tw_match": "unpleasant",
+      "lemma": "evil"
     }
   ],
   "2:2": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "unpleasant",
-      "tw_match": "unpleasant"
+      "tw_match": "unpleasant",
+      "lemma": "evil"
     },
     {
       "surface": "afraid",
-      "tw_match": "afraid"
+      "tw_match": "afraid",
+      "lemma": "fear"
     }
   ],
   "2:3": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "eternity",
-      "tw_match": "eternity"
+      "tw_match": "eternity",
+      "lemma": "eternity"
     },
     {
       "surface": "unpleasant",
-      "tw_match": "unpleasant"
+      "tw_match": "unpleasant",
+      "lemma": "evil"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "graves",
-      "tw_match": "grave"
+      "tw_match": "grave",
+      "lemma": "grave"
     },
     {
       "surface": "desolate",
-      "tw_match": "desolate"
+      "tw_match": "desolate",
+      "lemma": "desolate"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "consumed",
-      "tw_match": "consume"
+      "tw_match": "consume",
+      "lemma": "consume"
     }
   ],
   "2:4": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "seeking",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     },
     {
       "surface": "prayed",
-      "tw_match": "pray"
+      "tw_match": "pray",
+      "lemma": "pray"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     }
   ],
   "2:5": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "graves",
-      "tw_match": "grave"
+      "tw_match": "grave",
+      "lemma": "grave"
     }
   ],
   "2:6": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "queen",
-      "tw_match": "queen"
+      "tw_match": "queen",
+      "lemma": "queen"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "2:7": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "governors",
-      "tw_match": "governors"
+      "tw_match": "governors",
+      "lemma": "prince"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "2:8": [
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     },
     {
       "surface": "keeper",
-      "tw_match": "keeper"
+      "tw_match": "keeper",
+      "lemma": "oversee"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "citadel",
-      "tw_match": "citadel"
+      "tw_match": "citadel",
+      "lemma": "stronghold"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "2:9": [
     {
       "surface": "governors",
-      "tw_match": "governors"
+      "tw_match": "governors",
+      "lemma": "prince"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "2:10": [
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Ammonite",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "seek",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "2:11": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "2:12": [
     {
       "surface": "tell",
-      "tw_match": "tell"
+      "tw_match": "tell",
+      "lemma": "report"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "animal",
-      "tw_match": "animals"
+      "tw_match": "animals",
+      "lemma": "livestock"
     }
   ],
   "2:13": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "spring",
-      "tw_match": "spring"
+      "tw_match": "spring",
+      "lemma": "fountain"
     },
     {
       "surface": "dung",
-      "tw_match": "dung"
+      "tw_match": "dung",
+      "lemma": "dung"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "consumed",
-      "tw_match": "consume"
+      "tw_match": "consume",
+      "lemma": "consume"
     }
   ],
   "2:14": [
     {
       "surface": "crossed",
-      "tw_match": "cross"
+      "tw_match": "cross",
+      "lemma": "cross"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "spring",
-      "tw_match": "spring"
+      "tw_match": "spring",
+      "lemma": "fountain"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "animal",
-      "tw_match": "animals"
+      "tw_match": "animals",
+      "lemma": "livestock"
     }
   ],
   "2:15": [
     {
       "surface": "wadi",
-      "tw_match": "wadi"
+      "tw_match": "wadi",
+      "lemma": "wadi"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "2:16": [
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "2:17": [
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "desolate",
-      "tw_match": "desolate"
+      "tw_match": "desolate",
+      "lemma": "desolate"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "reproach",
-      "tw_match": "reproach"
+      "tw_match": "reproach",
+      "lemma": "shame"
     }
   ],
   "2:18": [
     {
       "surface": "declared",
-      "tw_match": "declare"
+      "tw_match": "declare",
+      "lemma": "declare"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "2:19": [
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Ammonite",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "Arabian",
-      "tw_match": "Arabian"
+      "tw_match": "Arabian",
+      "lemma": "Arabia"
     },
     {
       "surface": "mocked",
-      "tw_match": "mock"
+      "tw_match": "mock",
+      "lemma": "mock"
     },
     {
       "surface": "rebelling",
-      "tw_match": "rebel"
+      "tw_match": "rebel",
+      "lemma": "rebel"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "2:20": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "right",
-      "tw_match": "right"
+      "tw_match": "right",
+      "lemma": "good"
     },
     {
       "surface": "memorial",
-      "tw_match": "memorial"
+      "tw_match": "memorial",
+      "lemma": "memorial"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "3:1": [
     {
       "surface": "high priest",
-      "tw_match": "high priest"
+      "tw_match": "high priest",
+      "lemma": "high priest"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "sheep",
-      "tw_match": "sheep"
+      "tw_match": "sheep",
+      "lemma": "ewe"
     },
     {
       "surface": "consecrated",
-      "tw_match": "consecrated"
+      "tw_match": "consecrated",
+      "lemma": "consecrate"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     }
   ],
   "3:2": [
     {
       "surface": "Jericho",
-      "tw_match": "Jericho"
+      "tw_match": "Jericho",
+      "lemma": "Jericho"
     }
   ],
   "3:3": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "3:4": [
     {
       "surface": "Uriah",
-      "tw_match": "Uriah"
+      "tw_match": "Uriah",
+      "lemma": "Uriah"
     },
     {
       "surface": "Zadok",
-      "tw_match": "Zadok"
+      "tw_match": "Zadok",
+      "lemma": "Zadok"
     }
   ],
   "3:5": [
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "lords",
-      "tw_match": "lord"
+      "tw_match": "lord",
+      "lemma": "lord"
     }
   ],
   "3:6": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "old",
-      "tw_match": "old"
+      "tw_match": "old",
+      "lemma": "age"
     }
   ],
   "3:7": [
     {
       "surface": "Gibeonite",
-      "tw_match": "Gibeonite"
+      "tw_match": "Gibeonite",
+      "lemma": "Gibeon"
     },
     {
       "surface": "Gibeon",
-      "tw_match": "Gibeon"
+      "tw_match": "Gibeon",
+      "lemma": "Gibeon"
     },
     {
       "surface": "Mizpah",
-      "tw_match": "Mizpah"
+      "tw_match": "Mizpah",
+      "lemma": "Mizpah"
     },
     {
       "surface": "authority",
-      "tw_match": "authority"
+      "tw_match": "authority",
+      "lemma": "authority"
     },
     {
       "surface": "governor",
-      "tw_match": "governor"
+      "tw_match": "governor",
+      "lemma": "govern"
     }
   ],
   "3:8": [
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     },
     {
       "surface": "restored",
-      "tw_match": "restore"
+      "tw_match": "restore",
+      "lemma": "restore"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "3:9": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "3:10": [
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     }
   ],
   "3:11": [
     {
       "surface": "Moab",
-      "tw_match": "Moab"
+      "tw_match": "Moab",
+      "lemma": "Moab"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     }
   ],
   "3:12": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "3:13": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "dung",
-      "tw_match": "dung"
+      "tw_match": "dung",
+      "lemma": "dung"
     }
   ],
   "3:14": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "dung",
-      "tw_match": "dung"
+      "tw_match": "dung",
+      "lemma": "dung"
     }
   ],
   "3:15": [
     {
       "surface": "Mizpah",
-      "tw_match": "Mizpah"
+      "tw_match": "Mizpah",
+      "lemma": "Mizpah"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "spring",
-      "tw_match": "spring"
+      "tw_match": "spring",
+      "lemma": "fountain"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "descending",
-      "tw_match": "descend"
+      "tw_match": "descend",
+      "lemma": "descend"
     },
     {
       "surface": "city of David",
-      "tw_match": "city of David"
+      "tw_match": "city of David",
+      "lemma": "city of David"
     }
   ],
   "3:16": [
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "graves",
-      "tw_match": "grave"
+      "tw_match": "grave",
+      "lemma": "grave"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "mighty",
-      "tw_match": "mighty"
+      "tw_match": "mighty",
+      "lemma": "might"
     }
   ],
   "3:17": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     }
   ],
   "3:18": [],
   "3:19": [
     {
       "surface": "Mizpah",
-      "tw_match": "Mizpah"
+      "tw_match": "Mizpah",
+      "lemma": "Mizpah"
     },
     {
       "surface": "armory",
-      "tw_match": "armory"
+      "tw_match": "armory",
+      "lemma": "armor"
     }
   ],
   "3:20": [
     {
       "surface": "Baruch",
-      "tw_match": "Baruch"
+      "tw_match": "Baruch",
+      "lemma": "Baruch"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "high priest",
-      "tw_match": "high priest"
+      "tw_match": "high priest",
+      "lemma": "high priest"
     }
   ],
   "3:21": [
     {
       "surface": "Uriah",
-      "tw_match": "Uriah"
+      "tw_match": "Uriah",
+      "lemma": "Uriah"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     }
   ],
   "3:22": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "3:23": [
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     },
     {
       "surface": "house",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     }
   ],
   "3:24": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     }
   ],
   "3:25": [
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "house",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "court",
-      "tw_match": "court"
+      "tw_match": "court",
+      "lemma": "court"
     },
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     }
   ],
   "3:26": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     }
   ],
   "3:27": [
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     }
   ],
   "3:28": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "horses",
-      "tw_match": "horse"
+      "tw_match": "horse",
+      "lemma": "horse"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     }
   ],
   "3:29": [
     {
       "surface": "Zadok",
-      "tw_match": "Zadok"
+      "tw_match": "Zadok",
+      "lemma": "Zadok"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     },
     {
       "surface": "keeper",
-      "tw_match": "keeper"
+      "tw_match": "keeper",
+      "lemma": "oversee"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "3:30": [
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     }
   ],
   "3:31": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "3:32": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "sheep",
-      "tw_match": "sheep"
+      "tw_match": "sheep",
+      "lemma": "ewe"
     }
   ],
   "4:1": [
     {
       "surface": "mocked",
-      "tw_match": "mock"
+      "tw_match": "mock",
+      "lemma": "mock"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     }
   ],
   "4:2": [
     {
       "surface": "Samaria",
-      "tw_match": "Samaria"
+      "tw_match": "Samaria",
+      "lemma": "Samaria"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "restore",
-      "tw_match": "restore"
+      "tw_match": "restore",
+      "lemma": "restore"
     },
     {
       "surface": "sacrifice",
-      "tw_match": "sacrifice"
+      "tw_match": "sacrifice",
+      "lemma": "sacrifice"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "stones",
-      "tw_match": "stone"
+      "tw_match": "stone",
+      "lemma": "stone"
     }
   ],
   "4:3": [
     {
       "surface": "Ammonite",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "stones",
-      "tw_match": "stone"
+      "tw_match": "stone",
+      "lemma": "stone"
     }
   ],
   "4:4": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "contempt",
-      "tw_match": "contempt"
+      "tw_match": "contempt",
+      "lemma": "contempt"
     },
     {
       "surface": "plunder",
-      "tw_match": "plunder"
+      "tw_match": "plunder",
+      "lemma": "plunder"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "captivity",
-      "tw_match": "captivity"
+      "tw_match": "captivity",
+      "lemma": "captive"
     }
   ],
   "4:5": [
     {
       "surface": "iniquity",
-      "tw_match": "iniquity"
+      "tw_match": "iniquity",
+      "lemma": "iniquity"
     },
     {
       "surface": "wipe out",
-      "tw_match": "wipe out"
+      "tw_match": "wipe out",
+      "lemma": "blot out"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "provoked",
-      "tw_match": "provoked"
+      "tw_match": "provoked",
+      "lemma": "provoke"
     }
   ],
   "4:6": [
     {
       "surface": "working",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "4:7": [
     {
       "surface": "Arabians",
-      "tw_match": "Arabian"
+      "tw_match": "Arabian",
+      "lemma": "Arabia"
     },
     {
       "surface": "Ammonites",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "4:8": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "4:9": [
     {
       "surface": "prayed",
-      "tw_match": "pray"
+      "tw_match": "pray",
+      "lemma": "pray"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "set up",
-      "tw_match": "set up"
+      "tw_match": "set up",
+      "lemma": "ordain"
     },
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "4:10": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "bearers",
-      "tw_match": "bearers"
+      "tw_match": "bearers",
+      "lemma": "bear"
     }
   ],
   "4:11": [
     {
       "surface": "adversaries",
-      "tw_match": "adversary"
+      "tw_match": "adversary",
+      "lemma": "adversary"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "kill",
-      "tw_match": "kill"
+      "tw_match": "kill",
+      "lemma": "slay"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "4:12": [
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "4:13": [
     {
       "surface": "families",
-      "tw_match": "family"
+      "tw_match": "family",
+      "lemma": "family"
     },
     {
       "surface": "swords",
-      "tw_match": "sword"
+      "tw_match": "sword",
+      "lemma": "sword"
     },
     {
       "surface": "spears",
-      "tw_match": "spear"
+      "tw_match": "spear",
+      "lemma": "spear"
     },
     {
       "surface": "bows",
-      "tw_match": "bow"
+      "tw_match": "bow",
+      "lemma": "bow"
     }
   ],
   "4:14": [
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "afraid",
-      "tw_match": "afraid"
+      "tw_match": "afraid",
+      "lemma": "fear"
     },
     {
       "surface": "Lord",
-      "tw_match": "Lord"
+      "tw_match": "Lord",
+      "lemma": "lord"
     },
     {
       "surface": "houses",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     }
   ],
   "4:15": [
     {
       "surface": "enemies",
-      "tw_match": "enemy"
+      "tw_match": "enemy",
+      "lemma": "adversary"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "counsels",
-      "tw_match": "counsels"
+      "tw_match": "counsels",
+      "lemma": "advice"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "4:16": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "spears",
-      "tw_match": "spear"
+      "tw_match": "spear",
+      "lemma": "spear"
     },
     {
       "surface": "shields",
-      "tw_match": "shield"
+      "tw_match": "shield",
+      "lemma": "shield"
     },
     {
       "surface": "bows",
-      "tw_match": "bow"
+      "tw_match": "bow",
+      "lemma": "bow"
     },
     {
       "surface": "breastplates",
-      "tw_match": "breastplate"
+      "tw_match": "breastplate",
+      "lemma": "breastplate"
     },
     {
       "surface": "officials",
-      "tw_match": "officials"
+      "tw_match": "officials",
+      "lemma": "prince"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "4:17": [
     {
       "surface": "carrying",
-      "tw_match": "carry"
+      "tw_match": "carry",
+      "lemma": "bear"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "4:18": [
     {
       "surface": "girded",
-      "tw_match": "girded"
+      "tw_match": "girded",
+      "lemma": "gird"
     },
     {
       "surface": "sword",
-      "tw_match": "sword"
+      "tw_match": "sword",
+      "lemma": "sword"
     },
     {
       "surface": "loins",
-      "tw_match": "loins"
+      "tw_match": "loins",
+      "lemma": "loins"
     },
     {
       "surface": "ram",
-      "tw_match": "ram"
+      "tw_match": "ram",
+      "lemma": "ewe"
     },
     {
       "surface": "horn",
-      "tw_match": "horn"
+      "tw_match": "horn",
+      "lemma": "horn"
     }
   ],
   "4:19": [
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "4:20": [
     {
       "surface": "ram",
-      "tw_match": "ram"
+      "tw_match": "ram",
+      "lemma": "ewe"
     },
     {
       "surface": "horn",
-      "tw_match": "horn"
+      "tw_match": "horn",
+      "lemma": "horn"
     },
     {
       "surface": "gather",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "4:21": [
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "spears",
-      "tw_match": "spear"
+      "tw_match": "spear",
+      "lemma": "spear"
     }
   ],
   "4:22": [
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "young man",
-      "tw_match": "young man"
+      "tw_match": "young man",
+      "lemma": "enslave"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "4:23": [
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     }
   ],
   "5:1": [
     {
       "surface": "outcry",
-      "tw_match": "outcry"
+      "tw_match": "outcry",
+      "lemma": "cry"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     }
   ],
   "5:2": [
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     }
   ],
   "5:3": [
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     },
     {
       "surface": "houses",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "famine",
-      "tw_match": "famine"
+      "tw_match": "famine",
+      "lemma": "famine"
     }
   ],
   "5:4": [
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "tribute",
-      "tw_match": "tribute"
+      "tw_match": "tribute",
+      "lemma": "tax"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     }
   ],
   "5:5": [
     {
       "surface": "bondage",
-      "tw_match": "bondage"
+      "tw_match": "bondage",
+      "lemma": "enslave"
     },
     {
       "surface": "slaves",
-      "tw_match": "slave"
+      "tw_match": "slave",
+      "lemma": "enslave"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     }
   ],
   "5:6": [
     {
       "surface": "outcry",
-      "tw_match": "outcry"
+      "tw_match": "outcry",
+      "lemma": "cry"
     }
   ],
   "5:7": [
     {
       "surface": "reigned",
-      "tw_match": "reign"
+      "tw_match": "reign",
+      "lemma": "reign"
     },
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     }
   ],
   "5:8": [
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     }
   ],
   "5:9": [
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "fear",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "reproach",
-      "tw_match": "reproach"
+      "tw_match": "reproach",
+      "lemma": "shame"
     },
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     },
     {
       "surface": "enemies",
-      "tw_match": "enemy"
+      "tw_match": "enemy",
+      "lemma": "adversary"
     }
   ],
   "5:10": [
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "Please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "forsake",
-      "tw_match": "forsake"
+      "tw_match": "forsake",
+      "lemma": "forsake"
     }
   ],
   "5:11": [
     {
       "surface": "Please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     },
     {
       "surface": "olive",
-      "tw_match": "olive"
+      "tw_match": "olive",
+      "lemma": "olive"
     },
     {
       "surface": "houses",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "new wine",
-      "tw_match": "new wine"
+      "tw_match": "new wine",
+      "lemma": "wine"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     }
   ],
   "5:12": [
     {
       "surface": "seek",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     },
     {
       "surface": "called",
-      "tw_match": "called"
+      "tw_match": "called",
+      "lemma": "call"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "swear",
-      "tw_match": "swear"
+      "tw_match": "swear",
+      "lemma": "oath"
     }
   ],
   "5:13": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "shake",
-      "tw_match": "shake"
+      "tw_match": "shake",
+      "lemma": "tremble"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     },
     {
       "surface": "labor",
-      "tw_match": "labor"
+      "tw_match": "labor",
+      "lemma": "labor"
     },
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     },
     {
       "surface": "Amen",
-      "tw_match": "amen"
+      "tw_match": "amen",
+      "lemma": "amen"
     },
     {
       "surface": "praised",
-      "tw_match": "praised"
+      "tw_match": "praised",
+      "lemma": "praise"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     }
   ],
   "5:14": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "governor",
-      "tw_match": "governor"
+      "tw_match": "governor",
+      "lemma": "govern"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "Artaxerxes",
-      "tw_match": "Artaxerxes"
+      "tw_match": "Artaxerxes",
+      "lemma": "Artaxerxes"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "years",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     }
   ],
   "5:15": [
     {
       "surface": "governors",
-      "tw_match": "governors"
+      "tw_match": "governors",
+      "lemma": "prince"
     },
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "fear",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "5:16": [
     {
       "surface": "fast",
-      "tw_match": "fast"
+      "tw_match": "fast",
+      "lemma": "fast"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     }
   ],
   "5:17": [
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     }
   ],
   "5:18": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "bull",
-      "tw_match": "bull"
+      "tw_match": "bull",
+      "lemma": "cow"
     },
     {
       "surface": "sheep",
-      "tw_match": "sheep"
+      "tw_match": "sheep",
+      "lemma": "ewe"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "seek",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     },
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     },
     {
       "surface": "governor",
-      "tw_match": "governor"
+      "tw_match": "governor",
+      "lemma": "govern"
     },
     {
       "surface": "bondage",
-      "tw_match": "bondage"
+      "tw_match": "bondage",
+      "lemma": "enslave"
     }
   ],
   "5:19": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     }
   ],
   "6:1": [
     {
       "surface": "Arabian",
-      "tw_match": "Arabian"
+      "tw_match": "Arabian",
+      "lemma": "Arabia"
     },
     {
       "surface": "enemies",
-      "tw_match": "enemy"
+      "tw_match": "enemy",
+      "lemma": "adversary"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "set up",
-      "tw_match": "set up"
+      "tw_match": "set up",
+      "lemma": "ordain"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "6:2": [
     {
       "surface": "appoint",
-      "tw_match": "appoint"
+      "tw_match": "appoint",
+      "lemma": "appoint"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "thinking",
-      "tw_match": "thinking"
+      "tw_match": "thinking",
+      "lemma": "understand"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     }
   ],
   "6:3": [
     {
       "surface": "messengers",
-      "tw_match": "messenger"
+      "tw_match": "messenger",
+      "lemma": "messenger"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "6:4": [
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "6:5": [
     {
       "surface": "young man",
-      "tw_match": "young man"
+      "tw_match": "young man",
+      "lemma": "enslave"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "6:6": [
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "thinking",
-      "tw_match": "thinking"
+      "tw_match": "thinking",
+      "lemma": "understand"
     },
     {
       "surface": "rebel",
-      "tw_match": "rebel"
+      "tw_match": "rebel",
+      "lemma": "rebel"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "6:7": [
     {
       "surface": "set up",
-      "tw_match": "set up"
+      "tw_match": "set up",
+      "lemma": "ordain"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "call out",
-      "tw_match": "call out"
+      "tw_match": "call out",
+      "lemma": "call"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "6:8": [],
   "6:9": [
     {
       "surface": "frightening",
-      "tw_match": "frighten"
+      "tw_match": "frighten",
+      "lemma": "fear"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "6:10": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "appoint",
-      "tw_match": "appoint"
+      "tw_match": "appoint",
+      "lemma": "appoint"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "temple",
-      "tw_match": "temple"
+      "tw_match": "temple",
+      "lemma": "temple"
     },
     {
       "surface": "kill",
-      "tw_match": "kill"
+      "tw_match": "kill",
+      "lemma": "slay"
     }
   ],
   "6:11": [
     {
       "surface": "temple",
-      "tw_match": "temple"
+      "tw_match": "temple",
+      "lemma": "temple"
     }
   ],
   "6:12": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "prophecy",
-      "tw_match": "prophecy"
+      "tw_match": "prophecy",
+      "lemma": "prophet"
     }
   ],
   "6:13": [
     {
       "surface": "afraid",
-      "tw_match": "afraid"
+      "tw_match": "afraid",
+      "lemma": "fear"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "might",
-      "tw_match": "might"
+      "tw_match": "might",
+      "lemma": "might"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "reproach",
-      "tw_match": "reproach"
+      "tw_match": "reproach",
+      "lemma": "shame"
     }
   ],
   "6:14": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "prophetess",
-      "tw_match": "prophetess"
+      "tw_match": "prophetess",
+      "lemma": "prophet"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "frightening",
-      "tw_match": "frighten"
+      "tw_match": "frighten",
+      "lemma": "fear"
     }
   ],
   "6:15": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "6:16": [
     {
       "surface": "enemies",
-      "tw_match": "enemy"
+      "tw_match": "enemy",
+      "lemma": "adversary"
     },
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     },
     {
       "surface": "afraid",
-      "tw_match": "afraid"
+      "tw_match": "afraid",
+      "lemma": "fear"
     },
     {
       "surface": "knew",
-      "tw_match": "knew"
+      "tw_match": "knew",
+      "lemma": "know"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "6:17": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "multiplying",
-      "tw_match": "multiply"
+      "tw_match": "multiply",
+      "lemma": "multiply"
     }
   ],
   "6:18": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "masters",
-      "tw_match": "master"
+      "tw_match": "master",
+      "lemma": "lord"
     },
     {
       "surface": "oath",
-      "tw_match": "oath"
+      "tw_match": "oath",
+      "lemma": "oath"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "6:19": [
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "frighten",
-      "tw_match": "frighten"
+      "tw_match": "frighten",
+      "lemma": "fear"
     }
   ],
   "7:1": [
     {
       "surface": "set up",
-      "tw_match": "set up"
+      "tw_match": "set up",
+      "lemma": "ordain"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     }
   ],
   "7:2": [
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     },
     {
       "surface": "official",
-      "tw_match": "official"
+      "tw_match": "official",
+      "lemma": "rule"
     },
     {
       "surface": "citadel",
-      "tw_match": "citadel"
+      "tw_match": "citadel",
+      "lemma": "stronghold"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     },
     {
       "surface": "feared",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "7:3": [
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "set up",
-      "tw_match": "set up"
+      "tw_match": "set up",
+      "lemma": "ordain"
     },
     {
       "surface": "watches",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     },
     {
       "surface": "watch",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     }
   ],
   "7:4": [
     {
       "surface": "houses",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     }
   ],
   "7:5": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     }
   ],
   "7:6": [
     {
       "surface": "province",
-      "tw_match": "province"
+      "tw_match": "province",
+      "lemma": "province"
     },
     {
       "surface": "captivity",
-      "tw_match": "captivity"
+      "tw_match": "captivity",
+      "lemma": "captive"
     },
     {
       "surface": "exiles",
-      "tw_match": "exile"
+      "tw_match": "exile",
+      "lemma": "exile"
     },
     {
       "surface": "Nebuchadnezzar",
-      "tw_match": "Nebuchadnezzar"
+      "tw_match": "Nebuchadnezzar",
+      "lemma": "Nebuchadnezzar"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Babylon",
-      "tw_match": "Babylon"
+      "tw_match": "Babylon",
+      "lemma": "Babylon"
     },
     {
       "surface": "exiled",
-      "tw_match": "exiled"
+      "tw_match": "exiled",
+      "lemma": "exile"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "7:7": [
     {
       "surface": "Zerubbabel",
-      "tw_match": "Zerubbabel"
+      "tw_match": "Zerubbabel",
+      "lemma": "Zerubbabel"
     },
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     },
     {
       "surface": "Mordecai",
-      "tw_match": "Mordecai"
+      "tw_match": "Mordecai",
+      "lemma": "Mordecai"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "7:8": [],
@@ -2281,17 +2785,20 @@
   "7:11": [
     {
       "surface": "Moab",
-      "tw_match": "Moab"
+      "tw_match": "Moab",
+      "lemma": "Moab"
     },
     {
       "surface": "Joab",
-      "tw_match": "Joab"
+      "tw_match": "Joab",
+      "lemma": "Joab"
     }
   ],
   "7:12": [
     {
       "surface": "Elam",
-      "tw_match": "Elam"
+      "tw_match": "Elam",
+      "lemma": "Elam"
     }
   ],
   "7:13": [],
@@ -2305,7 +2812,8 @@
   "7:21": [
     {
       "surface": "Hezekiah",
-      "tw_match": "Hezekiah"
+      "tw_match": "Hezekiah",
+      "lemma": "Hezekiah"
     }
   ],
   "7:22": [],
@@ -2314,13 +2822,15 @@
   "7:25": [
     {
       "surface": "Gibeon",
-      "tw_match": "Gibeon"
+      "tw_match": "Gibeon",
+      "lemma": "Gibeon"
     }
   ],
   "7:26": [
     {
       "surface": "Bethlehem",
-      "tw_match": "Bethlehem"
+      "tw_match": "Bethlehem",
+      "lemma": "Bethlehem"
     }
   ],
   "7:27": [],
@@ -2329,32 +2839,37 @@
   "7:30": [
     {
       "surface": "Ramah",
-      "tw_match": "Ramah"
+      "tw_match": "Ramah",
+      "lemma": "Ramah"
     }
   ],
   "7:31": [],
   "7:32": [
     {
       "surface": "Bethel",
-      "tw_match": "Bethel"
+      "tw_match": "Bethel",
+      "lemma": "Bethel"
     },
     {
       "surface": "Ai",
-      "tw_match": "Ai"
+      "tw_match": "Ai",
+      "lemma": "Ai"
     }
   ],
   "7:33": [],
   "7:34": [
     {
       "surface": "Elam",
-      "tw_match": "Elam"
+      "tw_match": "Elam",
+      "lemma": "Elam"
     }
   ],
   "7:35": [],
   "7:36": [
     {
       "surface": "Jericho",
-      "tw_match": "Jericho"
+      "tw_match": "Jericho",
+      "lemma": "Jericho"
     }
   ],
   "7:37": [],
@@ -2362,11 +2877,13 @@
   "7:39": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     }
   ],
   "7:40": [],
@@ -2375,19 +2892,22 @@
   "7:43": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     }
   ],
   "7:44": [
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     }
   ],
   "7:45": [
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     }
   ],
   "7:46": [],
@@ -2404,11 +2924,13 @@
   "7:57": [
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "7:58": [],
@@ -2416,1515 +2938,1858 @@
   "7:60": [
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "7:61": [
     {
       "surface": "tell",
-      "tw_match": "tell"
+      "tw_match": "tell",
+      "lemma": "report"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "seed",
-      "tw_match": "seed"
+      "tw_match": "seed",
+      "lemma": "seed"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "7:62": [],
   "7:63": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Gileadite",
-      "tw_match": "Gileadite"
+      "tw_match": "Gileadite",
+      "lemma": "Gilead"
     },
     {
       "surface": "called",
-      "tw_match": "called"
+      "tw_match": "called",
+      "lemma": "call"
     }
   ],
   "7:64": [
     {
       "surface": "desecrated",
-      "tw_match": "desecrated"
+      "tw_match": "desecrated",
+      "lemma": "desecrate"
     },
     {
       "surface": "priesthood",
-      "tw_match": "priesthood"
+      "tw_match": "priesthood",
+      "lemma": "priest"
     }
   ],
   "7:65": [
     {
       "surface": "Tirshatha",
-      "tw_match": "Tirshatha"
+      "tw_match": "Tirshatha",
+      "lemma": "govern"
     },
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "7:66": [
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     }
   ],
   "7:67": [
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     }
   ],
   "7:68": [
     {
       "surface": "horses",
-      "tw_match": "horse"
+      "tw_match": "horse",
+      "lemma": "horse"
     },
     {
       "surface": "mules",
-      "tw_match": "mule"
+      "tw_match": "mule",
+      "lemma": "donkey"
     }
   ],
   "7:69": [
     {
       "surface": "camels",
-      "tw_match": "camel"
+      "tw_match": "camel",
+      "lemma": "camel"
     },
     {
       "surface": "donkeys",
-      "tw_match": "donkey"
+      "tw_match": "donkey",
+      "lemma": "donkey"
     }
   ],
   "7:70": [
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "Tirshatha",
-      "tw_match": "Tirshatha"
+      "tw_match": "Tirshatha",
+      "lemma": "govern"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "tunics",
-      "tw_match": "tunic"
+      "tw_match": "tunic",
+      "lemma": "tunic"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "7:71": [
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     }
   ],
   "7:72": [
     {
       "surface": "remnant",
-      "tw_match": "remnant"
+      "tw_match": "remnant",
+      "lemma": "remnant"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "tunics",
-      "tw_match": "tunic"
+      "tw_match": "tunic",
+      "lemma": "tunic"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "7:73": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     }
   ],
   "8:1": [
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     },
     {
       "surface": "law of Moses",
-      "tw_match": "law of Moses"
+      "tw_match": "law of Moses",
+      "lemma": "law"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "8:2": [
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     },
     {
       "surface": "understanding",
-      "tw_match": "understanding"
+      "tw_match": "understanding",
+      "lemma": "understand"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     }
   ],
   "8:3": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "understanding",
-      "tw_match": "understanding"
+      "tw_match": "understanding",
+      "lemma": "understand"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "8:4": [
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     },
     {
       "surface": "Uriah",
-      "tw_match": "Uriah"
+      "tw_match": "Uriah",
+      "lemma": "Uriah"
     },
     {
       "surface": "Hilkiah",
-      "tw_match": "Hilkiah"
+      "tw_match": "Hilkiah",
+      "lemma": "Hilkiah"
     },
     {
       "surface": "right",
-      "tw_match": "right"
+      "tw_match": "right",
+      "lemma": "good"
     },
     {
       "surface": "Mishael",
-      "tw_match": "Mishael"
+      "tw_match": "Mishael",
+      "lemma": "Mishael"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     }
   ],
   "8:5": [
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     }
   ],
   "8:6": [
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "blessed",
-      "tw_match": "blessed"
+      "tw_match": "blessed",
+      "lemma": "bless"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "Amen",
-      "tw_match": "amen"
+      "tw_match": "amen",
+      "lemma": "amen"
     },
     {
       "surface": "prostrated",
-      "tw_match": "prostrate"
+      "tw_match": "prostrate",
+      "lemma": "prostrate"
     }
   ],
   "8:7": [
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "understand",
-      "tw_match": "understand"
+      "tw_match": "understand",
+      "lemma": "understand"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "8:8": [
     {
       "surface": "law of God",
-      "tw_match": "law of God"
+      "tw_match": "law of God",
+      "lemma": "law"
     },
     {
       "surface": "interpretation",
-      "tw_match": "interpretation"
+      "tw_match": "interpretation",
+      "lemma": "interpret"
     }
   ],
   "8:9": [
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "Tirshatha",
-      "tw_match": "Tirshatha"
+      "tw_match": "Tirshatha",
+      "lemma": "govern"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "understand",
-      "tw_match": "understand"
+      "tw_match": "understand",
+      "lemma": "understand"
     },
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "mourn",
-      "tw_match": "mourn"
+      "tw_match": "mourn",
+      "lemma": "mourn"
     },
     {
       "surface": "weeping",
-      "tw_match": "weeping"
+      "tw_match": "weeping",
+      "lemma": "mourn"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "8:10": [
     {
       "surface": "prepared",
-      "tw_match": "prepared"
+      "tw_match": "prepared",
+      "lemma": "ordain"
     },
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "Lord",
-      "tw_match": "Lord"
+      "tw_match": "Lord",
+      "lemma": "lord"
     },
     {
       "surface": "joy",
-      "tw_match": "joy"
+      "tw_match": "joy",
+      "lemma": "joy"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     }
   ],
   "8:11": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     }
   ],
   "8:12": [
     {
       "surface": "rejoicing",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     }
   ],
   "8:13": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "8:14": [
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "feast",
-      "tw_match": "feast"
+      "tw_match": "feast",
+      "lemma": "feast"
     },
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     }
   ],
   "8:15": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "olive",
-      "tw_match": "olive"
+      "tw_match": "olive",
+      "lemma": "olive"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "palms",
-      "tw_match": "palm"
+      "tw_match": "palm",
+      "lemma": "palm"
     }
   ],
   "8:16": [
     {
       "surface": "courtyards",
-      "tw_match": "courtyard"
+      "tw_match": "courtyard",
+      "lemma": "court"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Ephraim",
-      "tw_match": "Ephraim"
+      "tw_match": "Ephraim",
+      "lemma": "Ephraim"
     }
   ],
   "8:17": [
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     },
     {
       "surface": "captivity",
-      "tw_match": "captivity"
+      "tw_match": "captivity",
+      "lemma": "captive"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Joshua",
-      "tw_match": "Joshua"
+      "tw_match": "Joshua",
+      "lemma": "Joshua"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "rejoicing",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     }
   ],
   "8:18": [
     {
       "surface": "law of God",
-      "tw_match": "law of God"
+      "tw_match": "law of God",
+      "lemma": "law"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "last day",
-      "tw_match": "last day"
+      "tw_match": "last day",
+      "lemma": "last day"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "feast",
-      "tw_match": "feast"
+      "tw_match": "feast",
+      "lemma": "feast"
     },
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     },
     {
       "surface": "ordinance",
-      "tw_match": "ordinance"
+      "tw_match": "ordinance",
+      "lemma": "ordinance"
     }
   ],
   "9:1": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "month",
-      "tw_match": "month"
+      "tw_match": "month",
+      "lemma": "month"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "fasting",
-      "tw_match": "fasting"
+      "tw_match": "fasting",
+      "lemma": "fast"
     },
     {
       "surface": "sackcloth",
-      "tw_match": "sackcloth"
+      "tw_match": "sackcloth",
+      "lemma": "sackcloth"
     }
   ],
   "9:2": [
     {
       "surface": "seed",
-      "tw_match": "seed"
+      "tw_match": "seed",
+      "lemma": "seed"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "foreigner",
-      "tw_match": "foreigner"
+      "tw_match": "foreigner",
+      "lemma": "alien"
     },
     {
       "surface": "confessed",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "iniquities",
-      "tw_match": "iniquity"
+      "tw_match": "iniquity",
+      "lemma": "iniquity"
     }
   ],
   "9:3": [
     {
       "surface": "law of Yahweh",
-      "tw_match": "law of Yahweh"
+      "tw_match": "law of Yahweh",
+      "lemma": "law"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "confessing",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "prostrating",
-      "tw_match": "prostrate"
+      "tw_match": "prostrate",
+      "lemma": "prostrate"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     }
   ],
   "9:4": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "9:5": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Bless",
-      "tw_match": "bless"
+      "tw_match": "bless",
+      "lemma": "bless"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "eternity",
-      "tw_match": "eternity"
+      "tw_match": "eternity",
+      "lemma": "eternity"
     },
     {
       "surface": "bless",
-      "tw_match": "bless"
+      "tw_match": "bless",
+      "lemma": "bless"
     },
     {
       "surface": "glorious",
-      "tw_match": "glorious"
+      "tw_match": "glorious",
+      "lemma": "glory"
     },
     {
       "surface": "exalted",
-      "tw_match": "exalted"
+      "tw_match": "exalted",
+      "lemma": "exalt"
     },
     {
       "surface": "blessing",
-      "tw_match": "blessing"
+      "tw_match": "blessing",
+      "lemma": "bless"
     },
     {
       "surface": "praise",
-      "tw_match": "praise"
+      "tw_match": "praise",
+      "lemma": "praise"
     }
   ],
   "9:6": [
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "heavens",
-      "tw_match": "heavens"
+      "tw_match": "heavens",
+      "lemma": "heaven"
     },
     {
       "surface": "earth",
-      "tw_match": "earth"
+      "tw_match": "earth",
+      "lemma": "earth"
     },
     {
       "surface": "host of the heavens",
-      "tw_match": "host of the heavens"
+      "tw_match": "host of the heavens",
+      "lemma": "Yahweh of hosts"
     },
     {
       "surface": "prostrates",
-      "tw_match": "prostrate"
+      "tw_match": "prostrate",
+      "lemma": "prostrate"
     }
   ],
   "9:7": [
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "Abram",
-      "tw_match": "Abram"
+      "tw_match": "Abram",
+      "lemma": "Abraham"
     },
     {
       "surface": "Ur",
-      "tw_match": "Ur"
+      "tw_match": "Ur",
+      "lemma": "Ur"
     },
     {
       "surface": "Abraham",
-      "tw_match": "Abraham"
+      "tw_match": "Abraham",
+      "lemma": "Abraham"
     }
   ],
   "9:8": [
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     },
     {
       "surface": "covenant",
-      "tw_match": "covenant"
+      "tw_match": "covenant",
+      "lemma": "covenant"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "Canaanites",
-      "tw_match": "Canaanite"
+      "tw_match": "Canaanite",
+      "lemma": "Canaan"
     },
     {
       "surface": "Hittites",
-      "tw_match": "Hittite"
+      "tw_match": "Hittite",
+      "lemma": "Hittite"
     },
     {
       "surface": "Amorites",
-      "tw_match": "Amorite"
+      "tw_match": "Amorite",
+      "lemma": "Amorite"
     },
     {
       "surface": "Perizzites",
-      "tw_match": "Perizzite"
+      "tw_match": "Perizzite",
+      "lemma": "Perizzite"
     },
     {
       "surface": "Jebusites",
-      "tw_match": "Jebusite"
+      "tw_match": "Jebusite",
+      "lemma": "Jebus"
     },
     {
       "surface": "Girgashites",
-      "tw_match": "Girgashites"
+      "tw_match": "Girgashites",
+      "lemma": "Girgashites"
     },
     {
       "surface": "seed",
-      "tw_match": "seed"
+      "tw_match": "seed",
+      "lemma": "seed"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     }
   ],
   "9:9": [
     {
       "surface": "affliction",
-      "tw_match": "affliction"
+      "tw_match": "affliction",
+      "lemma": "afflict"
     },
     {
       "surface": "Egypt",
-      "tw_match": "Egypt"
+      "tw_match": "Egypt",
+      "lemma": "Egypt"
     },
     {
       "surface": "cry",
-      "tw_match": "cry"
+      "tw_match": "cry",
+      "lemma": "cry"
     },
     {
       "surface": "the sea",
-      "tw_match": "the sea"
+      "tw_match": "the sea",
+      "lemma": "the sea"
     },
     {
       "surface": "reeds",
-      "tw_match": "reed"
+      "tw_match": "reed",
+      "lemma": "reed"
     }
   ],
   "9:10": [
     {
       "surface": "signs",
-      "tw_match": "sign"
+      "tw_match": "sign",
+      "lemma": "miracle"
     },
     {
       "surface": "wonders",
-      "tw_match": "wonder"
+      "tw_match": "wonder",
+      "lemma": "miracle"
     },
     {
       "surface": "Pharaoh",
-      "tw_match": "Pharaoh"
+      "tw_match": "Pharaoh",
+      "lemma": "Pharaoh"
     },
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "knew",
-      "tw_match": "knew"
+      "tw_match": "knew",
+      "lemma": "know"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "9:11": [
     {
       "surface": "the sea",
-      "tw_match": "the sea"
+      "tw_match": "the sea",
+      "lemma": "the sea"
     },
     {
       "surface": "dry",
-      "tw_match": "dry"
+      "tw_match": "dry",
+      "lemma": "barren"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "stone",
-      "tw_match": "stone"
+      "tw_match": "stone",
+      "lemma": "stone"
     },
     {
       "surface": "mighty",
-      "tw_match": "mighty"
+      "tw_match": "mighty",
+      "lemma": "might"
     }
   ],
   "9:12": [
     {
       "surface": "pillar",
-      "tw_match": "pillar"
+      "tw_match": "pillar",
+      "lemma": "column"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "9:13": [
     {
       "surface": "Sinai",
-      "tw_match": "Sinai"
+      "tw_match": "Sinai",
+      "lemma": "Sinai"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     },
     {
       "surface": "judgments",
-      "tw_match": "judgment"
+      "tw_match": "judgment",
+      "lemma": "judge"
     },
     {
       "surface": "laws",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "statutes",
-      "tw_match": "statute"
+      "tw_match": "statute",
+      "lemma": "statute"
     }
   ],
   "9:14": [
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "statutes",
-      "tw_match": "statute"
+      "tw_match": "statute",
+      "lemma": "statute"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     }
   ],
   "9:15": [
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "possess",
-      "tw_match": "possess"
+      "tw_match": "possess",
+      "lemma": "possess"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     }
   ],
   "9:16": [],
   "9:17": [
     {
       "surface": "rebellion",
-      "tw_match": "rebellion"
+      "tw_match": "rebellion",
+      "lemma": "rebel"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "forgiveness",
-      "tw_match": "forgiveness"
+      "tw_match": "forgiveness",
+      "lemma": "forgive"
     },
     {
       "surface": "gracious",
-      "tw_match": "gracious"
+      "tw_match": "gracious",
+      "lemma": "grace"
     },
     {
       "surface": "compassionate",
-      "tw_match": "compassionate"
+      "tw_match": "compassionate",
+      "lemma": "compassion"
     },
     {
       "surface": "covenant faithfulness",
-      "tw_match": "covenant faithfulness"
+      "tw_match": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
     },
     {
       "surface": "forsake",
-      "tw_match": "forsake"
+      "tw_match": "forsake",
+      "lemma": "forsake"
     }
   ],
   "9:18": [
     {
       "surface": "calf",
-      "tw_match": "calf"
+      "tw_match": "calf",
+      "lemma": "cow"
     },
     {
       "surface": "image",
-      "tw_match": "image"
+      "tw_match": "image",
+      "lemma": "image of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "Egypt",
-      "tw_match": "Egypt"
+      "tw_match": "Egypt",
+      "lemma": "Egypt"
     },
     {
       "surface": "blasphemies",
-      "tw_match": "blasphemy"
+      "tw_match": "blasphemy",
+      "lemma": "blasphemy"
     }
   ],
   "9:19": [
     {
       "surface": "mercies",
-      "tw_match": "mercy"
+      "tw_match": "mercy",
+      "lemma": "mercy"
     },
     {
       "surface": "forsake",
-      "tw_match": "forsake"
+      "tw_match": "forsake",
+      "lemma": "forsake"
     },
     {
       "surface": "wilderness",
-      "tw_match": "wilderness"
+      "tw_match": "wilderness",
+      "lemma": "desert"
     },
     {
       "surface": "pillar",
-      "tw_match": "pillar"
+      "tw_match": "pillar",
+      "lemma": "column"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "9:20": [
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "manna",
-      "tw_match": "manna"
+      "tw_match": "manna",
+      "lemma": "manna"
     }
   ],
   "9:21": [
     {
       "surface": "years",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "wilderness",
-      "tw_match": "wilderness"
+      "tw_match": "wilderness",
+      "lemma": "desert"
     }
   ],
   "9:22": [
     {
       "surface": "kingdoms",
-      "tw_match": "kingdom"
+      "tw_match": "kingdom",
+      "lemma": "kingdom"
     },
     {
       "surface": "possession",
-      "tw_match": "possession"
+      "tw_match": "possession",
+      "lemma": "possess"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "Sihon",
-      "tw_match": "Sihon"
+      "tw_match": "Sihon",
+      "lemma": "Sihon"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Heshbon",
-      "tw_match": "Heshbon"
+      "tw_match": "Heshbon",
+      "lemma": "Heshbon"
     },
     {
       "surface": "Og",
-      "tw_match": "Og"
+      "tw_match": "Og",
+      "lemma": "Og"
     },
     {
       "surface": "Bashan",
-      "tw_match": "Bashan"
+      "tw_match": "Bashan",
+      "lemma": "Bashan"
     }
   ],
   "9:23": [
     {
       "surface": "multiplied",
-      "tw_match": "multiplied"
+      "tw_match": "multiplied",
+      "lemma": "multiply"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "heavens",
-      "tw_match": "heavens"
+      "tw_match": "heavens",
+      "lemma": "heaven"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "possess",
-      "tw_match": "possess"
+      "tw_match": "possess",
+      "lemma": "possess"
     }
   ],
   "9:24": [
     {
       "surface": "possessed",
-      "tw_match": "possessed"
+      "tw_match": "possessed",
+      "lemma": "possess"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "Canaanites",
-      "tw_match": "Canaanite"
+      "tw_match": "Canaanite",
+      "lemma": "Canaan"
     },
     {
       "surface": "kings",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "9:25": [
     {
       "surface": "captured",
-      "tw_match": "capture"
+      "tw_match": "capture",
+      "lemma": "seize"
     },
     {
       "surface": "possessed",
-      "tw_match": "possessed"
+      "tw_match": "possessed",
+      "lemma": "possess"
     },
     {
       "surface": "houses",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "cisterns",
-      "tw_match": "cistern"
+      "tw_match": "cistern",
+      "lemma": "pit"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     },
     {
       "surface": "olive",
-      "tw_match": "olive"
+      "tw_match": "olive",
+      "lemma": "olive"
     }
   ],
   "9:26": [
     {
       "surface": "rebelled",
-      "tw_match": "rebel"
+      "tw_match": "rebel",
+      "lemma": "rebel"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "killed",
-      "tw_match": "kill"
+      "tw_match": "kill",
+      "lemma": "slay"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "blasphemies",
-      "tw_match": "blasphemy"
+      "tw_match": "blasphemy",
+      "lemma": "blasphemy"
     }
   ],
   "9:27": [
     {
       "surface": "adversaries",
-      "tw_match": "adversary"
+      "tw_match": "adversary",
+      "lemma": "adversary"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "distress",
-      "tw_match": "distress"
+      "tw_match": "distress",
+      "lemma": "afflict"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "mercies",
-      "tw_match": "mercy"
+      "tw_match": "mercy",
+      "lemma": "mercy"
     },
     {
       "surface": "saviors",
-      "tw_match": "savior"
+      "tw_match": "savior",
+      "lemma": "Savior"
     },
     {
       "surface": "saved",
-      "tw_match": "saved"
+      "tw_match": "saved",
+      "lemma": "save"
     }
   ],
   "9:28": [
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "enemies",
-      "tw_match": "enemy"
+      "tw_match": "enemy",
+      "lemma": "adversary"
     },
     {
       "surface": "heaven",
-      "tw_match": "heaven"
+      "tw_match": "heaven",
+      "lemma": "heaven"
     },
     {
       "surface": "delivered",
-      "tw_match": "delivered"
+      "tw_match": "delivered",
+      "lemma": "deliver"
     },
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "mercies",
-      "tw_match": "mercy"
+      "tw_match": "mercy",
+      "lemma": "mercy"
     }
   ],
   "9:29": [
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "judgments",
-      "tw_match": "judgment"
+      "tw_match": "judgment",
+      "lemma": "judge"
     },
     {
       "surface": "sinned",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "person",
-      "tw_match": "person"
+      "tw_match": "person",
+      "lemma": "soul"
     }
   ],
   "9:30": [
     {
       "surface": "years",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "lands",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     }
   ],
   "9:31": [
     {
       "surface": "mercies",
-      "tw_match": "mercy"
+      "tw_match": "mercy",
+      "lemma": "mercy"
     },
     {
       "surface": "complete",
-      "tw_match": "complete"
+      "tw_match": "complete",
+      "lemma": "perfect"
     },
     {
       "surface": "forsake",
-      "tw_match": "forsake"
+      "tw_match": "forsake",
+      "lemma": "forsake"
     },
     {
       "surface": "gracious",
-      "tw_match": "gracious"
+      "tw_match": "gracious",
+      "lemma": "grace"
     },
     {
       "surface": "merciful",
-      "tw_match": "merciful"
+      "tw_match": "merciful",
+      "lemma": "mercy"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "9:32": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "mighty",
-      "tw_match": "mighty"
+      "tw_match": "mighty",
+      "lemma": "might"
     },
     {
       "surface": "keeps",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "covenant",
-      "tw_match": "covenant"
+      "tw_match": "covenant",
+      "lemma": "covenant"
     },
     {
       "surface": "covenant faithfulness",
-      "tw_match": "covenant faithfulness"
+      "tw_match": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
     },
     {
       "surface": "hardship",
-      "tw_match": "hardship"
+      "tw_match": "hardship",
+      "lemma": "trouble"
     },
     {
       "surface": "kings",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "leaders",
-      "tw_match": "leader"
+      "tw_match": "leader",
+      "lemma": "chief"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Assyria",
-      "tw_match": "Assyria"
+      "tw_match": "Assyria",
+      "lemma": "Assyria"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "9:33": [
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     }
   ],
   "9:34": [
     {
       "surface": "kings",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "leaders",
-      "tw_match": "leader"
+      "tw_match": "leader",
+      "lemma": "chief"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "testimonies",
-      "tw_match": "testimony"
+      "tw_match": "testimony",
+      "lemma": "testimony"
     }
   ],
   "9:35": [
     {
       "surface": "serve",
-      "tw_match": "serve"
+      "tw_match": "serve",
+      "lemma": "servant"
     },
     {
       "surface": "kingdom",
-      "tw_match": "kingdom"
+      "tw_match": "kingdom",
+      "lemma": "kingdom"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     }
   ],
   "9:36": [
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     }
   ],
   "9:37": [
     {
       "surface": "produce",
-      "tw_match": "produce"
+      "tw_match": "produce",
+      "lemma": "bear"
     },
     {
       "surface": "kings",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "ruling",
-      "tw_match": "rule"
+      "tw_match": "rule",
+      "lemma": "reign"
     },
     {
       "surface": "livestock",
-      "tw_match": "livestock"
+      "tw_match": "livestock",
+      "lemma": "livestock"
     },
     {
       "surface": "distress",
-      "tw_match": "distress"
+      "tw_match": "distress",
+      "lemma": "afflict"
     }
   ],
   "9:38": [
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     },
     {
       "surface": "covenant",
-      "tw_match": "covenant"
+      "tw_match": "covenant",
+      "lemma": "covenant"
     },
     {
       "surface": "sealed",
-      "tw_match": "sealed"
+      "tw_match": "sealed",
+      "lemma": "seal"
     },
     {
       "surface": "leaders",
-      "tw_match": "leader"
+      "tw_match": "leader",
+      "lemma": "chief"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "10:1": [
     {
       "surface": "sealed",
-      "tw_match": "sealed"
+      "tw_match": "sealed",
+      "lemma": "seal"
     },
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "Tirshatha",
-      "tw_match": "Tirshatha"
+      "tw_match": "Tirshatha",
+      "lemma": "govern"
     },
     {
       "surface": "Zedekiah",
-      "tw_match": "Zedekiah"
+      "tw_match": "Zedekiah",
+      "lemma": "Zedekiah"
     }
   ],
   "10:2": [
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     },
     {
       "surface": "Jeremiah",
-      "tw_match": "Jeremiah"
+      "tw_match": "Jeremiah",
+      "lemma": "Jeremiah"
     }
   ],
   "10:3": [],
@@ -3932,35 +4797,41 @@
   "10:5": [
     {
       "surface": "Obadiah",
-      "tw_match": "Obadiah"
+      "tw_match": "Obadiah",
+      "lemma": "Obadiah"
     }
   ],
   "10:6": [
     {
       "surface": "Daniel",
-      "tw_match": "Daniel"
+      "tw_match": "Daniel",
+      "lemma": "Daniel"
     },
     {
       "surface": "Baruch",
-      "tw_match": "Baruch"
+      "tw_match": "Baruch",
+      "lemma": "Baruch"
     }
   ],
   "10:7": [
     {
       "surface": "Abijah",
-      "tw_match": "Abijah"
+      "tw_match": "Abijah",
+      "lemma": "Abijah"
     }
   ],
   "10:8": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "10:9": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     }
   ],
   "10:10": [],
@@ -3970,24 +4841,28 @@
   "10:14": [
     {
       "surface": "Moab",
-      "tw_match": "Moab"
+      "tw_match": "Moab",
+      "lemma": "Moab"
     },
     {
       "surface": "Elam",
-      "tw_match": "Elam"
+      "tw_match": "Elam",
+      "lemma": "Elam"
     }
   ],
   "10:15": [],
   "10:16": [
     {
       "surface": "Adonijah",
-      "tw_match": "Adonijah"
+      "tw_match": "Adonijah",
+      "lemma": "Adonijah"
     }
   ],
   "10:17": [
     {
       "surface": "Hezekiah",
-      "tw_match": "Hezekiah"
+      "tw_match": "Hezekiah",
+      "lemma": "Hezekiah"
     }
   ],
   "10:18": [],
@@ -3996,18 +4871,21 @@
   "10:21": [
     {
       "surface": "Zadok",
-      "tw_match": "Zadok"
+      "tw_match": "Zadok",
+      "lemma": "Zadok"
     }
   ],
   "10:22": [],
   "10:23": [
     {
       "surface": "Hoshea",
-      "tw_match": "Hoshea"
+      "tw_match": "Hoshea",
+      "lemma": "Hoshea"
     },
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     }
   ],
   "10:24": [],
@@ -4017,769 +4895,940 @@
   "10:28": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "lands",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "law of God",
-      "tw_match": "law of God"
+      "tw_match": "law of God",
+      "lemma": "law"
     },
     {
       "surface": "knowing",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "understand",
-      "tw_match": "understand"
+      "tw_match": "understand",
+      "lemma": "understand"
     }
   ],
   "10:29": [
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "curse",
-      "tw_match": "curse"
+      "tw_match": "curse",
+      "lemma": "curse"
     },
     {
       "surface": "oath",
-      "tw_match": "oath"
+      "tw_match": "oath",
+      "lemma": "oath"
     },
     {
       "surface": "law of God",
-      "tw_match": "law of God"
+      "tw_match": "law of God",
+      "lemma": "law"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "servant",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "Lord",
-      "tw_match": "Lord"
+      "tw_match": "Lord",
+      "lemma": "lord"
     },
     {
       "surface": "judgments",
-      "tw_match": "judgment"
+      "tw_match": "judgment",
+      "lemma": "judge"
     },
     {
       "surface": "statutes",
-      "tw_match": "statute"
+      "tw_match": "statute",
+      "lemma": "statute"
     }
   ],
   "10:30": [
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     }
   ],
   "10:31": [
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "goods",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "leave",
-      "tw_match": "leave"
+      "tw_match": "leave",
+      "lemma": "forsake"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     }
   ],
   "10:32": [
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "10:33": [
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     },
     {
       "surface": "offering",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "burnt offering",
-      "tw_match": "burnt offering"
+      "tw_match": "burnt offering",
+      "lemma": "burnt offering"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "holy",
-      "tw_match": "holy"
+      "tw_match": "holy",
+      "lemma": "holy"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "offerings",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "10:34": [
     {
       "surface": "lots",
-      "tw_match": "lots"
+      "tw_match": "lots",
+      "lemma": "lots"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "offering",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "altar",
-      "tw_match": "altar"
+      "tw_match": "altar",
+      "lemma": "altar"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "10:35": [
     {
       "surface": "firstfruits",
-      "tw_match": "firstfruits"
+      "tw_match": "firstfruits",
+      "lemma": "firstfruits"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "Yahweh",
-      "tw_match": "Yahweh"
+      "tw_match": "Yahweh",
+      "lemma": "Yahweh"
     }
   ],
   "10:36": [
     {
       "surface": "firstborns",
-      "tw_match": "firstborn"
+      "tw_match": "firstborn",
+      "lemma": "firstborn"
     },
     {
       "surface": "livestock",
-      "tw_match": "livestock"
+      "tw_match": "livestock",
+      "lemma": "livestock"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "herds",
-      "tw_match": "herd"
+      "tw_match": "herd",
+      "lemma": "flock"
     },
     {
       "surface": "flocks",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "10:37": [
     {
       "surface": "offerings",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "tithe",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "receiving",
-      "tw_match": "receive"
+      "tw_match": "receive",
+      "lemma": "receive"
     },
     {
       "surface": "tithes",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "labor",
-      "tw_match": "labor"
+      "tw_match": "labor",
+      "lemma": "labor"
     }
   ],
   "10:38": [
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Aaron",
-      "tw_match": "Aaron"
+      "tw_match": "Aaron",
+      "lemma": "Aaron"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "receive",
-      "tw_match": "receive"
+      "tw_match": "receive",
+      "lemma": "receive"
     },
     {
       "surface": "tithes",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "tithe",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "10:39": [
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "Levi",
-      "tw_match": "Levi"
+      "tw_match": "Levi",
+      "lemma": "Levi"
     },
     {
       "surface": "offerings",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "sanctuary",
-      "tw_match": "sanctuary"
+      "tw_match": "sanctuary",
+      "lemma": "sanctuary"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "11:1": [
     {
       "surface": "leaders",
-      "tw_match": "leader"
+      "tw_match": "leader",
+      "lemma": "chief"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "lots",
-      "tw_match": "lots"
+      "tw_match": "lots",
+      "lemma": "lots"
     },
     {
       "surface": "holy city",
-      "tw_match": "holy city"
+      "tw_match": "holy city",
+      "lemma": "holy city"
     }
   ],
   "11:2": [
     {
       "surface": "blessed",
-      "tw_match": "blessed"
+      "tw_match": "blessed",
+      "lemma": "bless"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "11:3": [
     {
       "surface": "province",
-      "tw_match": "province"
+      "tw_match": "province",
+      "lemma": "province"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "servants",
-      "tw_match": "servant"
+      "tw_match": "servant",
+      "lemma": "servant"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "11:4": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "Uzziah",
-      "tw_match": "Uzziah"
+      "tw_match": "Uzziah",
+      "lemma": "Uzziah"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     }
   ],
   "11:5": [
     {
       "surface": "Baruch",
-      "tw_match": "Baruch"
+      "tw_match": "Baruch",
+      "lemma": "Baruch"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     }
   ],
   "11:6": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "11:7": [
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     }
   ],
   "11:8": [],
   "11:9": [
     {
       "surface": "Joel",
-      "tw_match": "Joel"
+      "tw_match": "Joel",
+      "lemma": "Joel"
     },
     {
       "surface": "overseer",
-      "tw_match": "overseer"
+      "tw_match": "overseer",
+      "lemma": "oversee"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "11:10": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "11:11": [
     {
       "surface": "Hilkiah",
-      "tw_match": "Hilkiah"
+      "tw_match": "Hilkiah",
+      "lemma": "Hilkiah"
     },
     {
       "surface": "Zadok",
-      "tw_match": "Zadok"
+      "tw_match": "Zadok",
+      "lemma": "Zadok"
     },
     {
       "surface": "leader",
-      "tw_match": "leader"
+      "tw_match": "leader",
+      "lemma": "chief"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "11:12": [
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     }
   ],
   "11:13": [],
   "11:14": [
     {
       "surface": "mighty",
-      "tw_match": "mighty"
+      "tw_match": "mighty",
+      "lemma": "might"
     },
     {
       "surface": "overseer",
-      "tw_match": "overseer"
+      "tw_match": "overseer",
+      "lemma": "oversee"
     }
   ],
   "11:15": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     }
   ],
   "11:16": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "11:17": [
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     },
     {
       "surface": "prayer",
-      "tw_match": "prayer"
+      "tw_match": "prayer",
+      "lemma": "pray"
     }
   ],
   "11:18": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "holy city",
-      "tw_match": "holy city"
+      "tw_match": "holy city",
+      "lemma": "holy city"
     }
   ],
   "11:19": [
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "guarded",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "11:20": [
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "inheritance",
-      "tw_match": "inheritance"
+      "tw_match": "inheritance",
+      "lemma": "inherit"
     }
   ],
   "11:21": [],
   "11:22": [
     {
       "surface": "overseer",
-      "tw_match": "overseer"
+      "tw_match": "overseer",
+      "lemma": "oversee"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "11:23": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "11:24": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "11:25": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Kiriath Arba",
-      "tw_match": "Kiriath Arba"
+      "tw_match": "Kiriath Arba",
+      "lemma": "Hebron"
     }
   ],
   "11:26": [],
   "11:27": [
     {
       "surface": "Beersheba",
-      "tw_match": "Beersheba"
+      "tw_match": "Beersheba",
+      "lemma": "Beersheba"
     }
   ],
   "11:28": [],
   "11:29": [
     {
       "surface": "Rimmon",
-      "tw_match": "Rimmon"
+      "tw_match": "Rimmon",
+      "lemma": "Rimmon"
     }
   ],
   "11:30": [
     {
       "surface": "Beersheba",
-      "tw_match": "Beersheba"
+      "tw_match": "Beersheba",
+      "lemma": "Beersheba"
     }
   ],
   "11:31": [
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     },
     {
       "surface": "Bethel",
-      "tw_match": "Bethel"
+      "tw_match": "Bethel",
+      "lemma": "Bethel"
     }
   ],
   "11:32": [],
   "11:33": [
     {
       "surface": "Ramah",
-      "tw_match": "Ramah"
+      "tw_match": "Ramah",
+      "lemma": "Ramah"
     }
   ],
   "11:34": [],
@@ -4787,37 +5836,45 @@
   "11:36": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     }
   ],
   "12:1": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Zerubbabel",
-      "tw_match": "Zerubbabel"
+      "tw_match": "Zerubbabel",
+      "lemma": "Zerubbabel"
     },
     {
       "surface": "Jeremiah",
-      "tw_match": "Jeremiah"
+      "tw_match": "Jeremiah",
+      "lemma": "Jeremiah"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     }
   ],
   "12:2": [],
@@ -4825,7 +5882,8 @@
   "12:4": [
     {
       "surface": "Abijah",
-      "tw_match": "Abijah"
+      "tw_match": "Abijah",
+      "lemma": "Abijah"
     }
   ],
   "12:5": [],
@@ -4833,85 +5891,101 @@
   "12:7": [
     {
       "surface": "Hilkiah",
-      "tw_match": "Hilkiah"
+      "tw_match": "Hilkiah",
+      "lemma": "Hilkiah"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "12:8": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "12:9": [
     {
       "surface": "watches",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     }
   ],
   "12:10": [],
   "12:11": [
     {
       "surface": "Jonathan",
-      "tw_match": "Jonathan"
+      "tw_match": "Jonathan",
+      "lemma": "Jonathan"
     }
   ],
   "12:12": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Jeremiah",
-      "tw_match": "Jeremiah"
+      "tw_match": "Jeremiah",
+      "lemma": "Jeremiah"
     },
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     }
   ],
   "12:13": [
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     }
   ],
   "12:14": [
     {
       "surface": "Jonathan",
-      "tw_match": "Jonathan"
+      "tw_match": "Jonathan",
+      "lemma": "Jonathan"
     },
     {
       "surface": "Joseph",
-      "tw_match": "Joseph"
+      "tw_match": "Joseph",
+      "lemma": "Joseph"
     }
   ],
   "12:15": [],
   "12:16": [
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     }
   ],
   "12:17": [
     {
       "surface": "Abijah",
-      "tw_match": "Abijah"
+      "tw_match": "Abijah",
+      "lemma": "Abijah"
     }
   ],
   "12:18": [],
@@ -4920,1193 +5994,1462 @@
   "12:21": [
     {
       "surface": "Hilkiah",
-      "tw_match": "Hilkiah"
+      "tw_match": "Hilkiah",
+      "lemma": "Hilkiah"
     }
   ],
   "12:22": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "reign",
-      "tw_match": "reign"
+      "tw_match": "reign",
+      "lemma": "reign"
     },
     {
       "surface": "Darius",
-      "tw_match": "Darius"
+      "tw_match": "Darius",
+      "lemma": "Darius"
     }
   ],
   "12:23": [
     {
       "surface": "Levi",
-      "tw_match": "Levi"
+      "tw_match": "Levi",
+      "lemma": "Levi"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "12:24": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "watch",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     },
     {
       "surface": "praise",
-      "tw_match": "praise"
+      "tw_match": "praise",
+      "lemma": "praise"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "man of God",
-      "tw_match": "man of God"
+      "tw_match": "man of God",
+      "lemma": "man of God"
     }
   ],
   "12:25": [
     {
       "surface": "Obadiah",
-      "tw_match": "Obadiah"
+      "tw_match": "Obadiah",
+      "lemma": "Obadiah"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     },
     {
       "surface": "storehouses",
-      "tw_match": "storehouse"
+      "tw_match": "storehouse",
+      "lemma": "storehouse"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "12:26": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "governor",
-      "tw_match": "governor"
+      "tw_match": "governor",
+      "lemma": "govern"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     }
   ],
   "12:27": [
     {
       "surface": "dedication",
-      "tw_match": "dedication"
+      "tw_match": "dedication",
+      "lemma": "dedicate"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "rejoicing",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     },
     {
       "surface": "lyres",
-      "tw_match": "lyre"
+      "tw_match": "lyre",
+      "lemma": "lute"
     },
     {
       "surface": "harps",
-      "tw_match": "harp"
+      "tw_match": "harp",
+      "lemma": "harp"
     }
   ],
   "12:28": [
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "12:29": [
     {
       "surface": "Gilgal",
-      "tw_match": "Gilgal"
+      "tw_match": "Gilgal",
+      "lemma": "Gilgal"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "12:30": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     }
   ],
   "12:31": [
     {
       "surface": "officials",
-      "tw_match": "officials"
+      "tw_match": "officials",
+      "lemma": "prince"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "right",
-      "tw_match": "right"
+      "tw_match": "right",
+      "lemma": "good"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "dung",
-      "tw_match": "dung"
+      "tw_match": "dung",
+      "lemma": "dung"
     }
   ],
   "12:32": [
     {
       "surface": "officials",
-      "tw_match": "officials"
+      "tw_match": "officials",
+      "lemma": "prince"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     }
   ],
   "12:33": [
     {
       "surface": "Azariah",
-      "tw_match": "Azariah"
+      "tw_match": "Azariah",
+      "lemma": "Azariah"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     }
   ],
   "12:34": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Benjamin",
-      "tw_match": "Benjamin"
+      "tw_match": "Benjamin",
+      "lemma": "Benjamin"
     },
     {
       "surface": "Jeremiah",
-      "tw_match": "Jeremiah"
+      "tw_match": "Jeremiah",
+      "lemma": "Jeremiah"
     }
   ],
   "12:35": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "trumpets",
-      "tw_match": "trumpet"
+      "tw_match": "trumpet",
+      "lemma": "trumpet"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     },
     {
       "surface": "Jonathan",
-      "tw_match": "Jonathan"
+      "tw_match": "Jonathan",
+      "lemma": "Jonathan"
     },
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     }
   ],
   "12:36": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "man of God",
-      "tw_match": "man of God"
+      "tw_match": "man of God",
+      "lemma": "man of God"
     },
     {
       "surface": "Ezra",
-      "tw_match": "Ezra"
+      "tw_match": "Ezra",
+      "lemma": "Ezra"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     }
   ],
   "12:37": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "spring",
-      "tw_match": "spring"
+      "tw_match": "spring",
+      "lemma": "fountain"
     },
     {
       "surface": "city of David",
-      "tw_match": "city of David"
+      "tw_match": "city of David",
+      "lemma": "city of David"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     }
   ],
   "12:38": [
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     }
   ],
   "12:39": [
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Ephraim",
-      "tw_match": "Ephraim"
+      "tw_match": "Ephraim",
+      "lemma": "Ephraim"
     },
     {
       "surface": "old",
-      "tw_match": "old"
+      "tw_match": "old",
+      "lemma": "age"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "sheep",
-      "tw_match": "sheep"
+      "tw_match": "sheep",
+      "lemma": "ewe"
     },
     {
       "surface": "guard",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     }
   ],
   "12:40": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     }
   ],
   "12:41": [
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Eliakim",
-      "tw_match": "Eliakim"
+      "tw_match": "Eliakim",
+      "lemma": "Eliakim"
     },
     {
       "surface": "Zechariah",
-      "tw_match": "Zechariah"
+      "tw_match": "Zechariah",
+      "lemma": "Zechariah"
     },
     {
       "surface": "Hananiah",
-      "tw_match": "Hananiah"
+      "tw_match": "Hananiah",
+      "lemma": "Hananiah"
     },
     {
       "surface": "trumpets",
-      "tw_match": "trumpet"
+      "tw_match": "trumpet",
+      "lemma": "trumpet"
     }
   ],
   "12:42": [
     {
       "surface": "Eleazar",
-      "tw_match": "Eleazar"
+      "tw_match": "Eleazar",
+      "lemma": "Eleazar"
     },
     {
       "surface": "Elam",
-      "tw_match": "Elam"
+      "tw_match": "Elam",
+      "lemma": "Elam"
     },
     {
       "surface": "overseer",
-      "tw_match": "overseer"
+      "tw_match": "overseer",
+      "lemma": "oversee"
     }
   ],
   "12:43": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "sacrificed",
-      "tw_match": "sacrifice"
+      "tw_match": "sacrifice",
+      "lemma": "sacrifice"
     },
     {
       "surface": "sacrifices",
-      "tw_match": "sacrifices"
+      "tw_match": "sacrifices",
+      "lemma": "sacrifice"
     },
     {
       "surface": "rejoiced",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "glad",
-      "tw_match": "glad"
+      "tw_match": "glad",
+      "lemma": "joy"
     },
     {
       "surface": "rejoicing",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "12:44": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "storehouses",
-      "tw_match": "storehouse"
+      "tw_match": "storehouse",
+      "lemma": "storehouse"
     },
     {
       "surface": "offerings",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "firstfruits",
-      "tw_match": "firstfruits"
+      "tw_match": "firstfruits",
+      "lemma": "firstfruits"
     },
     {
       "surface": "tithes",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "gather",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "rejoiced",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     }
   ],
   "12:45": [
     {
       "surface": "watch",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "purification",
-      "tw_match": "purification"
+      "tw_match": "purification",
+      "lemma": "pure"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "12:46": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "Asaph",
-      "tw_match": "Asaph"
+      "tw_match": "Asaph",
+      "lemma": "Asaph"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "praise",
-      "tw_match": "praise"
+      "tw_match": "praise",
+      "lemma": "praise"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "12:47": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Zerubbabel",
-      "tw_match": "Zerubbabel"
+      "tw_match": "Zerubbabel",
+      "lemma": "Zerubbabel"
     },
     {
       "surface": "Nehemiah",
-      "tw_match": "Nehemiah"
+      "tw_match": "Nehemiah",
+      "lemma": "Nehemiah"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "consecrating",
-      "tw_match": "consecrate"
+      "tw_match": "consecrate",
+      "lemma": "consecrate"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "Aaron",
-      "tw_match": "Aaron"
+      "tw_match": "Aaron",
+      "lemma": "Aaron"
     }
   ],
   "13:1": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Moses",
-      "tw_match": "Moses"
+      "tw_match": "Moses",
+      "lemma": "Moses"
     },
     {
       "surface": "Ammonite",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "Moabite",
-      "tw_match": "Moabite"
+      "tw_match": "Moabite",
+      "lemma": "Moab"
     },
     {
       "surface": "assembly",
-      "tw_match": "assembly"
+      "tw_match": "assembly",
+      "lemma": "assembly"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "eternity",
-      "tw_match": "eternity"
+      "tw_match": "eternity",
+      "lemma": "eternity"
     }
   ],
   "13:2": [
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "bread",
-      "tw_match": "bread"
+      "tw_match": "bread",
+      "lemma": "bread"
     },
     {
       "surface": "Balaam",
-      "tw_match": "Balaam"
+      "tw_match": "Balaam",
+      "lemma": "Balaam"
     },
     {
       "surface": "curse",
-      "tw_match": "curse"
+      "tw_match": "curse",
+      "lemma": "curse"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "blessing",
-      "tw_match": "blessing"
+      "tw_match": "blessing",
+      "lemma": "bless"
     }
   ],
   "13:3": [
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "13:4": [
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "13:5": [
     {
       "surface": "offerings",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "frankincense",
-      "tw_match": "frankincense"
+      "tw_match": "frankincense",
+      "lemma": "frankincense"
     },
     {
       "surface": "tithes",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "gatekeepers",
-      "tw_match": "gatekeeper"
+      "tw_match": "gatekeeper",
+      "lemma": "gate"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     }
   ],
   "13:6": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "year",
-      "tw_match": "year"
+      "tw_match": "year",
+      "lemma": "year"
     },
     {
       "surface": "Artaxerxes",
-      "tw_match": "Artaxerxes"
+      "tw_match": "Artaxerxes",
+      "lemma": "Artaxerxes"
     },
     {
       "surface": "Babylon",
-      "tw_match": "Babylon"
+      "tw_match": "Babylon",
+      "lemma": "Babylon"
     },
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "leave",
-      "tw_match": "leave"
+      "tw_match": "leave",
+      "lemma": "forsake"
     }
   ],
   "13:7": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "courts",
-      "tw_match": "court"
+      "tw_match": "court",
+      "lemma": "court"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "13:8": [
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "cast out",
-      "tw_match": "cast out"
+      "tw_match": "cast out",
+      "lemma": "cast out"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     }
   ],
   "13:9": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "offering",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "incense",
-      "tw_match": "incense"
+      "tw_match": "incense",
+      "lemma": "incense"
     }
   ],
   "13:10": [
     {
       "surface": "knew",
-      "tw_match": "knew"
+      "tw_match": "knew",
+      "lemma": "know"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "13:11": [
     {
       "surface": "prefects",
-      "tw_match": "prefect"
+      "tw_match": "prefect",
+      "lemma": "rule"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "forsaken",
-      "tw_match": "forsaken"
+      "tw_match": "forsaken",
+      "lemma": "forsake"
     },
     {
       "surface": "gathered",
-      "tw_match": "gather"
+      "tw_match": "gather",
+      "lemma": "assembly"
     }
   ],
   "13:12": [
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "tithe",
-      "tw_match": "tithe"
+      "tw_match": "tithe",
+      "lemma": "tenth"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     }
   ],
   "13:13": [
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "priest",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Zadok",
-      "tw_match": "Zadok"
+      "tw_match": "Zadok",
+      "lemma": "Zadok"
     },
     {
       "surface": "scribe",
-      "tw_match": "scribe"
+      "tw_match": "scribe",
+      "lemma": "scribe"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     }
   ],
   "13:14": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "wipe out",
-      "tw_match": "wipe out"
+      "tw_match": "wipe out",
+      "lemma": "blot out"
     },
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "watches",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     }
   ],
   "13:15": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "winepresses",
-      "tw_match": "winepress"
+      "tw_match": "winepress",
+      "lemma": "winepress"
     },
     {
       "surface": "grain",
-      "tw_match": "grain"
+      "tw_match": "grain",
+      "lemma": "grain"
     },
     {
       "surface": "donkeys",
-      "tw_match": "donkey"
+      "tw_match": "donkey",
+      "lemma": "donkey"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "grapes",
-      "tw_match": "grape"
+      "tw_match": "grape",
+      "lemma": "grape"
     },
     {
       "surface": "figs",
-      "tw_match": "fig"
+      "tw_match": "fig",
+      "lemma": "fig"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "13:16": [
     {
       "surface": "Tyrians",
-      "tw_match": "Tyrians"
+      "tw_match": "Tyrians",
+      "lemma": "Tyre"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "13:17": [
     {
       "surface": "nobles",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "Judah",
-      "tw_match": "Judah"
+      "tw_match": "Judah",
+      "lemma": "Judah"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "profaning",
-      "tw_match": "profane"
+      "tw_match": "profane",
+      "lemma": "profane"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "13:18": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "wrath",
-      "tw_match": "wrath"
+      "tw_match": "wrath",
+      "lemma": "wrath"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "profaning",
-      "tw_match": "profane"
+      "tw_match": "profane",
+      "lemma": "profane"
     }
   ],
   "13:19": [
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "13:20": [
     {
       "surface": "goods",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "13:21": [
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     }
   ],
   "13:22": [
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "purify",
-      "tw_match": "purify"
+      "tw_match": "purify",
+      "lemma": "pure"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "gates",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "consecrate",
-      "tw_match": "consecrate"
+      "tw_match": "consecrate",
+      "lemma": "consecrate"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "covenant faithfulness",
-      "tw_match": "covenant faithfulness"
+      "tw_match": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
     }
   ],
   "13:23": [
     {
       "surface": "days",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "Jews",
-      "tw_match": "Jew"
+      "tw_match": "Jew",
+      "lemma": "Jew"
     },
     {
       "surface": "Ammonite",
-      "tw_match": "Ammonite"
+      "tw_match": "Ammonite",
+      "lemma": "Ammon"
     },
     {
       "surface": "Moabite",
-      "tw_match": "Moabite"
+      "tw_match": "Moabite",
+      "lemma": "Moab"
     }
   ],
   "13:24": [
     {
       "surface": "knowing",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "Hebrew",
-      "tw_match": "Hebrew"
+      "tw_match": "Hebrew",
+      "lemma": "Hebrew"
     },
     {
       "surface": "tongue",
-      "tw_match": "tongue"
+      "tw_match": "tongue",
+      "lemma": "tongue"
     }
   ],
   "13:25": [
     {
       "surface": "cursed",
-      "tw_match": "cursed"
+      "tw_match": "cursed",
+      "lemma": "curse"
     },
     {
       "surface": "swear",
-      "tw_match": "swear"
+      "tw_match": "swear",
+      "lemma": "oath"
     },
     {
       "surface": "oath",
-      "tw_match": "oath"
+      "tw_match": "oath",
+      "lemma": "oath"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "13:26": [
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "nations",
-      "tw_match": "nation"
+      "tw_match": "nation",
+      "lemma": "nation"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "13:27": [
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "13:28": [
     {
       "surface": "high priest",
-      "tw_match": "high priest"
+      "tw_match": "high priest",
+      "lemma": "high priest"
     },
     {
       "surface": "law",
-      "tw_match": "law"
+      "tw_match": "law",
+      "lemma": "law"
     }
   ],
   "13:29": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "defiling",
-      "tw_match": "defile"
+      "tw_match": "defile",
+      "lemma": "defile"
     },
     {
       "surface": "priesthood",
-      "tw_match": "priesthood"
+      "tw_match": "priesthood",
+      "lemma": "priest"
     },
     {
       "surface": "covenant",
-      "tw_match": "covenant"
+      "tw_match": "covenant",
+      "lemma": "covenant"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     }
   ],
   "13:30": [
     {
       "surface": "watches",
-      "tw_match": "watch"
+      "tw_match": "watch",
+      "lemma": "watch"
     },
     {
       "surface": "priests",
-      "tw_match": "priest"
+      "tw_match": "priest",
+      "lemma": "priest"
     },
     {
       "surface": "Levites",
-      "tw_match": "Levite"
+      "tw_match": "Levite",
+      "lemma": "Levi"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "13:31": [
     {
       "surface": "offering",
-      "tw_match": "offering"
+      "tw_match": "offering",
+      "lemma": "sacrifice"
     },
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "times",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "firstfruits",
-      "tw_match": "firstfruits"
+      "tw_match": "firstfruits",
+      "lemma": "firstfruits"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     }
   ]
 }

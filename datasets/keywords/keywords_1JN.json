@@ -3,1649 +3,2010 @@
   "1:2": [
     {
       "surface": "testifying",
-      "tw_match": "testify"
+      "tw_match": "testify",
+      "lemma": "testimony"
     },
     {
       "surface": "announcing",
-      "tw_match": "announce"
+      "tw_match": "announce",
+      "lemma": "declare"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     }
   ],
   "1:3": [
     {
       "surface": "declare",
-      "tw_match": "declare"
+      "tw_match": "declare",
+      "lemma": "declare"
     },
     {
       "surface": "fellowship",
-      "tw_match": "fellowship"
+      "tw_match": "fellowship",
+      "lemma": "fellowship"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     }
   ],
   "1:4": [
     {
       "surface": "joy",
-      "tw_match": "joy"
+      "tw_match": "joy",
+      "lemma": "joy"
     },
     {
       "surface": "fulfilled",
-      "tw_match": "fulfilled"
+      "tw_match": "fulfilled",
+      "lemma": "fulfill"
     }
   ],
   "1:5": [
     {
       "surface": "announcing",
-      "tw_match": "announce"
+      "tw_match": "announce",
+      "lemma": "declare"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "1:6": [
     {
       "surface": "fellowship",
-      "tw_match": "fellowship"
+      "tw_match": "fellowship",
+      "lemma": "fellowship"
     }
   ],
   "1:7": [
     {
       "surface": "fellowship",
-      "tw_match": "fellowship"
+      "tw_match": "fellowship",
+      "lemma": "fellowship"
     },
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     }
   ],
   "1:8": [
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     }
   ],
   "1:9": [
     {
       "surface": "confess",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "faithful",
-      "tw_match": "faithful"
+      "tw_match": "faithful",
+      "lemma": "faithful"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     },
     {
       "surface": "forgive",
-      "tw_match": "forgive"
+      "tw_match": "forgive",
+      "lemma": "forgive"
     },
     {
       "surface": "unrighteousness",
-      "tw_match": "unrighteousness"
+      "tw_match": "unrighteousness",
+      "lemma": "righteous"
     }
   ],
   "1:10": [
     {
       "surface": "sinned",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     }
   ],
   "2:1": [
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     }
   ],
   "2:2": [
     {
       "surface": "propitiation",
-      "tw_match": "propitiation"
+      "tw_match": "propitiation",
+      "lemma": "propitiation"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "2:3": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     }
   ],
   "2:4": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "keeping",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     }
   ],
   "2:5": [
     {
       "surface": "keeps",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "truly",
-      "tw_match": "truly"
+      "tw_match": "truly",
+      "lemma": "amen"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "perfected",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "2:6": [
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     }
   ],
   "2:7": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "old",
-      "tw_match": "old"
+      "tw_match": "old",
+      "lemma": "age"
     }
   ],
   "2:8": [
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "2:9": [],
   "2:10": [
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "stumbling",
-      "tw_match": "stumble"
+      "tw_match": "stumble",
+      "lemma": "stumble"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "2:11": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "2:12": [
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "forgiven",
-      "tw_match": "forgiven"
+      "tw_match": "forgiven",
+      "lemma": "forgive"
     }
   ],
   "2:13": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "evil one",
-      "tw_match": "evil one"
+      "tw_match": "evil one",
+      "lemma": "Satan"
     }
   ],
   "2:14": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "word of God",
-      "tw_match": "word of God"
+      "tw_match": "word of God",
+      "lemma": "word of God"
     },
     {
       "surface": "evil one",
-      "tw_match": "evil one"
+      "tw_match": "evil one",
+      "lemma": "Satan"
     }
   ],
   "2:15": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "2:16": [
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "lust",
-      "tw_match": "lust"
+      "tw_match": "lust",
+      "lemma": "lust"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     }
   ],
   "2:17": [
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "will of God",
-      "tw_match": "will of God"
+      "tw_match": "will of God",
+      "lemma": "will of God"
     },
     {
       "surface": "eternity",
-      "tw_match": "eternity"
+      "tw_match": "eternity",
+      "lemma": "eternity"
     }
   ],
   "2:18": [
     {
       "surface": "hour",
-      "tw_match": "hour"
+      "tw_match": "hour",
+      "lemma": "hour"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     },
     {
       "surface": "antichrist",
-      "tw_match": "antichrist"
+      "tw_match": "antichrist",
+      "lemma": "antichrist"
     },
     {
       "surface": "antichrists",
-      "tw_match": "antichrist"
+      "tw_match": "antichrist",
+      "lemma": "antichrist"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "2:19": [],
   "2:20": [
     {
       "surface": "anointing",
-      "tw_match": "anointing"
+      "tw_match": "anointing",
+      "lemma": "anoint"
     },
     {
       "surface": "Holy One",
-      "tw_match": "Holy One"
+      "tw_match": "Holy One",
+      "lemma": "Holy One"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "2:21": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "lie",
-      "tw_match": "lie"
+      "tw_match": "lie",
+      "lemma": "deceive"
     }
   ],
   "2:22": [
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "Christ",
-      "tw_match": "Christ"
+      "tw_match": "Christ",
+      "lemma": "Christ"
     },
     {
       "surface": "antichrist",
-      "tw_match": "antichrist"
+      "tw_match": "antichrist",
+      "lemma": "antichrist"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     }
   ],
   "2:23": [
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "confessing",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     }
   ],
   "2:24": [
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     }
   ],
   "2:25": [
     {
       "surface": "promise",
-      "tw_match": "promise"
+      "tw_match": "promise",
+      "lemma": "promise"
     },
     {
       "surface": "promised",
-      "tw_match": "promised"
+      "tw_match": "promised",
+      "lemma": "promise"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     }
   ],
   "2:26": [],
   "2:27": [
     {
       "surface": "anointing",
-      "tw_match": "anointing"
+      "tw_match": "anointing",
+      "lemma": "anoint"
     },
     {
       "surface": "received",
-      "tw_match": "receive"
+      "tw_match": "receive",
+      "lemma": "receive"
     },
     {
       "surface": "lie",
-      "tw_match": "lie"
+      "tw_match": "lie",
+      "lemma": "deceive"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "2:28": [
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "shame",
-      "tw_match": "shame"
+      "tw_match": "shame",
+      "lemma": "shame"
     }
   ],
   "2:29": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     },
     {
       "surface": "righteousness",
-      "tw_match": "righteousness"
+      "tw_match": "righteousness",
+      "lemma": "righteous"
     },
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     }
   ],
   "3:1": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "called",
-      "tw_match": "called"
+      "tw_match": "called",
+      "lemma": "call"
     },
     {
       "surface": "children of God",
-      "tw_match": "children of God"
+      "tw_match": "children of God",
+      "lemma": "sons of God"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "3:2": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "children of God",
-      "tw_match": "children of God"
+      "tw_match": "children of God",
+      "lemma": "sons of God"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     }
   ],
   "3:3": [
     {
       "surface": "hope",
-      "tw_match": "hope"
+      "tw_match": "hope",
+      "lemma": "hope"
     },
     {
       "surface": "purifies",
-      "tw_match": "purify"
+      "tw_match": "purify",
+      "lemma": "pure"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     },
     {
       "surface": "pure",
-      "tw_match": "pure"
+      "tw_match": "pure",
+      "lemma": "pure"
     }
   ],
   "3:4": [
     {
       "surface": "committing",
-      "tw_match": "commit"
+      "tw_match": "commit",
+      "lemma": "commit"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "commits",
-      "tw_match": "commit"
+      "tw_match": "commit",
+      "lemma": "commit"
     },
     {
       "surface": "lawlessness",
-      "tw_match": "lawlessness"
+      "tw_match": "lawlessness",
+      "lemma": "lawful"
     }
   ],
   "3:5": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "might",
-      "tw_match": "might"
+      "tw_match": "might",
+      "lemma": "might"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "3:6": [
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "sinning",
-      "tw_match": "sinning"
+      "tw_match": "sinning",
+      "lemma": "sin"
     }
   ],
   "3:7": [
     {
       "surface": "righteousness",
-      "tw_match": "righteousness"
+      "tw_match": "righteousness",
+      "lemma": "righteous"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     }
   ],
   "3:8": [
     {
       "surface": "committing",
-      "tw_match": "commit"
+      "tw_match": "commit",
+      "lemma": "commit"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "devil",
-      "tw_match": "devil"
+      "tw_match": "devil",
+      "lemma": "Satan"
     },
     {
       "surface": "sinned",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "might",
-      "tw_match": "might"
+      "tw_match": "might",
+      "lemma": "might"
     },
     {
       "surface": "destroy",
-      "tw_match": "destroy"
+      "tw_match": "destroy",
+      "lemma": "destroy"
     },
     {
       "surface": "works",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "3:9": [
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "commit",
-      "tw_match": "commit"
+      "tw_match": "commit",
+      "lemma": "commit"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "seed",
-      "tw_match": "seed"
+      "tw_match": "seed",
+      "lemma": "seed"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "3:10": [
     {
       "surface": "children of God",
-      "tw_match": "children of God"
+      "tw_match": "children of God",
+      "lemma": "sons of God"
     },
     {
       "surface": "devil",
-      "tw_match": "devil"
+      "tw_match": "devil",
+      "lemma": "Satan"
     },
     {
       "surface": "righteousness",
-      "tw_match": "righteousness"
+      "tw_match": "righteousness",
+      "lemma": "righteous"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:11": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:12": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "Cain",
-      "tw_match": "Cain"
+      "tw_match": "Cain",
+      "lemma": "Cain"
     },
     {
       "surface": "evil one",
-      "tw_match": "evil one"
+      "tw_match": "evil one",
+      "lemma": "Satan"
     },
     {
       "surface": "killed",
-      "tw_match": "kill"
+      "tw_match": "kill",
+      "lemma": "slay"
     },
     {
       "surface": "kill",
-      "tw_match": "kill"
+      "tw_match": "kill",
+      "lemma": "slay"
     },
     {
       "surface": "works",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     },
     {
       "surface": "evil",
-      "tw_match": "evil"
+      "tw_match": "evil",
+      "lemma": "evil"
     },
     {
       "surface": "righteous",
-      "tw_match": "righteous"
+      "tw_match": "righteous",
+      "lemma": "righteous"
     }
   ],
   "3:13": [
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "3:14": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:15": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "3:16": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:17": [
     {
       "surface": "possessions",
-      "tw_match": "possession"
+      "tw_match": "possession",
+      "lemma": "possess"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "3:18": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "tongue",
-      "tw_match": "tongue"
+      "tw_match": "tongue",
+      "lemma": "tongue"
     }
   ],
   "3:19": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "3:20": [
     {
       "surface": "condemns",
-      "tw_match": "condemn"
+      "tw_match": "condemn",
+      "lemma": "condemn"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "knows",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "3:21": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "condemn",
-      "tw_match": "condemn"
+      "tw_match": "condemn",
+      "lemma": "condemn"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "3:22": [
     {
       "surface": "receive",
-      "tw_match": "receive"
+      "tw_match": "receive",
+      "lemma": "receive"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "pleasing",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     }
   ],
   "3:23": [
     {
       "surface": "believe",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     }
   ],
   "3:24": [
     {
       "surface": "keeping",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "Spirit",
-      "tw_match": "Spirit"
+      "tw_match": "Spirit",
+      "lemma": "Holy Spirit"
     }
   ],
   "4:1": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "believe",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "test",
-      "tw_match": "test"
+      "tw_match": "test",
+      "lemma": "test"
     },
     {
       "surface": "spirits",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "prophets",
-      "tw_match": "prophet"
+      "tw_match": "prophet",
+      "lemma": "prophet"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:2": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "Spirit of God",
-      "tw_match": "Spirit of God"
+      "tw_match": "Spirit of God",
+      "lemma": "Holy Spirit"
     },
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "confesses",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "4:3": [
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     },
     {
       "surface": "confess",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "antichrist",
-      "tw_match": "antichrist"
+      "tw_match": "antichrist",
+      "lemma": "antichrist"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:4": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:5": [
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:6": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "knowing",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "spirit",
-      "tw_match": "spirit"
+      "tw_match": "spirit",
+      "lemma": "spirit"
     }
   ],
   "4:7": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     },
     {
       "surface": "knows",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "4:8": [
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "4:9": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "might",
-      "tw_match": "might"
+      "tw_match": "might",
+      "lemma": "might"
     }
   ],
   "4:10": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "loved",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "propitiation",
-      "tw_match": "propitiation"
+      "tw_match": "propitiation",
+      "lemma": "propitiation"
     },
     {
       "surface": "sins",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     }
   ],
   "4:11": [
     {
       "surface": "Beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "loved",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "4:12": [
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "perfected",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     }
   ],
   "4:13": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "Spirit",
-      "tw_match": "Spirit"
+      "tw_match": "Spirit",
+      "lemma": "Holy Spirit"
     }
   ],
   "4:14": [
     {
       "surface": "testify",
-      "tw_match": "testify"
+      "tw_match": "testify",
+      "lemma": "testimony"
     },
     {
       "surface": "Father",
-      "tw_match": "Father"
+      "tw_match": "Father",
+      "lemma": "God the Father"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "Savior",
-      "tw_match": "Savior"
+      "tw_match": "Savior",
+      "lemma": "Savior"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:15": [
     {
       "surface": "confesses",
-      "tw_match": "confess"
+      "tw_match": "confess",
+      "lemma": "confess"
     },
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "4:16": [
     {
       "surface": "believed",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     }
   ],
   "4:17": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "perfected",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     },
     {
       "surface": "day of judgment",
-      "tw_match": "day of judgment"
+      "tw_match": "day of judgment",
+      "lemma": "day of judgment"
     },
     {
       "surface": "just",
-      "tw_match": "just"
+      "tw_match": "just",
+      "lemma": "just"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     }
   ],
   "4:18": [
     {
       "surface": "Fear",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "perfect",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     },
     {
       "surface": "fear",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "punishment",
-      "tw_match": "punishment"
+      "tw_match": "punishment",
+      "lemma": "punish"
     },
     {
       "surface": "fearing",
-      "tw_match": "fear"
+      "tw_match": "fear",
+      "lemma": "fear"
     },
     {
       "surface": "perfected",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     }
   ],
   "4:19": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "loved",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "4:20": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "4:21": [
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "5:1": [
     {
       "surface": "believing",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "Christ",
-      "tw_match": "Christ"
+      "tw_match": "Christ",
+      "lemma": "Christ"
     },
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "loving",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "begetting",
-      "tw_match": "beget"
+      "tw_match": "beget",
+      "lemma": "beget"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "5:2": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "children of God",
-      "tw_match": "children of God"
+      "tw_match": "children of God",
+      "lemma": "sons of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     }
   ],
   "5:3": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     }
   ],
   "5:4": [
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "faith",
-      "tw_match": "faith"
+      "tw_match": "faith",
+      "lemma": "faith"
     }
   ],
   "5:5": [
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "believing",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "Jesus",
-      "tw_match": "Jesus"
+      "tw_match": "Jesus",
+      "lemma": "Jesus"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "5:6": [
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     },
     {
       "surface": "Spirit",
-      "tw_match": "Spirit"
+      "tw_match": "Spirit",
+      "lemma": "Holy Spirit"
     },
     {
       "surface": "testifying",
-      "tw_match": "testify"
+      "tw_match": "testify",
+      "lemma": "testimony"
     }
   ],
   "5:7": [
     {
       "surface": "testifying",
-      "tw_match": "testify"
+      "tw_match": "testify",
+      "lemma": "testimony"
     }
   ],
   "5:8": [
     {
       "surface": "Spirit",
-      "tw_match": "Spirit"
+      "tw_match": "Spirit",
+      "lemma": "Holy Spirit"
     }
   ],
   "5:9": [
     {
       "surface": "receive",
-      "tw_match": "receive"
+      "tw_match": "receive",
+      "lemma": "receive"
     },
     {
       "surface": "testimony",
-      "tw_match": "testimony"
+      "tw_match": "testimony",
+      "lemma": "testimony"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "5:10": [
     {
       "surface": "believing",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "testimony",
-      "tw_match": "testimony"
+      "tw_match": "testimony",
+      "lemma": "testimony"
     },
     {
       "surface": "in him",
-      "tw_match": "in him"
+      "tw_match": "in him",
+      "lemma": "in Christ"
     },
     {
       "surface": "believed",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     }
   ],
   "5:11": [
     {
       "surface": "testimony",
-      "tw_match": "testimony"
+      "tw_match": "testimony",
+      "lemma": "testimony"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     }
   ],
   "5:12": [
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     }
   ],
   "5:13": [
     {
       "surface": "believing",
-      "tw_match": "believe"
+      "tw_match": "believe",
+      "lemma": "believe"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     }
   ],
   "5:14": [],
   "5:15": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     }
   ],
   "5:16": [
     {
       "surface": "sinning",
-      "tw_match": "sinning"
+      "tw_match": "sinning",
+      "lemma": "sin"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "pray",
-      "tw_match": "pray"
+      "tw_match": "pray",
+      "lemma": "pray"
     }
   ],
   "5:17": [
     {
       "surface": "unrighteousness",
-      "tw_match": "unrighteousness"
+      "tw_match": "unrighteousness",
+      "lemma": "righteous"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     }
   ],
   "5:18": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "begotten",
-      "tw_match": "begotten"
+      "tw_match": "begotten",
+      "lemma": "beget"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "sin",
-      "tw_match": "sin"
+      "tw_match": "sin",
+      "lemma": "sin"
     },
     {
       "surface": "keeps",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "evil one",
-      "tw_match": "evil one"
+      "tw_match": "evil one",
+      "lemma": "Satan"
     }
   ],
   "5:19": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "world",
-      "tw_match": "world"
+      "tw_match": "world",
+      "lemma": "world"
     },
     {
       "surface": "lies",
-      "tw_match": "lie"
+      "tw_match": "lie",
+      "lemma": "deceive"
     },
     {
       "surface": "evil one",
-      "tw_match": "evil one"
+      "tw_match": "evil one",
+      "lemma": "Satan"
     }
   ],
   "5:20": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "the Son",
-      "tw_match": "the Son"
+      "tw_match": "the Son",
+      "lemma": "Son of God"
     },
     {
       "surface": "God",
-      "tw_match": "God"
+      "tw_match": "God",
+      "lemma": "God"
     },
     {
       "surface": "understanding",
-      "tw_match": "understanding"
+      "tw_match": "understanding",
+      "lemma": "understand"
     },
     {
       "surface": "Jesus Christ",
-      "tw_match": "Jesus Christ"
+      "tw_match": "Jesus Christ",
+      "lemma": "Jesus"
     },
     {
       "surface": "eternal",
-      "tw_match": "eternal"
+      "tw_match": "eternal",
+      "lemma": "eternity"
     }
   ],
   "5:21": [
     {
       "surface": "keep",
-      "tw_match": "keep"
+      "tw_match": "keep",
+      "lemma": "watch"
     },
     {
       "surface": "idols",
-      "tw_match": "idol"
+      "tw_match": "idol",
+      "lemma": "god"
     }
   ]
 }

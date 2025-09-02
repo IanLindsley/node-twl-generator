@@ -19,6 +19,7 @@ const CACHE_VERSION = '1.0';
 
 // In-memory cache for processed terms (per session)
 let processedTermsCache = null;
+let processedPrimaryByArticleCache = null;
 
 async function getCachedZip() {
   if (isBrowser) {
@@ -162,12 +163,22 @@ async function processZipBuffer(zipBuffer) {
   entries.sort((a, b) => a.entryName.localeCompare(b.entryName));
 
   const termMap = {};
+  const primaryByArticle = {};
 
   for (const entry of entries) {
     const content = await entry.getData(); // Await the async string content
-    const firstLine = content.split('\n')[0];
+    const firstLine = content.split('\n')[0] || '';
     const terms = firstLine.replace(/^#/, '').trim().split(',').map(t => t.trim()).filter(Boolean);
     const truncated = entry.entryName.replace('en_tw/bible/', '');
+
+    // Determine primary term (lemma) as first heading term, normalized
+    if (terms.length > 0) {
+      const primaryRaw = terms[0];
+      const primaryNormalized = primaryRaw.replace(/\s+\([^)]*\)$/, '').trim();
+      if (primaryNormalized) {
+        primaryByArticle[truncated] = primaryNormalized;
+      }
+    }
 
     for (const term of terms) {
       // Normalize terms by removing parentheses and spaces before them
@@ -186,7 +197,7 @@ async function processZipBuffer(zipBuffer) {
     termMap[term].sort();
   }
 
-  return termMap;
+  return { termMap, primaryByArticle };
 }
 
 export async function generateTWTerms() {
@@ -214,12 +225,13 @@ export async function generateTWTerms() {
 
   // Process ZIP to extract terms
   console.log('Processing TW articles...');
-  const termMap = await processZipBuffer(zipBuffer);
+  const { termMap, primaryByArticle } = await processZipBuffer(zipBuffer);
 
   console.log(`Generated ${Object.keys(termMap).length} terms from TW archive`);
 
-  // Cache processed terms for this session
+  // Cache processed terms and primary map for this session
   processedTermsCache = termMap;
+  processedPrimaryByArticleCache = primaryByArticle;
 
   return termMap;
 }
@@ -278,4 +290,15 @@ export function getCacheInfo() {
   }
 
   return info;
+}
+
+/**
+ * Get map of article path -> primary term (lemma) from TW headings.
+ * Ensures terms have been generated.
+ */
+export async function getPrimaryByArticle() {
+  if (!processedPrimaryByArticleCache) {
+    await generateTWTerms();
+  }
+  return processedPrimaryByArticleCache || {};
 }

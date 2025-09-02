@@ -1,5 +1,5 @@
 // Main module for twl-generator
-import { generateTWTerms } from './utils/zipProcessor.js';
+import { generateTWTerms, getPrimaryByArticle } from './utils/zipProcessor.js';
 import { processUsfmForBook, parseUsfmToVerses, removeAllTagsExceptChapterVerse } from './utils/usfm-alignment-remover.js';
 import { generateTWLMatches, createOptimizedTermMap, findMatches } from './utils/twl-matcher.js';
 
@@ -39,9 +39,10 @@ export async function generateTWLWithUsfm(book, usfmContent = null) {
  * @param {Record<string, Record<string, string>>} verses - { chapter: { verse: text } }
  * @returns {Record<string, Array<{surface: string, lemma: string}>>}
  */
-export function generateKeywordsForVerses(twTerms, verses) {
+export function generateKeywordsForVerses(twTerms, verses, primaryByArticle = null) {
   const trie = createOptimizedTermMap(twTerms);
   const result = {};
+  const primaryMap = primaryByArticle || {};
 
   for (const [chapterNum, chapter] of Object.entries(verses)) {
     for (const [verseNum, verseText] of Object.entries(chapter)) {
@@ -49,11 +50,16 @@ export function generateKeywordsForVerses(twTerms, verses) {
       const matches = findMatches(verseText, trie);
 
       // derive stable position from context '[...]'
-      const withPos = matches.map(m => ({
-        surface: m.matchedText,
-        tw_match: m.term,
-        pos: (m.context || '').indexOf('[')
-      }));
+      const withPos = matches.map(m => {
+        const firstArticle = Array.isArray(m.articles) && m.articles.length > 0 ? m.articles[0] : null;
+        const lemma = firstArticle && primaryMap[firstArticle] ? primaryMap[firstArticle] : m.term;
+        return {
+          surface: m.matchedText,
+          tw_match: m.term,
+          lemma,
+          pos: (m.context || '').indexOf('[')
+        };
+      });
 
       // sort by position then keep first occurrence of each surface
       withPos.sort((a, b) => {
@@ -67,7 +73,7 @@ export function generateKeywordsForVerses(twTerms, verses) {
       for (const m of withPos) {
         if (!seen.has(m.surface)) {
           seen.add(m.surface);
-          entries.push({ surface: m.surface, tw_match: m.tw_match });
+          entries.push({ surface: m.surface, tw_match: m.tw_match, lemma: m.lemma });
         }
       }
 

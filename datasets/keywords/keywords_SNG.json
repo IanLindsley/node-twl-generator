@@ -2,1657 +2,2013 @@
   "1:1": [
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "1:2": [
     {
       "surface": "kiss",
-      "tw_match": "kiss"
+      "tw_match": "kiss",
+      "lemma": "kiss"
     },
     {
       "surface": "kisses",
-      "tw_match": "kiss"
+      "tw_match": "kiss",
+      "lemma": "kiss"
     },
     {
       "surface": "better",
-      "tw_match": "better"
+      "tw_match": "better",
+      "lemma": "good"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     }
   ],
   "1:3": [
     {
       "surface": "oils",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "good",
-      "tw_match": "good"
+      "tw_match": "good",
+      "lemma": "good"
     },
     {
       "surface": "oil",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "1:4": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "glad",
-      "tw_match": "glad"
+      "tw_match": "glad",
+      "lemma": "joy"
     },
     {
       "surface": "rejoice",
-      "tw_match": "rejoice"
+      "tw_match": "rejoice",
+      "lemma": "joy"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     }
   ],
   "1:5": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "tents",
-      "tw_match": "tent"
+      "tw_match": "tent",
+      "lemma": "tent"
     },
     {
       "surface": "Kedar",
-      "tw_match": "Kedar"
+      "tw_match": "Kedar",
+      "lemma": "Kedar"
     },
     {
       "surface": "curtains",
-      "tw_match": "curtain"
+      "tw_match": "curtain",
+      "lemma": "curtain"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     }
   ],
   "1:6": [
     {
       "surface": "appointed",
-      "tw_match": "appointed"
+      "tw_match": "appointed",
+      "lemma": "appoint"
     },
     {
       "surface": "keeper",
-      "tw_match": "keeper"
+      "tw_match": "keeper",
+      "lemma": "oversee"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     },
     {
       "surface": "vineyard",
-      "tw_match": "vineyard"
+      "tw_match": "vineyard",
+      "lemma": "vineyard"
     }
   ],
   "1:7": [
     {
       "surface": "Declare",
-      "tw_match": "declare"
+      "tw_match": "declare",
+      "lemma": "declare"
     },
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "flocks",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "lie",
-      "tw_match": "lie"
+      "tw_match": "lie",
+      "lemma": "deceive"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "companions",
-      "tw_match": "companion"
+      "tw_match": "companion",
+      "lemma": "companion"
     }
   ],
   "1:8": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "flock",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "goats",
-      "tw_match": "goat"
+      "tw_match": "goat",
+      "lemma": "goat"
     },
     {
       "surface": "tents",
-      "tw_match": "tent"
+      "tw_match": "tent",
+      "lemma": "tent"
     },
     {
       "surface": "shepherds",
-      "tw_match": "shepherd"
+      "tw_match": "shepherd",
+      "lemma": "shepherd"
     }
   ],
   "1:9": [
     {
       "surface": "mare",
-      "tw_match": "mare"
+      "tw_match": "mare",
+      "lemma": "horse"
     },
     {
       "surface": "chariots",
-      "tw_match": "chariot"
+      "tw_match": "chariot",
+      "lemma": "chariot"
     },
     {
       "surface": "Pharaoh",
-      "tw_match": "Pharaoh"
+      "tw_match": "Pharaoh",
+      "lemma": "Pharaoh"
     }
   ],
   "1:10": [],
   "1:11": [
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     }
   ],
   "1:12": [
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     }
   ],
   "1:13": [
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "1:14": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     }
   ],
   "1:15": [
     {
       "surface": "doves",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     }
   ],
   "1:16": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "truly",
-      "tw_match": "truly"
+      "tw_match": "truly",
+      "lemma": "amen"
     },
     {
       "surface": "pleasant",
-      "tw_match": "pleasant"
+      "tw_match": "pleasant",
+      "lemma": "good"
     }
   ],
   "1:17": [
     {
       "surface": "house",
-      "tw_match": "house"
+      "tw_match": "house",
+      "lemma": "temple"
     },
     {
       "surface": "cedars",
-      "tw_match": "cedar"
+      "tw_match": "cedar",
+      "lemma": "cedar"
     }
   ],
   "2:1": [
     {
       "surface": "Sharon",
-      "tw_match": "Sharon"
+      "tw_match": "Sharon",
+      "lemma": "Sharon"
     }
   ],
   "2:2": [
     {
       "surface": "Like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "thorns",
-      "tw_match": "thorn"
+      "tw_match": "thorn",
+      "lemma": "thorn"
     }
   ],
   "2:3": [
     {
       "surface": "Like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "delighted",
-      "tw_match": "delight"
+      "tw_match": "delight",
+      "lemma": "delight"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     }
   ],
   "2:4": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "2:5": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "2:6": [
     {
       "surface": "right",
-      "tw_match": "right"
+      "tw_match": "right",
+      "lemma": "good"
     }
   ],
   "2:7": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "desires",
-      "tw_match": "desires"
+      "tw_match": "desires",
+      "lemma": "lust"
     }
   ],
   "2:8": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "2:9": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "stag",
-      "tw_match": "stag"
+      "tw_match": "stag",
+      "lemma": "deer"
     }
   ],
   "2:10": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "2:11": [],
   "2:12": [
     {
       "surface": "land",
-      "tw_match": "land"
+      "tw_match": "land",
+      "lemma": "earth"
     },
     {
       "surface": "time",
-      "tw_match": "time"
+      "tw_match": "time",
+      "lemma": "age"
     },
     {
       "surface": "turtledove",
-      "tw_match": "turtledove"
+      "tw_match": "turtledove",
+      "lemma": "dove"
     }
   ],
   "2:13": [
     {
       "surface": "fig",
-      "tw_match": "fig"
+      "tw_match": "fig",
+      "lemma": "fig"
     },
     {
       "surface": "figs",
-      "tw_match": "fig"
+      "tw_match": "fig",
+      "lemma": "fig"
     },
     {
       "surface": "vines",
-      "tw_match": "vines"
+      "tw_match": "vines",
+      "lemma": "vine"
     }
   ],
   "2:14": [
     {
       "surface": "dove",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     }
   ],
   "2:15": [
     {
       "surface": "Catch",
-      "tw_match": "catch"
+      "tw_match": "catch",
+      "lemma": "captive"
     },
     {
       "surface": "destroy",
-      "tw_match": "destroy"
+      "tw_match": "destroy",
+      "lemma": "destroy"
     },
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     }
   ],
   "2:16": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "2:17": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "stag",
-      "tw_match": "stag"
+      "tw_match": "stag",
+      "lemma": "deer"
     }
   ],
   "3:1": [
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:2": [
     {
       "surface": "seek",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     },
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:3": [
     {
       "surface": "guards",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     },
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "3:4": [
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "loves",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "conceived",
-      "tw_match": "conceived"
+      "tw_match": "conceived",
+      "lemma": "conceive"
     }
   ],
   "3:5": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "desires",
-      "tw_match": "desires"
+      "tw_match": "desires",
+      "lemma": "lust"
     }
   ],
   "3:6": [
     {
       "surface": "wilderness",
-      "tw_match": "wilderness"
+      "tw_match": "wilderness",
+      "lemma": "desert"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "columns",
-      "tw_match": "column"
+      "tw_match": "column",
+      "lemma": "column"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     },
     {
       "surface": "frankincense",
-      "tw_match": "frankincense"
+      "tw_match": "frankincense",
+      "lemma": "frankincense"
     }
   ],
   "3:7": [
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "warriors",
-      "tw_match": "warrior"
+      "tw_match": "warrior",
+      "lemma": "soldier"
     },
     {
       "surface": "Israel",
-      "tw_match": "Israel"
+      "tw_match": "Israel",
+      "lemma": "Israel"
     }
   ],
   "3:8": [
     {
       "surface": "sword",
-      "tw_match": "sword"
+      "tw_match": "sword",
+      "lemma": "sword"
     },
     {
       "surface": "terrors",
-      "tw_match": "terror"
+      "tw_match": "terror",
+      "lemma": "terror"
     }
   ],
   "3:9": [
     {
       "surface": "King",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     }
   ],
   "3:10": [
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "purple",
-      "tw_match": "purple"
+      "tw_match": "purple",
+      "lemma": "purple"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "3:11": [
     {
       "surface": "Zion",
-      "tw_match": "Zion"
+      "tw_match": "Zion",
+      "lemma": "Zion"
     },
     {
       "surface": "King",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "crown",
-      "tw_match": "crown"
+      "tw_match": "crown",
+      "lemma": "crown"
     },
     {
       "surface": "crowned",
-      "tw_match": "crowned"
+      "tw_match": "crowned",
+      "lemma": "crown"
     },
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "wedding",
-      "tw_match": "wedding"
+      "tw_match": "wedding",
+      "lemma": "marriage"
     },
     {
       "surface": "joy",
-      "tw_match": "joy"
+      "tw_match": "joy",
+      "lemma": "joy"
     }
   ],
   "4:1": [
     {
       "surface": "doves",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     },
     {
       "surface": "veil",
-      "tw_match": "veil"
+      "tw_match": "veil",
+      "lemma": "veil"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "flock",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "goats",
-      "tw_match": "goat"
+      "tw_match": "goat",
+      "lemma": "goat"
     },
     {
       "surface": "Gilead",
-      "tw_match": "Gilead"
+      "tw_match": "Gilead",
+      "lemma": "Gilead"
     }
   ],
   "4:2": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "flock",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "sheep",
-      "tw_match": "sheep"
+      "tw_match": "sheep",
+      "lemma": "ewe"
     },
     {
       "surface": "washing",
-      "tw_match": "wash"
+      "tw_match": "wash",
+      "lemma": "clean"
     },
     {
       "surface": "bear",
-      "tw_match": "bear"
+      "tw_match": "bear",
+      "lemma": "bear"
     }
   ],
   "4:3": [
     {
       "surface": "Like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "pomegranate",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     },
     {
       "surface": "veil",
-      "tw_match": "veil"
+      "tw_match": "veil",
+      "lemma": "veil"
     }
   ],
   "4:4": [
     {
       "surface": "Like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "David",
-      "tw_match": "David"
+      "tw_match": "David",
+      "lemma": "David"
     },
     {
       "surface": "shields",
-      "tw_match": "shield"
+      "tw_match": "shield",
+      "lemma": "shield"
     },
     {
       "surface": "hanging",
-      "tw_match": "hang"
+      "tw_match": "hang",
+      "lemma": "hang"
     },
     {
       "surface": "warriors",
-      "tw_match": "warrior"
+      "tw_match": "warrior",
+      "lemma": "soldier"
     }
   ],
   "4:5": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "fawns",
-      "tw_match": "fawn"
+      "tw_match": "fawn",
+      "lemma": "deer"
     }
   ],
   "4:6": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     },
     {
       "surface": "frankincense",
-      "tw_match": "frankincense"
+      "tw_match": "frankincense",
+      "lemma": "frankincense"
     }
   ],
   "4:7": [
     {
       "surface": "blemish",
-      "tw_match": "blemish"
+      "tw_match": "blemish",
+      "lemma": "blemish"
     }
   ],
   "4:8": [
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     },
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     },
     {
       "surface": "Descend",
-      "tw_match": "descend"
+      "tw_match": "descend",
+      "lemma": "descend"
     },
     {
       "surface": "lions",
-      "tw_match": "lion"
+      "tw_match": "lion",
+      "lemma": "lion"
     },
     {
       "surface": "leopards",
-      "tw_match": "leopard"
+      "tw_match": "leopard",
+      "lemma": "leopard"
     }
   ],
   "4:9": [
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     }
   ],
   "4:10": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     },
     {
       "surface": "better",
-      "tw_match": "better"
+      "tw_match": "better",
+      "lemma": "good"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "oils",
-      "tw_match": "oil"
+      "tw_match": "oil",
+      "lemma": "oil"
     }
   ],
   "4:11": [
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     },
     {
       "surface": "honey",
-      "tw_match": "honey"
+      "tw_match": "honey",
+      "lemma": "honey"
     },
     {
       "surface": "tongue",
-      "tw_match": "tongue"
+      "tw_match": "tongue",
+      "lemma": "tongue"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     }
   ],
   "4:12": [
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     },
     {
       "surface": "spring",
-      "tw_match": "spring"
+      "tw_match": "spring",
+      "lemma": "fountain"
     },
     {
       "surface": "sealed",
-      "tw_match": "sealed"
+      "tw_match": "sealed",
+      "lemma": "seal"
     },
     {
       "surface": "fountain",
-      "tw_match": "fountain"
+      "tw_match": "fountain",
+      "lemma": "fountain"
     }
   ],
   "4:13": [
     {
       "surface": "pomegranate",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     },
     {
       "surface": "fruits",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     }
   ],
   "4:14": [
     {
       "surface": "frankincense",
-      "tw_match": "frankincense"
+      "tw_match": "frankincense",
+      "lemma": "frankincense"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     },
     {
       "surface": "best",
-      "tw_match": "best"
+      "tw_match": "best",
+      "lemma": "good"
     }
   ],
   "4:15": [
     {
       "surface": "fountain",
-      "tw_match": "fountain"
+      "tw_match": "fountain",
+      "lemma": "fountain"
     },
     {
       "surface": "well",
-      "tw_match": "well"
+      "tw_match": "well",
+      "lemma": "cistern"
     },
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     }
   ],
   "4:16": [
     {
       "surface": "wind",
-      "tw_match": "wind"
+      "tw_match": "wind",
+      "lemma": "spirit"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     }
   ],
   "5:1": [
     {
       "surface": "bride",
-      "tw_match": "bride"
+      "tw_match": "bride",
+      "lemma": "bride"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     },
     {
       "surface": "honeycomb",
-      "tw_match": "honeycomb"
+      "tw_match": "honeycomb",
+      "lemma": "honey"
     },
     {
       "surface": "honey",
-      "tw_match": "honey"
+      "tw_match": "honey",
+      "lemma": "honey"
     },
     {
       "surface": "drunk",
-      "tw_match": "drunk"
+      "tw_match": "drunk",
+      "lemma": "drunk"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "friends",
-      "tw_match": "friend"
+      "tw_match": "friend",
+      "lemma": "companion"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "5:2": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "dove",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     },
     {
       "surface": "perfect",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     }
   ],
   "5:3": [
     {
       "surface": "robe",
-      "tw_match": "robe"
+      "tw_match": "robe",
+      "lemma": "robe"
     },
     {
       "surface": "washed",
-      "tw_match": "wash"
+      "tw_match": "wash",
+      "lemma": "clean"
     }
   ],
   "5:4": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "5:5": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     }
   ],
   "5:6": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "searched",
-      "tw_match": "search"
+      "tw_match": "search",
+      "lemma": "seek"
     },
     {
       "surface": "called",
-      "tw_match": "called"
+      "tw_match": "called",
+      "lemma": "call"
     }
   ],
   "5:7": [
     {
       "surface": "guards",
-      "tw_match": "guard"
+      "tw_match": "guard",
+      "lemma": "watch"
     }
   ],
   "5:8": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "declare",
-      "tw_match": "declare"
+      "tw_match": "declare",
+      "lemma": "declare"
     },
     {
       "surface": "Declare",
-      "tw_match": "declare"
+      "tw_match": "declare",
+      "lemma": "declare"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "5:9": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "5:10": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "distinguished",
-      "tw_match": "distinguish"
+      "tw_match": "distinguish",
+      "lemma": "discern"
     }
   ],
   "5:11": [
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     }
   ],
   "5:12": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "doves",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     }
   ],
   "5:13": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "towers",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "myrrh",
-      "tw_match": "myrrh"
+      "tw_match": "myrrh",
+      "lemma": "myrrh"
     }
   ],
   "5:14": [
     {
       "surface": "rods",
-      "tw_match": "rod"
+      "tw_match": "rod",
+      "lemma": "rod"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     }
   ],
   "5:15": [
     {
       "surface": "pillars",
-      "tw_match": "pillar"
+      "tw_match": "pillar",
+      "lemma": "column"
     },
     {
       "surface": "gold",
-      "tw_match": "gold"
+      "tw_match": "gold",
+      "lemma": "gold"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     },
     {
       "surface": "cedars",
-      "tw_match": "cedar"
+      "tw_match": "cedar",
+      "lemma": "cedar"
     }
   ],
   "5:16": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "friend",
-      "tw_match": "friend"
+      "tw_match": "friend",
+      "lemma": "companion"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     }
   ],
   "6:1": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "seek",
-      "tw_match": "seek"
+      "tw_match": "seek",
+      "lemma": "seek"
     }
   ],
   "6:2": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "glean",
-      "tw_match": "glean"
+      "tw_match": "glean",
+      "lemma": "glean"
     }
   ],
   "6:3": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "6:4": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "Tirzah",
-      "tw_match": "Tirzah"
+      "tw_match": "Tirzah",
+      "lemma": "Tirzah"
     },
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "awe",
-      "tw_match": "awe"
+      "tw_match": "awe",
+      "lemma": "awe"
     }
   ],
   "6:5": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "flock",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "goats",
-      "tw_match": "goat"
+      "tw_match": "goat",
+      "lemma": "goat"
     },
     {
       "surface": "Gilead",
-      "tw_match": "Gilead"
+      "tw_match": "Gilead",
+      "lemma": "Gilead"
     }
   ],
   "6:6": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "flock",
-      "tw_match": "flock"
+      "tw_match": "flock",
+      "lemma": "flock"
     },
     {
       "surface": "ewes",
-      "tw_match": "ewe"
+      "tw_match": "ewe",
+      "lemma": "ewe"
     },
     {
       "surface": "washing",
-      "tw_match": "wash"
+      "tw_match": "wash",
+      "lemma": "clean"
     },
     {
       "surface": "bear",
-      "tw_match": "bear"
+      "tw_match": "bear",
+      "lemma": "bear"
     }
   ],
   "6:7": [
     {
       "surface": "Like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "pomegranate",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     },
     {
       "surface": "veil",
-      "tw_match": "veil"
+      "tw_match": "veil",
+      "lemma": "veil"
     }
   ],
   "6:8": [
     {
       "surface": "queens",
-      "tw_match": "queen"
+      "tw_match": "queen",
+      "lemma": "queen"
     },
     {
       "surface": "concubines",
-      "tw_match": "concubine"
+      "tw_match": "concubine",
+      "lemma": "concubine"
     }
   ],
   "6:9": [
     {
       "surface": "dove",
-      "tw_match": "dove"
+      "tw_match": "dove",
+      "lemma": "dove"
     },
     {
       "surface": "perfect",
-      "tw_match": "perfect"
+      "tw_match": "perfect",
+      "lemma": "perfect"
     },
     {
       "surface": "pure",
-      "tw_match": "pure"
+      "tw_match": "pure",
+      "lemma": "pure"
     },
     {
       "surface": "bore",
-      "tw_match": "bore"
+      "tw_match": "bore",
+      "lemma": "bear"
     },
     {
       "surface": "called",
-      "tw_match": "called"
+      "tw_match": "called",
+      "lemma": "call"
     },
     {
       "surface": "blessed",
-      "tw_match": "blessed"
+      "tw_match": "blessed",
+      "lemma": "bless"
     },
     {
       "surface": "queens",
-      "tw_match": "queen"
+      "tw_match": "queen",
+      "lemma": "queen"
     },
     {
       "surface": "concubines",
-      "tw_match": "concubine"
+      "tw_match": "concubine",
+      "lemma": "concubine"
     },
     {
       "surface": "praised",
-      "tw_match": "praised"
+      "tw_match": "praised",
+      "lemma": "praise"
     }
   ],
   "6:10": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "pure",
-      "tw_match": "pure"
+      "tw_match": "pure",
+      "lemma": "pure"
     },
     {
       "surface": "awe",
-      "tw_match": "awe"
+      "tw_match": "awe",
+      "lemma": "awe"
     }
   ],
   "6:11": [
     {
       "surface": "vine",
-      "tw_match": "vine"
+      "tw_match": "vine",
+      "lemma": "vine"
     },
     {
       "surface": "pomegranates",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     }
   ],
   "6:12": [
     {
       "surface": "know",
-      "tw_match": "know"
+      "tw_match": "know",
+      "lemma": "know"
     },
     {
       "surface": "soul",
-      "tw_match": "soul"
+      "tw_match": "soul",
+      "lemma": "soul"
     },
     {
       "surface": "chariots",
-      "tw_match": "chariot"
+      "tw_match": "chariot",
+      "lemma": "chariot"
     },
     {
       "surface": "noble",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     }
   ],
   "6:13": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     }
   ],
   "7:1": [
     {
       "surface": "sandals",
-      "tw_match": "sandal"
+      "tw_match": "sandal",
+      "lemma": "sandal"
     },
     {
       "surface": "noble",
-      "tw_match": "noble"
+      "tw_match": "noble",
+      "lemma": "noble"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "work",
-      "tw_match": "work"
+      "tw_match": "work",
+      "lemma": "labor"
     }
   ],
   "7:2": [
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "wheat",
-      "tw_match": "wheat"
+      "tw_match": "wheat",
+      "lemma": "wheat"
     }
   ],
   "7:3": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "fawns",
-      "tw_match": "fawn"
+      "tw_match": "fawn",
+      "lemma": "deer"
     }
   ],
   "7:4": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "tower",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "Heshbon",
-      "tw_match": "Heshbon"
+      "tw_match": "Heshbon",
+      "lemma": "Heshbon"
     },
     {
       "surface": "gate",
-      "tw_match": "gate"
+      "tw_match": "gate",
+      "lemma": "gate"
     },
     {
       "surface": "Lebanon",
-      "tw_match": "Lebanon"
+      "tw_match": "Lebanon",
+      "lemma": "Lebanon"
     },
     {
       "surface": "Damascus",
-      "tw_match": "Damascus"
+      "tw_match": "Damascus",
+      "lemma": "Damascus"
     }
   ],
   "7:5": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "Carmel",
-      "tw_match": "Carmel"
+      "tw_match": "Carmel",
+      "lemma": "Carmel"
     },
     {
       "surface": "purple",
-      "tw_match": "purple"
+      "tw_match": "purple",
+      "lemma": "purple"
     },
     {
       "surface": "king",
-      "tw_match": "king"
+      "tw_match": "king",
+      "lemma": "king"
     },
     {
       "surface": "captive",
-      "tw_match": "captive"
+      "tw_match": "captive",
+      "lemma": "captive"
     }
   ],
   "7:6": [
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "delights",
-      "tw_match": "delight"
+      "tw_match": "delight",
+      "lemma": "delight"
     }
   ],
   "7:7": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "palm",
-      "tw_match": "palm"
+      "tw_match": "palm",
+      "lemma": "palm"
     }
   ],
   "7:8": [
     {
       "surface": "palm",
-      "tw_match": "palm"
+      "tw_match": "palm",
+      "lemma": "palm"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     },
     {
       "surface": "please",
-      "tw_match": "please"
+      "tw_match": "please",
+      "lemma": "plea"
     },
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "vine",
-      "tw_match": "vine"
+      "tw_match": "vine",
+      "lemma": "vine"
     }
   ],
   "7:9": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "best",
-      "tw_match": "best"
+      "tw_match": "best",
+      "lemma": "good"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "7:10": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "7:11": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "7:12": [
     {
       "surface": "vineyards",
-      "tw_match": "vineyards"
+      "tw_match": "vineyards",
+      "lemma": "vineyard"
     },
     {
       "surface": "vine",
-      "tw_match": "vine"
+      "tw_match": "vine",
+      "lemma": "vine"
     },
     {
       "surface": "pomegranates",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     }
   ],
   "7:13": [
     {
       "surface": "fruits",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     },
     {
       "surface": "old",
-      "tw_match": "old"
+      "tw_match": "old",
+      "lemma": "age"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     }
   ],
   "8:1": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "kiss",
-      "tw_match": "kiss"
+      "tw_match": "kiss",
+      "lemma": "kiss"
     }
   ],
   "8:2": [
     {
       "surface": "the house",
-      "tw_match": "the house"
+      "tw_match": "the house",
+      "lemma": "house of God"
     },
     {
       "surface": "wine",
-      "tw_match": "wine"
+      "tw_match": "wine",
+      "lemma": "wine"
     },
     {
       "surface": "pomegranate",
-      "tw_match": "pomegranate"
+      "tw_match": "pomegranate",
+      "lemma": "pomegranate"
     }
   ],
   "8:3": [
     {
       "surface": "right",
-      "tw_match": "right"
+      "tw_match": "right",
+      "lemma": "good"
     }
   ],
   "8:4": [
     {
       "surface": "Jerusalem",
-      "tw_match": "Jerusalem"
+      "tw_match": "Jerusalem",
+      "lemma": "Jerusalem"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "desires",
-      "tw_match": "desires"
+      "tw_match": "desires",
+      "lemma": "lust"
     }
   ],
   "8:5": [
     {
       "surface": "wilderness",
-      "tw_match": "wilderness"
+      "tw_match": "wilderness",
+      "lemma": "desert"
     },
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "labor",
-      "tw_match": "labor"
+      "tw_match": "labor",
+      "lemma": "labor"
     }
   ],
   "8:6": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "seal",
-      "tw_match": "seal"
+      "tw_match": "seal",
+      "lemma": "seal"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "Sheol",
-      "tw_match": "Sheol"
+      "tw_match": "Sheol",
+      "lemma": "Hades"
     },
     {
       "surface": "zeal",
-      "tw_match": "zeal"
+      "tw_match": "zeal",
+      "lemma": "zeal"
     },
     {
       "surface": "Yah",
-      "tw_match": "Yah"
+      "tw_match": "Yah",
+      "lemma": "Yahweh"
     }
   ],
   "8:7": [
     {
       "surface": "quench",
-      "tw_match": "quench"
+      "tw_match": "quench",
+      "lemma": "quench"
     },
     {
       "surface": "love",
-      "tw_match": "love"
+      "tw_match": "love",
+      "lemma": "love"
     },
     {
       "surface": "his house",
-      "tw_match": "his house"
+      "tw_match": "his house",
+      "lemma": "house of God"
     }
   ],
   "8:8": [
     {
       "surface": "day",
-      "tw_match": "day"
+      "tw_match": "day",
+      "lemma": "day"
     }
   ],
   "8:9": [
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     },
     {
       "surface": "cedar",
-      "tw_match": "cedar"
+      "tw_match": "cedar",
+      "lemma": "cedar"
     }
   ],
   "8:10": [
     {
       "surface": "like",
-      "tw_match": "like"
+      "tw_match": "like",
+      "lemma": "like"
     },
     {
       "surface": "towers",
-      "tw_match": "tower"
+      "tw_match": "tower",
+      "lemma": "watchtower"
     },
     {
       "surface": "person",
-      "tw_match": "person"
+      "tw_match": "person",
+      "lemma": "soul"
     },
     {
       "surface": "peace",
-      "tw_match": "peace"
+      "tw_match": "peace",
+      "lemma": "peace"
     }
   ],
   "8:11": [
     {
       "surface": "vineyard",
-      "tw_match": "vineyard"
+      "tw_match": "vineyard",
+      "lemma": "vineyard"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "Baal",
-      "tw_match": "Baal"
+      "tw_match": "Baal",
+      "lemma": "Baal"
     },
     {
       "surface": "keepers",
-      "tw_match": "keeper"
+      "tw_match": "keeper",
+      "lemma": "oversee"
     },
     {
       "surface": "person",
-      "tw_match": "person"
+      "tw_match": "person",
+      "lemma": "soul"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     },
     {
       "surface": "silver",
-      "tw_match": "silver"
+      "tw_match": "silver",
+      "lemma": "silver"
     }
   ],
   "8:12": [
     {
       "surface": "vineyard",
-      "tw_match": "vineyard"
+      "tw_match": "vineyard",
+      "lemma": "vineyard"
     },
     {
       "surface": "Solomon",
-      "tw_match": "Solomon"
+      "tw_match": "Solomon",
+      "lemma": "Solomon"
     },
     {
       "surface": "keepers",
-      "tw_match": "keeper"
+      "tw_match": "keeper",
+      "lemma": "oversee"
     },
     {
       "surface": "fruit",
-      "tw_match": "fruit"
+      "tw_match": "fruit",
+      "lemma": "fruit"
     }
   ],
   "8:13": [
     {
       "surface": "companions",
-      "tw_match": "companion"
+      "tw_match": "companion",
+      "lemma": "companion"
     }
   ],
   "8:14": [
     {
       "surface": "beloved",
-      "tw_match": "beloved"
+      "tw_match": "beloved",
+      "lemma": "beloved"
     },
     {
       "surface": "stag",
-      "tw_match": "stag"
+      "tw_match": "stag",
+      "lemma": "deer"
     }
   ]
 }

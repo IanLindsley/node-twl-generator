@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import { generateTWLWithUsfm, generateTWTerms, processUsfmForBook, generateKeywordsForVerses } from './index.js';
+import { getPrimaryByArticle } from './utils/zipProcessor.js';
 import fs from 'fs';
 import path from 'path';
 import { BibleBookData } from './common/books.js';
@@ -158,6 +159,7 @@ if (!isKeywordsSubcommand) {
 
       // Build terms once
       const terms = await generateTWTerms();
+      const primaryByArticle = await getPrimaryByArticle();
 
       let processed = 0;
       for (const id of ids) {
@@ -166,7 +168,7 @@ if (!isKeywordsSubcommand) {
         console.log(`Processing ${bookData.title} (${id})...`);
 
         const verses = await processUsfmForBook(id);
-        const dataset = generateKeywordsForVerses(terms, verses);
+        const dataset = generateKeywordsForVerses(terms, verses, primaryByArticle);
 
         const filename = path.join(outdir, `keywords_${usfmCode}.json`);
         fs.writeFileSync(filename, JSON.stringify(dataset, null, 2), 'utf8');
