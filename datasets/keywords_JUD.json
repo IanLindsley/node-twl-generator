@@ -1,0 +1,564 @@
+{
+  "1:1": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "James",
+      "lemma": "James"
+    },
+    {
+      "surface": "loved",
+      "lemma": "love"
+    },
+    {
+      "surface": "God the Father",
+      "lemma": "God the Father"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "in Jesus",
+      "lemma": "in Jesus"
+    },
+    {
+      "surface": "Christ",
+      "lemma": "Christ"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "multiplied",
+      "lemma": "multiplied"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "salvation",
+      "lemma": "salvation"
+    },
+    {
+      "surface": "exhorting",
+      "lemma": "exhort"
+    },
+    {
+      "surface": "faith",
+      "lemma": "faith"
+    },
+    {
+      "surface": "delivered",
+      "lemma": "delivered"
+    },
+    {
+      "surface": "saints",
+      "lemma": "saint"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "condemnation",
+      "lemma": "condemnation"
+    },
+    {
+      "surface": "ungodly",
+      "lemma": "ungodly"
+    },
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Master",
+      "lemma": "master"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "remind",
+      "lemma": "remind"
+    },
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "saved",
+      "lemma": "saved"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "believed",
+      "lemma": "believe"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "angels",
+      "lemma": "angel"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "Sodom",
+      "lemma": "Sodom"
+    },
+    {
+      "surface": "Gomorrah",
+      "lemma": "Gomorrah"
+    },
+    {
+      "surface": "committed",
+      "lemma": "committed"
+    },
+    {
+      "surface": "sexual immorality",
+      "lemma": "sexual immorality"
+    },
+    {
+      "surface": "suffering",
+      "lemma": "suffering"
+    },
+    {
+      "surface": "punishment",
+      "lemma": "punishment"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "dreaming",
+      "lemma": "dream"
+    },
+    {
+      "surface": "defile",
+      "lemma": "defile"
+    },
+    {
+      "surface": "reject",
+      "lemma": "reject"
+    },
+    {
+      "surface": "slander",
+      "lemma": "slander"
+    },
+    {
+      "surface": "glorious",
+      "lemma": "glorious"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "Michael",
+      "lemma": "Michael"
+    },
+    {
+      "surface": "archangel",
+      "lemma": "archangel"
+    },
+    {
+      "surface": "devil",
+      "lemma": "devil"
+    },
+    {
+      "surface": "arguing",
+      "lemma": "arguing"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "slander",
+      "lemma": "slander"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "slander",
+      "lemma": "slander"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "animals",
+      "lemma": "animals"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "Woe",
+      "lemma": "woe"
+    },
+    {
+      "surface": "Cain",
+      "lemma": "Cain"
+    },
+    {
+      "surface": "Balaam",
+      "lemma": "Balaam"
+    },
+    {
+      "surface": "rebellion",
+      "lemma": "rebellion"
+    },
+    {
+      "surface": "Korah",
+      "lemma": "Korah"
+    },
+    {
+      "surface": "perished",
+      "lemma": "perish"
+    }
+  ],
+  "1:12": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "feasts",
+      "lemma": "feast"
+    },
+    {
+      "surface": "feasting",
+      "lemma": "feasting"
+    },
+    {
+      "surface": "shepherding",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "winds",
+      "lemma": "wind"
+    }
+  ],
+  "1:13": [
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    }
+  ],
+  "1:14": [
+    {
+      "surface": "Enoch",
+      "lemma": "Enoch"
+    },
+    {
+      "surface": "Adam",
+      "lemma": "Adam"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    }
+  ],
+  "1:15": [
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "ungodliness",
+      "lemma": "ungodliness"
+    },
+    {
+      "surface": "ungodly",
+      "lemma": "ungodly"
+    },
+    {
+      "surface": "sinners",
+      "lemma": "sinner"
+    }
+  ],
+  "1:16": [
+    {
+      "surface": "lusts",
+      "lemma": "lust"
+    },
+    {
+      "surface": "boastful",
+      "lemma": "boastful"
+    }
+  ],
+  "1:17": [
+    {
+      "surface": "beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "apostles",
+      "lemma": "apostle"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    }
+  ],
+  "1:18": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "mockers",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "lusts",
+      "lemma": "lust"
+    },
+    {
+      "surface": "ungodliness",
+      "lemma": "ungodliness"
+    }
+  ],
+  "1:19": [
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    }
+  ],
+  "1:20": [
+    {
+      "surface": "beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "faith",
+      "lemma": "faith"
+    },
+    {
+      "surface": "praying",
+      "lemma": "pray"
+    },
+    {
+      "surface": "Holy Spirit",
+      "lemma": "Holy Spirit"
+    }
+  ],
+  "1:21": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "1:22": [
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    }
+  ],
+  "1:23": [
+    {
+      "surface": "save",
+      "lemma": "save"
+    },
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "defiled",
+      "lemma": "defiled"
+    }
+  ],
+  "1:24": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "stumbling",
+      "lemma": "stumble"
+    },
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "1:25": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Savior",
+      "lemma": "Savior"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "majesty",
+      "lemma": "majesty"
+    },
+    {
+      "surface": "authority",
+      "lemma": "authority"
+    },
+    {
+      "surface": "age",
+      "lemma": "age"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "Amen",
+      "lemma": "amen"
+    }
+  ]
+}

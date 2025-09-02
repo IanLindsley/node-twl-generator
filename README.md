@@ -49,6 +49,59 @@ twl-generator --usfm ./myfile.usfm --book rut
 
 ---
 
+### Keywords Dataset
+
+Generate per-verse keywords with lemmas (one JSON file per book). The output uses a flat keyed object per book: keys are `"C:V"` and values are ordered arrays of `{ surface, lemma }` using the existing trie and term logic.
+
+Command:
+
+```bash
+twl-generator keywords [options]
+```
+
+Options:
+
+- `--books <ids>`: Comma-separated book ids (e.g., `gen,exo,mat`).
+- `--testament <t>`: `old|new|all` (default: `all`).
+- `--outdir <path>`: Output directory (default: `./keywords`).
+
+Examples:
+
+```bash
+# Whole Bible, split per book
+twl-generator keywords --outdir ./datasets
+
+# Old Testament only
+twl-generator keywords --testament old --outdir ./datasets
+
+# Specific books
+twl-generator keywords --books gen,exo,mat --outdir ./datasets
+```
+
+Per-book output shape (example):
+
+```json
+{
+  "1:1": [
+    { "surface": "God", "lemma": "God" },
+    { "surface": "created", "lemma": "create" },
+    { "surface": "heavens", "lemma": "heaven" },
+    { "surface": "earth", "lemma": "earth" }
+  ],
+  "1:2": [
+    { "surface": "earth", "lemma": "earth" },
+    { "surface": "Spirit", "lemma": "Spirit" },
+    { "surface": "God", "lemma": "God" }
+  ]
+}
+```
+
+Notes:
+
+- The dataset uses canonical TW terms for `lemma` and preserves the verse’s surface casing for `surface`.
+- Multi-word terms and morphological variants are supported via the existing trie matcher.
+- Files are named `keywords_<USFMBOOK>.json` (e.g., `keywords_GEN.json`).
+
 ### As a Library (Node.js/ESM/React)
 
 Install as a dependency:

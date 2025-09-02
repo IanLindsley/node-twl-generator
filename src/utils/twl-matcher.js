@@ -90,7 +90,7 @@ function generateVariants(term, isName = false) {
 /**
  * Optimized PrefixTrie for fast term matching with case sensitivity
  */
-class PrefixTrie {
+export class PrefixTrie {
   constructor() {
     this.exactCaseRoot = {}; // For exact case matches
     this.lowerCaseRoot = {}; // For case-insensitive fallback
@@ -208,7 +208,7 @@ class PrefixTrie {
 /**
  * Create optimized term map using PrefixTrie
  */
-function createOptimizedTermMap(twTerms) {
+export function createOptimizedTermMap(twTerms) {
   const trie = new PrefixTrie();
   let termCount = 0;
 
@@ -224,7 +224,7 @@ function createOptimizedTermMap(twTerms) {
       let variants = new Set([originalTerm]);
       const isName = articles[0].startsWith('names/') || articles[1]?.startsWith('names/')
       variants = generateVariants(originalTerm, isName);
-      console.log(variants)
+      // console.debug(variants)
       for (const variant of variants) {
         if (variant !== originalTerm) {
           trie.insert(variant, originalTerm, articles, false);
@@ -241,7 +241,7 @@ function createOptimizedTermMap(twTerms) {
 /**
  * Fast matching using optimized algorithm
  */
-function findMatches(verseText, termTrie) {
+export function findMatches(verseText, termTrie) {
   const matches = [];
   let currentPos = 0;
   let processedText = '';

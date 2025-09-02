@@ -1,0 +1,4045 @@
+{
+  "1:1": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "ruled",
+      "lemma": "rule"
+    },
+    {
+      "surface": "Ethiopia",
+      "lemma": "Ethiopia"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "reign",
+      "lemma": "reign"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "Persia",
+      "lemma": "Persia"
+    },
+    {
+      "surface": "Media",
+      "lemma": "Media"
+    },
+    {
+      "surface": "noblemen",
+      "lemma": "noblemen"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "fulfilled",
+      "lemma": "fulfilled"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "courtyard",
+      "lemma": "courtyard"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "hanging",
+      "lemma": "hang"
+    },
+    {
+      "surface": "purple",
+      "lemma": "purple"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "pillars",
+      "lemma": "pillar"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "serving",
+      "lemma": "serve"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "pleased",
+      "lemma": "please"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "served",
+      "lemma": "serve"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    }
+  ],
+  "1:12": [
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "1:13": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "wise men",
+      "lemma": "wise men"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    }
+  ],
+  "1:14": [
+    {
+      "surface": "Tarshish",
+      "lemma": "Tarshish"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "Persia",
+      "lemma": "Persia"
+    },
+    {
+      "surface": "Media",
+      "lemma": "Media"
+    },
+    {
+      "surface": "seers",
+      "lemma": "seer"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    }
+  ],
+  "1:15": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    }
+  ],
+  "1:16": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "wrong",
+      "lemma": "wrong"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "1:17": [
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    }
+  ],
+  "1:18": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Persia",
+      "lemma": "Persia"
+    },
+    {
+      "surface": "Media",
+      "lemma": "Media"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    },
+    {
+      "surface": "wrath",
+      "lemma": "wrath"
+    }
+  ],
+  "1:19": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "laws",
+      "lemma": "law"
+    },
+    {
+      "surface": "Persia",
+      "lemma": "Persia"
+    },
+    {
+      "surface": "Media",
+      "lemma": "Media"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "better",
+      "lemma": "better"
+    }
+  ],
+  "1:20": [
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "1:21": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    }
+  ],
+  "1:22": [
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "ruling",
+      "lemma": "rule"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "2:1": [
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    }
+  ],
+  "2:2": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "served",
+      "lemma": "serve"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    },
+    {
+      "surface": "virgins",
+      "lemma": "virgin"
+    },
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    }
+  ],
+  "2:3": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "appoint",
+      "lemma": "appoint"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "virgin",
+      "lemma": "virgin"
+    },
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "eunuch",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    }
+  ],
+  "2:4": [
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    }
+  ],
+  "2:5": [
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Shimei",
+      "lemma": "Shimei"
+    }
+  ],
+  "2:6": [
+    {
+      "surface": "exiled",
+      "lemma": "exiled"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "exiles",
+      "lemma": "exile"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Nebuchadnezzar",
+      "lemma": "Nebuchadnezzar"
+    },
+    {
+      "surface": "Babylon",
+      "lemma": "Babylon"
+    }
+  ],
+  "2:7": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "2:8": [
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    }
+  ],
+  "2:9": [
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    },
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    },
+    {
+      "surface": "chosen",
+      "lemma": "chosen"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "best",
+      "lemma": "best"
+    }
+  ],
+  "2:10": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "declared",
+      "lemma": "declare"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    }
+  ],
+  "2:11": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "courtyard",
+      "lemma": "courtyard"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    }
+  ],
+  "2:12": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "months",
+      "lemma": "month"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "fulfilled",
+      "lemma": "fulfilled"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "myrrh",
+      "lemma": "myrrh"
+    }
+  ],
+  "2:13": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "2:14": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "eunuch",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    },
+    {
+      "surface": "concubines",
+      "lemma": "concubine"
+    },
+    {
+      "surface": "delighted",
+      "lemma": "delight"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    }
+  ],
+  "2:15": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "eunuch",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    }
+  ],
+  "2:16": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "tenth",
+      "lemma": "tenth"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "reign",
+      "lemma": "reign"
+    }
+  ],
+  "2:17": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "loved",
+      "lemma": "love"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "virgins",
+      "lemma": "virgin"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Vashti",
+      "lemma": "Vashti"
+    }
+  ],
+  "2:18": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "2:19": [
+    {
+      "surface": "virgins",
+      "lemma": "virgin"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:20": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "declared",
+      "lemma": "declare"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "2:21": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "doorway",
+      "lemma": "doorway"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "2:22": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "declared",
+      "lemma": "declare"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:23": [
+    {
+      "surface": "hanged",
+      "lemma": "hang"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "3:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "authority",
+      "lemma": "authority"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    }
+  ],
+  "3:2": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "bowing",
+      "lemma": "bow"
+    },
+    {
+      "surface": "prostrating",
+      "lemma": "prostrate"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "bow down",
+      "lemma": "bow down"
+    },
+    {
+      "surface": "prostrate",
+      "lemma": "prostrate"
+    }
+  ],
+  "3:3": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "trespassing",
+      "lemma": "trespass"
+    }
+  ],
+  "3:4": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    }
+  ],
+  "3:5": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "bow down",
+      "lemma": "bow down"
+    },
+    {
+      "surface": "prostrate",
+      "lemma": "prostrate"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "3:6": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "annihilate",
+      "lemma": "annihilate"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "3:7": [
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "lot",
+      "lemma": "lots"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "3:8": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "scattered",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "dispersed",
+      "lemma": "disperse"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "laws",
+      "lemma": "law"
+    },
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "leave",
+      "lemma": "leave"
+    }
+  ],
+  "3:9": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "3:10": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "adversary",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "3:11": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "3:12": [
+    {
+      "surface": "scribes",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "sealed",
+      "lemma": "sealed"
+    }
+  ],
+  "3:13": [
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "annihilate",
+      "lemma": "annihilate"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    },
+    {
+      "surface": "spoils",
+      "lemma": "spoils"
+    }
+  ],
+  "3:14": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "3:15": [
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    }
+  ],
+  "4:1": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "knew",
+      "lemma": "knew"
+    },
+    {
+      "surface": "sackcloth",
+      "lemma": "sackcloth"
+    },
+    {
+      "surface": "outcry",
+      "lemma": "outcry"
+    }
+  ],
+  "4:2": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "sackcloth",
+      "lemma": "sackcloth"
+    }
+  ],
+  "4:3": [
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "mourning",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "fasting",
+      "lemma": "fasting"
+    },
+    {
+      "surface": "weeping",
+      "lemma": "weeping"
+    },
+    {
+      "surface": "lamenting",
+      "lemma": "lament"
+    },
+    {
+      "surface": "sackcloth",
+      "lemma": "sackcloth"
+    }
+  ],
+  "4:4": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "seized",
+      "lemma": "seize"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "sackcloth",
+      "lemma": "sackcloth"
+    }
+  ],
+  "4:5": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "4:6": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "4:7": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "reported",
+      "lemma": "reported"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    }
+  ],
+  "4:8": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "annihilate",
+      "lemma": "annihilate"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "implore",
+      "lemma": "implore"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "4:9": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "4:10": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "4:11": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "court",
+      "lemma": "court"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "scepter",
+      "lemma": "scepter"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "4:12": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    }
+  ],
+  "4:13": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "4:14": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "deliverance",
+      "lemma": "deliverance"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    }
+  ],
+  "4:15": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "4:16": [
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "fast",
+      "lemma": "fast"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "likewise",
+      "lemma": "likewise"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "4:17": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    }
+  ],
+  "5:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "court",
+      "lemma": "court"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    }
+  ],
+  "5:2": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "court",
+      "lemma": "court"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "scepter",
+      "lemma": "scepter"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    }
+  ],
+  "5:3": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    }
+  ],
+  "5:4": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    }
+  ],
+  "5:5": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    }
+  ],
+  "5:6": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    }
+  ],
+  "5:7": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    }
+  ],
+  "5:8": [
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    }
+  ],
+  "5:9": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "joyful",
+      "lemma": "joyful"
+    },
+    {
+      "surface": "pleased",
+      "lemma": "please"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "trembled",
+      "lemma": "tremble"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "5:10": [
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    }
+  ],
+  "5:11": [
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    }
+  ],
+  "5:12": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    }
+  ],
+  "5:13": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "5:14": [
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "hang",
+      "lemma": "hang"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "joyful",
+      "lemma": "joyful"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "6:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "called out",
+      "lemma": "called out"
+    }
+  ],
+  "6:2": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "doorway",
+      "lemma": "doorway"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "6:3": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "served",
+      "lemma": "serve"
+    }
+  ],
+  "6:4": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "court",
+      "lemma": "court"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "hang",
+      "lemma": "hang"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "prepared",
+      "lemma": "prepared"
+    }
+  ],
+  "6:5": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "courtyard",
+      "lemma": "courtyard"
+    }
+  ],
+  "6:6": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "delighted",
+      "lemma": "delight"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    }
+  ],
+  "6:7": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "6:8": [
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    }
+  ],
+  "6:9": [
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "noble",
+      "lemma": "noble"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "proclaim",
+      "lemma": "proclaim"
+    }
+  ],
+  "6:10": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "6:11": [
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "called out",
+      "lemma": "called out"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "6:12": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "mourning",
+      "lemma": "mourn"
+    }
+  ],
+  "6:13": [
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    },
+    {
+      "surface": "wise men",
+      "lemma": "wise men"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "6:14": [
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    }
+  ],
+  "7:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    }
+  ],
+  "7:2": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    }
+  ],
+  "7:3": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "7:4": [
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    },
+    {
+      "surface": "slaves",
+      "lemma": "slave"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "7:5": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    }
+  ],
+  "7:6": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "adversary",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "enemy",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    }
+  ],
+  "7:7": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "7:8": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "banquet",
+      "lemma": "banquet"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    }
+  ],
+  "7:9": [
+    {
+      "surface": "eunuchs",
+      "lemma": "eunuch"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Hang",
+      "lemma": "hang"
+    }
+  ],
+  "7:10": [
+    {
+      "surface": "hanged",
+      "lemma": "hang"
+    },
+    {
+      "surface": "prepared",
+      "lemma": "prepared"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "8:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "adversary",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "8:2": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "8:3": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "implored",
+      "lemma": "implore"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "8:4": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "scepter",
+      "lemma": "scepter"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    }
+  ],
+  "8:5": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "8:6": [
+    {
+      "surface": "bear",
+      "lemma": "bear"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    },
+    {
+      "surface": "kindred",
+      "lemma": "kindred"
+    }
+  ],
+  "8:7": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "hanged",
+      "lemma": "hang"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "8:8": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "seal",
+      "lemma": "seal"
+    },
+    {
+      "surface": "sealed",
+      "lemma": "sealed"
+    }
+  ],
+  "8:9": [
+    {
+      "surface": "scribes",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "Ethiopia",
+      "lemma": "Ethiopia"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "8:10": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "sealed",
+      "lemma": "sealed"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "royal",
+      "lemma": "royal"
+    },
+    {
+      "surface": "mares",
+      "lemma": "mare"
+    }
+  ],
+  "8:11": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "annihilate",
+      "lemma": "annihilate"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    },
+    {
+      "surface": "spoil",
+      "lemma": "spoil"
+    }
+  ],
+  "8:12": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    }
+  ],
+  "8:13": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "prepared",
+      "lemma": "prepared"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "revenge",
+      "lemma": "revenge"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    }
+  ],
+  "8:14": [
+    {
+      "surface": "royal",
+      "lemma": "royal"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    }
+  ],
+  "8:15": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "royalty",
+      "lemma": "royalty"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "robe",
+      "lemma": "robe"
+    },
+    {
+      "surface": "purple",
+      "lemma": "purple"
+    },
+    {
+      "surface": "rejoiced",
+      "lemma": "rejoice"
+    }
+  ],
+  "8:16": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "8:17": [
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    }
+  ],
+  "9:1": [
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "hoped",
+      "lemma": "hoped"
+    }
+  ],
+  "9:2": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "assembled",
+      "lemma": "assemble"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "seeking",
+      "lemma": "seek"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    }
+  ],
+  "9:3": [
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "9:4": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "palace",
+      "lemma": "palace"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "report",
+      "lemma": "report"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "9:5": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    }
+  ],
+  "9:6": [
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "slaughtered",
+      "lemma": "slaughtered"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    }
+  ],
+  "9:7": [],
+  "9:8": [],
+  "9:9": [],
+  "9:10": [
+    {
+      "surface": "adversary",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "slaughtered",
+      "lemma": "slaughtered"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    }
+  ],
+  "9:11": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "report",
+      "lemma": "report"
+    },
+    {
+      "surface": "killed",
+      "lemma": "kill"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "9:12": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "slaughtered",
+      "lemma": "slaughtered"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    }
+  ],
+  "9:13": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "hang",
+      "lemma": "hang"
+    }
+  ],
+  "9:14": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "hanged",
+      "lemma": "hang"
+    }
+  ],
+  "9:15": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "assembled",
+      "lemma": "assemble"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "killed",
+      "lemma": "kill"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    }
+  ],
+  "9:16": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "assembled",
+      "lemma": "assemble"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "slaughtered",
+      "lemma": "slaughtered"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    }
+  ],
+  "9:17": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "feasting",
+      "lemma": "feasting"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    }
+  ],
+  "9:18": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "assembled",
+      "lemma": "assemble"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "feasting",
+      "lemma": "feasting"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    }
+  ],
+  "9:19": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "feasting",
+      "lemma": "feasting"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    }
+  ],
+  "9:20": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    }
+  ],
+  "9:21": [
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    }
+  ],
+  "9:22": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "mourning",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "feasting",
+      "lemma": "feasting"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    }
+  ],
+  "9:23": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    }
+  ],
+  "9:24": [
+    {
+      "surface": "adversary",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "annihilate",
+      "lemma": "annihilate"
+    },
+    {
+      "surface": "lot",
+      "lemma": "lots"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    }
+  ],
+  "9:25": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "hang",
+      "lemma": "hang"
+    }
+  ],
+  "9:26": [
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "9:27": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    }
+  ],
+  "9:28": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    },
+    {
+      "surface": "family",
+      "lemma": "family"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    }
+  ],
+  "9:29": [
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    }
+  ],
+  "9:30": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "provinces",
+      "lemma": "province"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "9:31": [
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "fasts",
+      "lemma": "fast"
+    },
+    {
+      "surface": "outcry",
+      "lemma": "outcry"
+    }
+  ],
+  "9:32": [
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "Esther",
+      "lemma": "Esther"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    }
+  ],
+  "10:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "tribute",
+      "lemma": "tribute"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    }
+  ],
+  "10:2": [
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "Media",
+      "lemma": "Media"
+    },
+    {
+      "surface": "Persia",
+      "lemma": "Persia"
+    }
+  ],
+  "10:3": [
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Jew",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Ahasuerus",
+      "lemma": "Ahasuerus"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "favored",
+      "lemma": "favor"
+    },
+    {
+      "surface": "seeking",
+      "lemma": "seek"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    }
+  ]
+}

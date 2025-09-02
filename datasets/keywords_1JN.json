@@ -1,0 +1,1651 @@
+{
+  "1:1": [],
+  "1:2": [
+    {
+      "surface": "testifying",
+      "lemma": "testify"
+    },
+    {
+      "surface": "announcing",
+      "lemma": "announce"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "declare",
+      "lemma": "declare"
+    },
+    {
+      "surface": "fellowship",
+      "lemma": "fellowship"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "fulfilled",
+      "lemma": "fulfilled"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "announcing",
+      "lemma": "announce"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "fellowship",
+      "lemma": "fellowship"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "fellowship",
+      "lemma": "fellowship"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "confess",
+      "lemma": "confess"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "forgive",
+      "lemma": "forgive"
+    },
+    {
+      "surface": "unrighteousness",
+      "lemma": "unrighteousness"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "sinned",
+      "lemma": "sin"
+    }
+  ],
+  "2:1": [
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "2:2": [
+    {
+      "surface": "propitiation",
+      "lemma": "propitiation"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "2:3": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "2:4": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    }
+  ],
+  "2:5": [
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "truly",
+      "lemma": "truly"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "perfected",
+      "lemma": "perfect"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "2:6": [
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    }
+  ],
+  "2:7": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    }
+  ],
+  "2:8": [
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "2:9": [],
+  "2:10": [
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "stumbling",
+      "lemma": "stumble"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "2:11": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "2:12": [
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "forgiven",
+      "lemma": "forgiven"
+    }
+  ],
+  "2:13": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    }
+  ],
+  "2:14": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "word of God",
+      "lemma": "word of God"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    }
+  ],
+  "2:15": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "2:16": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "lust",
+      "lemma": "lust"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    }
+  ],
+  "2:17": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "will of God",
+      "lemma": "will of God"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    }
+  ],
+  "2:18": [
+    {
+      "surface": "hour",
+      "lemma": "hour"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "antichrist",
+      "lemma": "antichrist"
+    },
+    {
+      "surface": "antichrists",
+      "lemma": "antichrist"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "2:19": [],
+  "2:20": [
+    {
+      "surface": "anointing",
+      "lemma": "anointing"
+    },
+    {
+      "surface": "Holy One",
+      "lemma": "Holy One"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "2:21": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "2:22": [
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "Christ",
+      "lemma": "Christ"
+    },
+    {
+      "surface": "antichrist",
+      "lemma": "antichrist"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    }
+  ],
+  "2:23": [
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "confessing",
+      "lemma": "confess"
+    }
+  ],
+  "2:24": [
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    }
+  ],
+  "2:25": [
+    {
+      "surface": "promise",
+      "lemma": "promise"
+    },
+    {
+      "surface": "promised",
+      "lemma": "promised"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "2:26": [],
+  "2:27": [
+    {
+      "surface": "anointing",
+      "lemma": "anointing"
+    },
+    {
+      "surface": "received",
+      "lemma": "receive"
+    },
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "2:28": [
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "2:29": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    }
+  ],
+  "3:1": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "children of God",
+      "lemma": "children of God"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "3:2": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "children of God",
+      "lemma": "children of God"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    }
+  ],
+  "3:3": [
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "purifies",
+      "lemma": "purify"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    }
+  ],
+  "3:4": [
+    {
+      "surface": "committing",
+      "lemma": "commit"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "commits",
+      "lemma": "commit"
+    },
+    {
+      "surface": "lawlessness",
+      "lemma": "lawlessness"
+    }
+  ],
+  "3:5": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "3:6": [
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "sinning",
+      "lemma": "sinning"
+    }
+  ],
+  "3:7": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    }
+  ],
+  "3:8": [
+    {
+      "surface": "committing",
+      "lemma": "commit"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "devil",
+      "lemma": "devil"
+    },
+    {
+      "surface": "sinned",
+      "lemma": "sin"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    }
+  ],
+  "3:9": [
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "commit",
+      "lemma": "commit"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "3:10": [
+    {
+      "surface": "children of God",
+      "lemma": "children of God"
+    },
+    {
+      "surface": "devil",
+      "lemma": "devil"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    }
+  ],
+  "3:11": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "3:12": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Cain",
+      "lemma": "Cain"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    },
+    {
+      "surface": "killed",
+      "lemma": "kill"
+    },
+    {
+      "surface": "kill",
+      "lemma": "kill"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "3:13": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "3:14": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    }
+  ],
+  "3:15": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "3:16": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "3:17": [
+    {
+      "surface": "possessions",
+      "lemma": "possession"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "3:18": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "3:19": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "3:20": [
+    {
+      "surface": "condemns",
+      "lemma": "condemn"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    }
+  ],
+  "3:21": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "condemn",
+      "lemma": "condemn"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "3:22": [
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    }
+  ],
+  "3:23": [
+    {
+      "surface": "believe",
+      "lemma": "believe"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    }
+  ],
+  "3:24": [
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    }
+  ],
+  "4:1": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "believe",
+      "lemma": "believe"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "test",
+      "lemma": "test"
+    },
+    {
+      "surface": "spirits",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:2": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Spirit of God",
+      "lemma": "Spirit of God"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "confesses",
+      "lemma": "confess"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "4:3": [
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "confess",
+      "lemma": "confess"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "antichrist",
+      "lemma": "antichrist"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:4": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:5": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:6": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "4:7": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    }
+  ],
+  "4:8": [
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "4:9": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    }
+  ],
+  "4:10": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "loved",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "propitiation",
+      "lemma": "propitiation"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    }
+  ],
+  "4:11": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "loved",
+      "lemma": "love"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "4:12": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "perfected",
+      "lemma": "perfect"
+    }
+  ],
+  "4:13": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    }
+  ],
+  "4:14": [
+    {
+      "surface": "testify",
+      "lemma": "testify"
+    },
+    {
+      "surface": "Father",
+      "lemma": "Father"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "Savior",
+      "lemma": "Savior"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:15": [
+    {
+      "surface": "confesses",
+      "lemma": "confess"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "4:16": [
+    {
+      "surface": "believed",
+      "lemma": "believe"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "4:17": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "perfected",
+      "lemma": "perfect"
+    },
+    {
+      "surface": "day of judgment",
+      "lemma": "day of judgment"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "4:18": [
+    {
+      "surface": "Fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "perfect",
+      "lemma": "perfect"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "punishment",
+      "lemma": "punishment"
+    },
+    {
+      "surface": "fearing",
+      "lemma": "fear"
+    },
+    {
+      "surface": "perfected",
+      "lemma": "perfect"
+    }
+  ],
+  "4:19": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "loved",
+      "lemma": "love"
+    }
+  ],
+  "4:20": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    }
+  ],
+  "4:21": [
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "5:1": [
+    {
+      "surface": "believing",
+      "lemma": "believe"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "Christ",
+      "lemma": "Christ"
+    },
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "begetting",
+      "lemma": "beget"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    }
+  ],
+  "5:2": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "children of God",
+      "lemma": "children of God"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "5:3": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "5:4": [
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "faith",
+      "lemma": "faith"
+    }
+  ],
+  "5:5": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "believing",
+      "lemma": "believe"
+    },
+    {
+      "surface": "Jesus",
+      "lemma": "Jesus"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "5:6": [
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    },
+    {
+      "surface": "testifying",
+      "lemma": "testify"
+    }
+  ],
+  "5:7": [
+    {
+      "surface": "testifying",
+      "lemma": "testify"
+    }
+  ],
+  "5:8": [
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    }
+  ],
+  "5:9": [
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "testimony",
+      "lemma": "testimony"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "5:10": [
+    {
+      "surface": "believing",
+      "lemma": "believe"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "testimony",
+      "lemma": "testimony"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "believed",
+      "lemma": "believe"
+    }
+  ],
+  "5:11": [
+    {
+      "surface": "testimony",
+      "lemma": "testimony"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "5:12": [
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "5:13": [
+    {
+      "surface": "believing",
+      "lemma": "believe"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "5:14": [],
+  "5:15": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "5:16": [
+    {
+      "surface": "sinning",
+      "lemma": "sinning"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "pray",
+      "lemma": "pray"
+    }
+  ],
+  "5:17": [
+    {
+      "surface": "unrighteousness",
+      "lemma": "unrighteousness"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "5:18": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "begotten",
+      "lemma": "begotten"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    }
+  ],
+  "5:19": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    }
+  ],
+  "5:20": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "the Son",
+      "lemma": "the Son"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "Jesus Christ",
+      "lemma": "Jesus Christ"
+    },
+    {
+      "surface": "eternal",
+      "lemma": "eternal"
+    }
+  ],
+  "5:21": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "idols",
+      "lemma": "idol"
+    }
+  ]
+}

@@ -1,0 +1,4242 @@
+{
+  "1:1": [
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Darius",
+      "lemma": "Darius"
+    },
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    },
+    {
+      "surface": "prophet",
+      "lemma": "prophet"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "forever",
+      "lemma": "forever"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "decrees",
+      "lemma": "decree"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "repented",
+      "lemma": "repent"
+    },
+    {
+      "surface": "Just",
+      "lemma": "just"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "deserved",
+      "lemma": "deserve"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Darius",
+      "lemma": "Darius"
+    },
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    },
+    {
+      "surface": "prophet",
+      "lemma": "prophet"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "1:12": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "compassion",
+      "lemma": "compassion"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    }
+  ],
+  "1:13": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "1:14": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Call",
+      "lemma": "call"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "jealous",
+      "lemma": "jealous"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "passion",
+      "lemma": "passions"
+    }
+  ],
+  "1:15": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    }
+  ],
+  "1:16": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "1:17": [
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "choose",
+      "lemma": "choose"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "1:18": [
+    {
+      "surface": "horns",
+      "lemma": "horns"
+    }
+  ],
+  "1:19": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "horns",
+      "lemma": "horns"
+    },
+    {
+      "surface": "scattered",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "1:20": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "1:21": [
+    {
+      "surface": "horns",
+      "lemma": "horns"
+    },
+    {
+      "surface": "scattered",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "terrify",
+      "lemma": "terrify"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "horn",
+      "lemma": "horn"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "scatter",
+      "lemma": "scatter"
+    }
+  ],
+  "2:1": [],
+  "2:2": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "2:3": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "2:4": [
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "beasts",
+      "lemma": "beast"
+    }
+  ],
+  "2:5": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    }
+  ],
+  "2:6": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "declares",
+      "lemma": "declare"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "scattered",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "winds",
+      "lemma": "wind"
+    },
+    {
+      "surface": "skies",
+      "lemma": "sky"
+    }
+  ],
+  "2:7": [
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "Babylon",
+      "lemma": "Babylon"
+    }
+  ],
+  "2:8": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "honored",
+      "lemma": "honor"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "plundered",
+      "lemma": "plundered"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "2:9": [
+    {
+      "surface": "shake",
+      "lemma": "shake"
+    },
+    {
+      "surface": "hand over",
+      "lemma": "hand over"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    },
+    {
+      "surface": "slaves",
+      "lemma": "slave"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "2:10": [
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "declares",
+      "lemma": "declare"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "2:11": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "2:12": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "possession",
+      "lemma": "possession"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "choose",
+      "lemma": "choose"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "2:13": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "holy place",
+      "lemma": "holy place"
+    }
+  ],
+  "3:1": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Satan",
+      "lemma": "Satan"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    }
+  ],
+  "3:2": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Satan",
+      "lemma": "Satan"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "chosen",
+      "lemma": "chosen"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "3:3": [
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "3:4": [
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "3:5": [
+    {
+      "surface": "clean",
+      "lemma": "clean"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "3:6": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    }
+  ],
+  "3:7": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "govern",
+      "lemma": "govern"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "courts",
+      "lemma": "court"
+    }
+  ],
+  "3:8": [
+    {
+      "surface": "Please",
+      "lemma": "please"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    },
+    {
+      "surface": "companions",
+      "lemma": "companion"
+    },
+    {
+      "surface": "sign",
+      "lemma": "sign"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    }
+  ],
+  "3:9": [
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "3:10": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "vine",
+      "lemma": "vine"
+    },
+    {
+      "surface": "fig",
+      "lemma": "fig"
+    }
+  ],
+  "4:1": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "4:2": [
+    {
+      "surface": "lampstand",
+      "lemma": "lampstand"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "lamps",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    }
+  ],
+  "4:3": [
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    }
+  ],
+  "4:4": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    }
+  ],
+  "4:5": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    }
+  ],
+  "4:6": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    },
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "4:7": [
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "Grace",
+      "lemma": "grace"
+    }
+  ],
+  "4:8": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    }
+  ],
+  "4:9": [
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "foundation",
+      "lemma": "foundation"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "4:10": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "4:11": [
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "lampstand",
+      "lemma": "lampstand"
+    }
+  ],
+  "4:12": [
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "pipes",
+      "lemma": "pipe"
+    },
+    {
+      "surface": "golden",
+      "lemma": "golden"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    }
+  ],
+  "4:13": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    }
+  ],
+  "4:14": [
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "5:1": [
+    {
+      "surface": "scroll",
+      "lemma": "scroll"
+    }
+  ],
+  "5:2": [
+    {
+      "surface": "scroll",
+      "lemma": "scroll"
+    }
+  ],
+  "5:3": [
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "thief",
+      "lemma": "thief"
+    },
+    {
+      "surface": "swears",
+      "lemma": "swear"
+    },
+    {
+      "surface": "oath",
+      "lemma": "oath"
+    }
+  ],
+  "5:4": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "thief",
+      "lemma": "thief"
+    },
+    {
+      "surface": "swears",
+      "lemma": "swear"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "consume",
+      "lemma": "consume"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    }
+  ],
+  "5:5": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "5:6": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "5:7": [],
+  "5:8": [],
+  "5:9": [
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    }
+  ],
+  "5:10": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "5:11": [
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Shinar",
+      "lemma": "Shinar"
+    }
+  ],
+  "6:1": [
+    {
+      "surface": "chariots",
+      "lemma": "chariot"
+    },
+    {
+      "surface": "bronze",
+      "lemma": "bronze"
+    }
+  ],
+  "6:2": [
+    {
+      "surface": "chariot",
+      "lemma": "chariot"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    }
+  ],
+  "6:3": [
+    {
+      "surface": "chariot",
+      "lemma": "chariot"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    }
+  ],
+  "6:4": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    }
+  ],
+  "6:5": [
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    },
+    {
+      "surface": "winds",
+      "lemma": "wind"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "6:6": [
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    }
+  ],
+  "6:7": [
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "6:8": [
+    {
+      "surface": "called out",
+      "lemma": "called out"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "6:9": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    }
+  ],
+  "6:10": [
+    {
+      "surface": "exiles",
+      "lemma": "exile"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Josiah",
+      "lemma": "Josiah"
+    },
+    {
+      "surface": "Zephaniah",
+      "lemma": "Zephaniah"
+    },
+    {
+      "surface": "Babylon",
+      "lemma": "Babylon"
+    }
+  ],
+  "6:11": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    }
+  ],
+  "6:12": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "6:13": [
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "bear",
+      "lemma": "bear"
+    },
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "rule",
+      "lemma": "rule"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "6:14": [
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "Zephaniah",
+      "lemma": "Zephaniah"
+    },
+    {
+      "surface": "memorial",
+      "lemma": "memorial"
+    },
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "6:15": [
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "truly",
+      "lemma": "truly"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "7:1": [
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Darius",
+      "lemma": "Darius"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    }
+  ],
+  "7:2": [
+    {
+      "surface": "Bethel",
+      "lemma": "Bethel"
+    },
+    {
+      "surface": "beg",
+      "lemma": "beg"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "7:3": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "mourn",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "fast",
+      "lemma": "fast"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    }
+  ],
+  "7:4": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    }
+  ],
+  "7:5": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "fasted",
+      "lemma": "fast"
+    },
+    {
+      "surface": "mourned",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "truly",
+      "lemma": "truly"
+    },
+    {
+      "surface": "fasting",
+      "lemma": "fasting"
+    }
+  ],
+  "7:6": [],
+  "7:7": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "proclaimed",
+      "lemma": "proclaim"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "prosperity",
+      "lemma": "prosperity"
+    },
+    {
+      "surface": "Negev",
+      "lemma": "Negev"
+    }
+  ],
+  "7:8": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "7:9": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Judge",
+      "lemma": "judge"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    }
+  ],
+  "7:10": [
+    {
+      "surface": "foreigner",
+      "lemma": "foreigner"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    }
+  ],
+  "7:11": [],
+  "7:12": [
+    {
+      "surface": "hard",
+      "lemma": "hard"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Spirit",
+      "lemma": "Spirit"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    }
+  ],
+  "7:13": [
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    }
+  ],
+  "7:14": [
+    {
+      "surface": "scatter",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "desolate",
+      "lemma": "desolate"
+    },
+    {
+      "surface": "wasteland",
+      "lemma": "wasteland"
+    }
+  ],
+  "8:1": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    }
+  ],
+  "8:2": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "zeal",
+      "lemma": "zeal"
+    }
+  ],
+  "8:3": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "Holy",
+      "lemma": "holy"
+    }
+  ],
+  "8:4": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Old",
+      "lemma": "old"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    },
+    {
+      "surface": "staff",
+      "lemma": "staff"
+    }
+  ],
+  "8:5": [],
+  "8:6": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "remnant",
+      "lemma": "remnant"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "8:7": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "8:8": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "8:9": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "foundation",
+      "lemma": "foundation"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    }
+  ],
+  "8:10": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "beast",
+      "lemma": "beast"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "8:11": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "remnant",
+      "lemma": "remnant"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "8:12": [
+    {
+      "surface": "seeds",
+      "lemma": "seed"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "vine",
+      "lemma": "vine"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    },
+    {
+      "surface": "skies",
+      "lemma": "sky"
+    },
+    {
+      "surface": "remnant",
+      "lemma": "remnant"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    }
+  ],
+  "8:13": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "house of Israel",
+      "lemma": "house of Israel"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    }
+  ],
+  "8:14": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Just",
+      "lemma": "just"
+    },
+    {
+      "surface": "provoked",
+      "lemma": "provoked"
+    }
+  ],
+  "8:15": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    }
+  ],
+  "8:16": [
+    {
+      "surface": "person",
+      "lemma": "person"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "Judge",
+      "lemma": "judge"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "8:17": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "oaths",
+      "lemma": "oath"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "8:18": [
+    {
+      "surface": "word of Yahweh",
+      "lemma": "word of Yahweh"
+    }
+  ],
+  "8:19": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "fasts",
+      "lemma": "fast"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "tenth",
+      "lemma": "tenth"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "festivals",
+      "lemma": "festival"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "8:20": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "8:21": [
+    {
+      "surface": "beg",
+      "lemma": "beg"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    }
+  ],
+  "8:22": [
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "beg",
+      "lemma": "beg"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "8:23": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "language",
+      "lemma": "language"
+    },
+    {
+      "surface": "nation",
+      "lemma": "nation"
+    },
+    {
+      "surface": "robe",
+      "lemma": "robe"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "9:1": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Damascus",
+      "lemma": "Damascus"
+    },
+    {
+      "surface": "tribes",
+      "lemma": "tribe"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "9:2": [
+    {
+      "surface": "Hamath",
+      "lemma": "Hamath"
+    },
+    {
+      "surface": "Damascus",
+      "lemma": "Damascus"
+    },
+    {
+      "surface": "Tyre",
+      "lemma": "Tyre"
+    },
+    {
+      "surface": "Sidon",
+      "lemma": "Sidon"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "9:3": [
+    {
+      "surface": "Tyre",
+      "lemma": "Tyre"
+    },
+    {
+      "surface": "stronghold",
+      "lemma": "stronghold"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    }
+  ],
+  "9:4": [
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "dispossess",
+      "lemma": "dispossess"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "devoured",
+      "lemma": "devour"
+    }
+  ],
+  "9:5": [
+    {
+      "surface": "Ashkelon",
+      "lemma": "Ashkelon"
+    },
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    },
+    {
+      "surface": "Gaza",
+      "lemma": "Gaza"
+    },
+    {
+      "surface": "tremble",
+      "lemma": "tremble"
+    },
+    {
+      "surface": "Ekron",
+      "lemma": "Ekron"
+    },
+    {
+      "surface": "hopes",
+      "lemma": "hope"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "9:6": [
+    {
+      "surface": "Ashdod",
+      "lemma": "Ashdod"
+    },
+    {
+      "surface": "pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "Philistines",
+      "lemma": "Philistines"
+    }
+  ],
+  "9:7": [
+    {
+      "surface": "abominations",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "remnant",
+      "lemma": "remnant"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "clan",
+      "lemma": "clan"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Ekron",
+      "lemma": "Ekron"
+    },
+    {
+      "surface": "Jebusites",
+      "lemma": "Jebusite"
+    }
+  ],
+  "9:8": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "enemy",
+      "lemma": "enemy"
+    }
+  ],
+  "9:9": [
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "humble",
+      "lemma": "humble"
+    },
+    {
+      "surface": "donkey",
+      "lemma": "donkey"
+    }
+  ],
+  "9:10": [
+    {
+      "surface": "chariot",
+      "lemma": "chariot"
+    },
+    {
+      "surface": "Ephraim",
+      "lemma": "Ephraim"
+    },
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "bow",
+      "lemma": "bow"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "dominion",
+      "lemma": "dominion"
+    },
+    {
+      "surface": "the River",
+      "lemma": "the River"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "9:11": [
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "free",
+      "lemma": "free"
+    },
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    }
+  ],
+  "9:12": [
+    {
+      "surface": "stronghold",
+      "lemma": "stronghold"
+    },
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "declaring",
+      "lemma": "declare"
+    }
+  ],
+  "9:13": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "bow",
+      "lemma": "bow"
+    },
+    {
+      "surface": "Ephraim",
+      "lemma": "Ephraim"
+    },
+    {
+      "surface": "Zion",
+      "lemma": "Zion"
+    },
+    {
+      "surface": "Greece",
+      "lemma": "Greece"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "warrior",
+      "lemma": "warrior"
+    },
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    }
+  ],
+  "9:14": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Lord Yahweh",
+      "lemma": "Lord Yahweh"
+    },
+    {
+      "surface": "trumpet",
+      "lemma": "trumpet"
+    }
+  ],
+  "9:15": [
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "devour",
+      "lemma": "devour"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "drunk",
+      "lemma": "drunk"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "altar",
+      "lemma": "altar"
+    }
+  ],
+  "9:16": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "9:17": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "virgins",
+      "lemma": "virgin"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "10:1": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    }
+  ],
+  "10:2": [
+    {
+      "surface": "household",
+      "lemma": "household"
+    },
+    {
+      "surface": "idols",
+      "lemma": "idol"
+    },
+    {
+      "surface": "diviners",
+      "lemma": "diviner"
+    },
+    {
+      "surface": "envision",
+      "lemma": "envision"
+    },
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    },
+    {
+      "surface": "dreams",
+      "lemma": "dream"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "suffer",
+      "lemma": "suffer"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    }
+  ],
+  "10:3": [
+    {
+      "surface": "wrath",
+      "lemma": "wrath"
+    },
+    {
+      "surface": "shepherds",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "goats",
+      "lemma": "goat"
+    },
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "punish",
+      "lemma": "punish"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "warhorse",
+      "lemma": "warhorse"
+    }
+  ],
+  "10:4": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "cornerstone",
+      "lemma": "cornerstone"
+    },
+    {
+      "surface": "tent",
+      "lemma": "tent"
+    },
+    {
+      "surface": "bow",
+      "lemma": "bow"
+    },
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    }
+  ],
+  "10:5": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "warriors",
+      "lemma": "warrior"
+    },
+    {
+      "surface": "trample",
+      "lemma": "trample"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    },
+    {
+      "surface": "warhorses",
+      "lemma": "warhorse"
+    }
+  ],
+  "10:6": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "save",
+      "lemma": "save"
+    },
+    {
+      "surface": "Joseph",
+      "lemma": "Joseph"
+    },
+    {
+      "surface": "restore",
+      "lemma": "restore"
+    },
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "I am Yahweh",
+      "lemma": "I am Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "10:7": [
+    {
+      "surface": "Ephraim",
+      "lemma": "Ephraim"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "warrior",
+      "lemma": "warrior"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "10:8": [
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    }
+  ],
+  "10:9": [
+    {
+      "surface": "sowed",
+      "lemma": "sow"
+    }
+  ],
+  "10:10": [
+    {
+      "surface": "restore",
+      "lemma": "restore"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "Assyria",
+      "lemma": "Assyria"
+    },
+    {
+      "surface": "Gilead",
+      "lemma": "Gilead"
+    },
+    {
+      "surface": "Lebanon",
+      "lemma": "Lebanon"
+    }
+  ],
+  "10:11": [
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "affliction",
+      "lemma": "affliction"
+    },
+    {
+      "surface": "dry",
+      "lemma": "dry"
+    },
+    {
+      "surface": "the Nile",
+      "lemma": "the Nile"
+    },
+    {
+      "surface": "majesty",
+      "lemma": "majesty"
+    },
+    {
+      "surface": "Assyria",
+      "lemma": "Assyria"
+    },
+    {
+      "surface": "scepter",
+      "lemma": "scepter"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "Egyptians",
+      "lemma": "Egyptian"
+    }
+  ],
+  "10:12": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "11:1": [
+    {
+      "surface": "Lebanon",
+      "lemma": "Lebanon"
+    },
+    {
+      "surface": "devour",
+      "lemma": "devour"
+    },
+    {
+      "surface": "cedars",
+      "lemma": "cedar"
+    }
+  ],
+  "11:2": [
+    {
+      "surface": "Lament",
+      "lemma": "lament"
+    },
+    {
+      "surface": "cypress",
+      "lemma": "cypress"
+    },
+    {
+      "surface": "cedar",
+      "lemma": "cedar"
+    },
+    {
+      "surface": "devastated",
+      "lemma": "devastate"
+    },
+    {
+      "surface": "oaks",
+      "lemma": "oak"
+    },
+    {
+      "surface": "Bashan",
+      "lemma": "Bashan"
+    }
+  ],
+  "11:3": [
+    {
+      "surface": "shepherds",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "lions",
+      "lemma": "lion"
+    },
+    {
+      "surface": "pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "Jordan River",
+      "lemma": "Jordan River"
+    },
+    {
+      "surface": "devastated",
+      "lemma": "devastate"
+    }
+  ],
+  "11:4": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    }
+  ],
+  "11:5": [
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "punished",
+      "lemma": "punished"
+    },
+    {
+      "surface": "Blessed",
+      "lemma": "bless"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "shepherds",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "working",
+      "lemma": "work"
+    },
+    {
+      "surface": "flocks",
+      "lemma": "flock"
+    }
+  ],
+  "11:6": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "turn over",
+      "lemma": "turn over"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "deliver",
+      "lemma": "deliver"
+    }
+  ],
+  "11:7": [
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "staffs",
+      "lemma": "staff"
+    },
+    {
+      "surface": "staff",
+      "lemma": "staff"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "Favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "shepherded",
+      "lemma": "shepherd"
+    }
+  ],
+  "11:8": [
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "shepherds",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "impatient",
+      "lemma": "impatient"
+    }
+  ],
+  "11:9": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "11:10": [
+    {
+      "surface": "staff",
+      "lemma": "staff"
+    },
+    {
+      "surface": "Favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "tribes",
+      "lemma": "tribe"
+    }
+  ],
+  "11:11": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "watching",
+      "lemma": "watch"
+    },
+    {
+      "surface": "knew",
+      "lemma": "knew"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "11:12": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "11:13": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "11:14": [
+    {
+      "surface": "staff",
+      "lemma": "staff"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "11:15": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    }
+  ],
+  "11:16": [
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "perishing",
+      "lemma": "perish"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "11:17": [
+    {
+      "surface": "Woe",
+      "lemma": "woe"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "forsakes",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    }
+  ],
+  "12:1": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "skies",
+      "lemma": "sky"
+    },
+    {
+      "surface": "foundation",
+      "lemma": "foundation"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "12:2": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "stagger",
+      "lemma": "stagger"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "siege",
+      "lemma": "siege"
+    }
+  ],
+  "12:3": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "hurt",
+      "lemma": "hurt"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    }
+  ],
+  "12:4": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "12:5": [
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "12:6": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "consume",
+      "lemma": "consume"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:7": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "save",
+      "lemma": "save"
+    },
+    {
+      "surface": "tents",
+      "lemma": "tent"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:8": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "angel",
+      "lemma": "angel"
+    }
+  ],
+  "12:9": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:10": [
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "compassion",
+      "lemma": "compassion"
+    },
+    {
+      "surface": "pleading",
+      "lemma": "plead"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "mourn",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "mourns",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "lament",
+      "lemma": "lament"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "firstborn",
+      "lemma": "firstborn"
+    }
+  ],
+  "12:11": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "laments",
+      "lemma": "lament"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Rimmon",
+      "lemma": "Rimmon"
+    }
+  ],
+  "12:12": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "mourn",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "clan",
+      "lemma": "clan"
+    },
+    {
+      "surface": "clans",
+      "lemma": "clan"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Nathan",
+      "lemma": "Nathan"
+    }
+  ],
+  "12:13": [
+    {
+      "surface": "clan",
+      "lemma": "clan"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Levi",
+      "lemma": "Levi"
+    }
+  ],
+  "12:14": [
+    {
+      "surface": "clan",
+      "lemma": "clan"
+    },
+    {
+      "surface": "clans",
+      "lemma": "clan"
+    }
+  ],
+  "13:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "13:2": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "idols",
+      "lemma": "idol"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "13:3": [
+    {
+      "surface": "prophesy",
+      "lemma": "prophesy"
+    },
+    {
+      "surface": "bore",
+      "lemma": "bore"
+    },
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "prophesies",
+      "lemma": "prophesy"
+    }
+  ],
+  "13:4": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "prophet",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "ashamed",
+      "lemma": "ashamed"
+    },
+    {
+      "surface": "vision",
+      "lemma": "vision"
+    },
+    {
+      "surface": "prophesy",
+      "lemma": "prophesy"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "deceive",
+      "lemma": "deceive"
+    }
+  ],
+  "13:5": [
+    {
+      "surface": "prophet",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    }
+  ],
+  "13:6": [
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "13:7": [
+    {
+      "surface": "Sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "scatter",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "13:8": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "13:9": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "test",
+      "lemma": "test"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "tested",
+      "lemma": "tested"
+    },
+    {
+      "surface": "call",
+      "lemma": "call"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "14:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    }
+  ],
+  "14:2": [
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "nation",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "captured",
+      "lemma": "capture"
+    },
+    {
+      "surface": "houses",
+      "lemma": "house"
+    },
+    {
+      "surface": "plundered",
+      "lemma": "plundered"
+    },
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    }
+  ],
+  "14:3": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "14:4": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Mount of Olives",
+      "lemma": "Mount of Olives"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "14:5": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Uzziah",
+      "lemma": "Uzziah"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    }
+  ],
+  "14:6": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "14:7": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "14:8": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "the western sea",
+      "lemma": "the western sea"
+    }
+  ],
+  "14:9": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "14:10": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Arabah",
+      "lemma": "Arabah"
+    },
+    {
+      "surface": "Rimmon",
+      "lemma": "Rimmon"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    },
+    {
+      "surface": "Gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Tower",
+      "lemma": "tower"
+    },
+    {
+      "surface": "king’s",
+      "lemma": "king’s"
+    },
+    {
+      "surface": "winepresses",
+      "lemma": "winepress"
+    }
+  ],
+  "14:11": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "complete",
+      "lemma": "complete"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "14:12": [
+    {
+      "surface": "plague",
+      "lemma": "plague"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "tongues",
+      "lemma": "tongue"
+    }
+  ],
+  "14:13": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "seize",
+      "lemma": "seize"
+    }
+  ],
+  "14:14": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "14:15": [
+    {
+      "surface": "plague",
+      "lemma": "plague"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "mules",
+      "lemma": "mule"
+    },
+    {
+      "surface": "camels",
+      "lemma": "camel"
+    },
+    {
+      "surface": "donkeys",
+      "lemma": "donkey"
+    },
+    {
+      "surface": "animal",
+      "lemma": "animals"
+    },
+    {
+      "surface": "suffer",
+      "lemma": "suffer"
+    }
+  ],
+  "14:16": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "worship",
+      "lemma": "worship"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "Festival",
+      "lemma": "festival"
+    },
+    {
+      "surface": "Shelters",
+      "lemma": "shelter"
+    }
+  ],
+  "14:17": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "worship",
+      "lemma": "worship"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "14:18": [
+    {
+      "surface": "nation",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "plague",
+      "lemma": "plague"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "Festival",
+      "lemma": "festival"
+    },
+    {
+      "surface": "Shelters",
+      "lemma": "shelter"
+    }
+  ],
+  "14:19": [
+    {
+      "surface": "punishment",
+      "lemma": "punishment"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "nation",
+      "lemma": "nation"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "Festival",
+      "lemma": "festival"
+    },
+    {
+      "surface": "Shelters",
+      "lemma": "shelter"
+    }
+  ],
+  "14:20": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Yahweh’s house",
+      "lemma": "Yahweh’s house"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "altar",
+      "lemma": "altar"
+    }
+  ],
+  "14:21": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Yahweh of hosts",
+      "lemma": "Yahweh of hosts"
+    },
+    {
+      "surface": "sacrifice",
+      "lemma": "sacrifice"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ]
+}

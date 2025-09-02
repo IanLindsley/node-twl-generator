@@ -1,0 +1,181 @@
+{
+  "1:1": [
+    {
+      "surface": "elder",
+      "lemma": "elder"
+    },
+    {
+      "surface": "beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "pray",
+      "lemma": "pray"
+    },
+    {
+      "surface": "prosper",
+      "lemma": "prosper"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "prospers",
+      "lemma": "prosper"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "rejoiced",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "church",
+      "lemma": "church"
+    },
+    {
+      "surface": "well",
+      "lemma": "well"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "receiving",
+      "lemma": "receive"
+    },
+    {
+      "surface": "Gentiles",
+      "lemma": "Gentile"
+    }
+  ],
+  "1:8": [],
+  "1:9": [
+    {
+      "surface": "church",
+      "lemma": "church"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "call",
+      "lemma": "call"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "church",
+      "lemma": "church"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "Beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "1:12": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "testimony",
+      "lemma": "testimony"
+    }
+  ],
+  "1:13": [],
+  "1:14": [],
+  "1:15": [
+    {
+      "surface": "Peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    }
+  ]
+}

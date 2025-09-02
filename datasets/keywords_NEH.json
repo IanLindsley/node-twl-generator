@@ -1,0 +1,6112 @@
+{
+  "1:1": [
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    },
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "reproach",
+      "lemma": "reproach"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "mourned",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "fasting",
+      "lemma": "fasting"
+    },
+    {
+      "surface": "praying",
+      "lemma": "pray"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "Please",
+      "lemma": "please"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "praying",
+      "lemma": "pray"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "confessing",
+      "lemma": "confess"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "sinned",
+      "lemma": "sin"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "corruption",
+      "lemma": "corruption"
+    },
+    {
+      "surface": "statutes",
+      "lemma": "statute"
+    },
+    {
+      "surface": "judgments",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "Please",
+      "lemma": "please"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "scatter",
+      "lemma": "scatter"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "chosen",
+      "lemma": "chosen"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "redeemed",
+      "lemma": "redeem"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "please",
+      "lemma": "please"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "cupbearer",
+      "lemma": "cupbearer"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:1": [
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Artaxerxes",
+      "lemma": "Artaxerxes"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "unpleasant",
+      "lemma": "unpleasant"
+    }
+  ],
+  "2:2": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "unpleasant",
+      "lemma": "unpleasant"
+    },
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    }
+  ],
+  "2:3": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "unpleasant",
+      "lemma": "unpleasant"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "graves",
+      "lemma": "grave"
+    },
+    {
+      "surface": "desolate",
+      "lemma": "desolate"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "consumed",
+      "lemma": "consume"
+    }
+  ],
+  "2:4": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "seeking",
+      "lemma": "seek"
+    },
+    {
+      "surface": "prayed",
+      "lemma": "pray"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    }
+  ],
+  "2:5": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "graves",
+      "lemma": "grave"
+    }
+  ],
+  "2:6": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "queen",
+      "lemma": "queen"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "2:7": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "2:8": [
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    },
+    {
+      "surface": "keeper",
+      "lemma": "keeper"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "2:9": [
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:10": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Ammonite",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "2:11": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "2:12": [
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "animal",
+      "lemma": "animals"
+    }
+  ],
+  "2:13": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "dung",
+      "lemma": "dung"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "consumed",
+      "lemma": "consume"
+    }
+  ],
+  "2:14": [
+    {
+      "surface": "crossed",
+      "lemma": "cross"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "animal",
+      "lemma": "animals"
+    }
+  ],
+  "2:15": [
+    {
+      "surface": "wadi",
+      "lemma": "wadi"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "2:16": [
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "2:17": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "desolate",
+      "lemma": "desolate"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "reproach",
+      "lemma": "reproach"
+    }
+  ],
+  "2:18": [
+    {
+      "surface": "declared",
+      "lemma": "declare"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:19": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Ammonite",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "Arabian",
+      "lemma": "Arabian"
+    },
+    {
+      "surface": "mocked",
+      "lemma": "mock"
+    },
+    {
+      "surface": "rebelling",
+      "lemma": "rebel"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "2:20": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "memorial",
+      "lemma": "memorial"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "3:1": [
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "consecrated",
+      "lemma": "consecrated"
+    },
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    }
+  ],
+  "3:2": [
+    {
+      "surface": "Jericho",
+      "lemma": "Jericho"
+    }
+  ],
+  "3:3": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "3:4": [
+    {
+      "surface": "Uriah",
+      "lemma": "Uriah"
+    },
+    {
+      "surface": "Zadok",
+      "lemma": "Zadok"
+    }
+  ],
+  "3:5": [
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "lords",
+      "lemma": "lord"
+    }
+  ],
+  "3:6": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    }
+  ],
+  "3:7": [
+    {
+      "surface": "Gibeonite",
+      "lemma": "Gibeonite"
+    },
+    {
+      "surface": "Gibeon",
+      "lemma": "Gibeon"
+    },
+    {
+      "surface": "Mizpah",
+      "lemma": "Mizpah"
+    },
+    {
+      "surface": "authority",
+      "lemma": "authority"
+    },
+    {
+      "surface": "governor",
+      "lemma": "governor"
+    }
+  ],
+  "3:8": [
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    },
+    {
+      "surface": "restored",
+      "lemma": "restore"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "3:9": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "3:10": [
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "3:11": [
+    {
+      "surface": "Moab",
+      "lemma": "Moab"
+    },
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    }
+  ],
+  "3:12": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "3:13": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "dung",
+      "lemma": "dung"
+    }
+  ],
+  "3:14": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "dung",
+      "lemma": "dung"
+    }
+  ],
+  "3:15": [
+    {
+      "surface": "Mizpah",
+      "lemma": "Mizpah"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "descending",
+      "lemma": "descend"
+    },
+    {
+      "surface": "city of David",
+      "lemma": "city of David"
+    }
+  ],
+  "3:16": [
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "graves",
+      "lemma": "grave"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    }
+  ],
+  "3:17": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    }
+  ],
+  "3:18": [],
+  "3:19": [
+    {
+      "surface": "Mizpah",
+      "lemma": "Mizpah"
+    },
+    {
+      "surface": "armory",
+      "lemma": "armory"
+    }
+  ],
+  "3:20": [
+    {
+      "surface": "Baruch",
+      "lemma": "Baruch"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    }
+  ],
+  "3:21": [
+    {
+      "surface": "Uriah",
+      "lemma": "Uriah"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "3:22": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "3:23": [
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "3:24": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    }
+  ],
+  "3:25": [
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "court",
+      "lemma": "court"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "3:26": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    }
+  ],
+  "3:27": [
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    }
+  ],
+  "3:28": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "3:29": [
+    {
+      "surface": "Zadok",
+      "lemma": "Zadok"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "keeper",
+      "lemma": "keeper"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "3:30": [
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    }
+  ],
+  "3:31": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "3:32": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    }
+  ],
+  "4:1": [
+    {
+      "surface": "mocked",
+      "lemma": "mock"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "4:2": [
+    {
+      "surface": "Samaria",
+      "lemma": "Samaria"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "restore",
+      "lemma": "restore"
+    },
+    {
+      "surface": "sacrifice",
+      "lemma": "sacrifice"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    }
+  ],
+  "4:3": [
+    {
+      "surface": "Ammonite",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    }
+  ],
+  "4:4": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    }
+  ],
+  "4:5": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "wipe out",
+      "lemma": "wipe out"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "provoked",
+      "lemma": "provoked"
+    }
+  ],
+  "4:6": [
+    {
+      "surface": "working",
+      "lemma": "work"
+    }
+  ],
+  "4:7": [
+    {
+      "surface": "Arabians",
+      "lemma": "Arabian"
+    },
+    {
+      "surface": "Ammonites",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "4:8": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "4:9": [
+    {
+      "surface": "prayed",
+      "lemma": "pray"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "4:10": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "bearers",
+      "lemma": "bearers"
+    }
+  ],
+  "4:11": [
+    {
+      "surface": "adversaries",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "kill",
+      "lemma": "kill"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "4:12": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    }
+  ],
+  "4:13": [
+    {
+      "surface": "families",
+      "lemma": "family"
+    },
+    {
+      "surface": "swords",
+      "lemma": "sword"
+    },
+    {
+      "surface": "spears",
+      "lemma": "spear"
+    },
+    {
+      "surface": "bows",
+      "lemma": "bow"
+    }
+  ],
+  "4:14": [
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "houses",
+      "lemma": "house"
+    }
+  ],
+  "4:15": [
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "counsels",
+      "lemma": "counsels"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "4:16": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "spears",
+      "lemma": "spear"
+    },
+    {
+      "surface": "shields",
+      "lemma": "shield"
+    },
+    {
+      "surface": "bows",
+      "lemma": "bow"
+    },
+    {
+      "surface": "breastplates",
+      "lemma": "breastplate"
+    },
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "4:17": [
+    {
+      "surface": "carrying",
+      "lemma": "carry"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "4:18": [
+    {
+      "surface": "girded",
+      "lemma": "girded"
+    },
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "loins",
+      "lemma": "loins"
+    },
+    {
+      "surface": "ram",
+      "lemma": "ram"
+    },
+    {
+      "surface": "horn",
+      "lemma": "horn"
+    }
+  ],
+  "4:19": [
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "4:20": [
+    {
+      "surface": "ram",
+      "lemma": "ram"
+    },
+    {
+      "surface": "horn",
+      "lemma": "horn"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "4:21": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "spears",
+      "lemma": "spear"
+    }
+  ],
+  "4:22": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "4:23": [
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "5:1": [
+    {
+      "surface": "outcry",
+      "lemma": "outcry"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    }
+  ],
+  "5:2": [
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    }
+  ],
+  "5:3": [
+    {
+      "surface": "vineyards",
+      "lemma": "vineyards"
+    },
+    {
+      "surface": "houses",
+      "lemma": "house"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "famine",
+      "lemma": "famine"
+    }
+  ],
+  "5:4": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "tribute",
+      "lemma": "tribute"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "vineyards",
+      "lemma": "vineyards"
+    }
+  ],
+  "5:5": [
+    {
+      "surface": "bondage",
+      "lemma": "bondage"
+    },
+    {
+      "surface": "slaves",
+      "lemma": "slave"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "vineyards",
+      "lemma": "vineyards"
+    }
+  ],
+  "5:6": [
+    {
+      "surface": "outcry",
+      "lemma": "outcry"
+    }
+  ],
+  "5:7": [
+    {
+      "surface": "reigned",
+      "lemma": "reign"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    }
+  ],
+  "5:8": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    }
+  ],
+  "5:9": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "reproach",
+      "lemma": "reproach"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    }
+  ],
+  "5:10": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "Please",
+      "lemma": "please"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    }
+  ],
+  "5:11": [
+    {
+      "surface": "Please",
+      "lemma": "please"
+    },
+    {
+      "surface": "vineyards",
+      "lemma": "vineyards"
+    },
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    },
+    {
+      "surface": "houses",
+      "lemma": "house"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "new wine",
+      "lemma": "new wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    }
+  ],
+  "5:12": [
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "swear",
+      "lemma": "swear"
+    }
+  ],
+  "5:13": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "shake",
+      "lemma": "shake"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "labor",
+      "lemma": "labor"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "Amen",
+      "lemma": "amen"
+    },
+    {
+      "surface": "praised",
+      "lemma": "praised"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "5:14": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "governor",
+      "lemma": "governor"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Artaxerxes",
+      "lemma": "Artaxerxes"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "5:15": [
+    {
+      "surface": "governors",
+      "lemma": "governors"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "5:16": [
+    {
+      "surface": "fast",
+      "lemma": "fast"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    }
+  ],
+  "5:17": [
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    }
+  ],
+  "5:18": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "bull",
+      "lemma": "bull"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "governor",
+      "lemma": "governor"
+    },
+    {
+      "surface": "bondage",
+      "lemma": "bondage"
+    }
+  ],
+  "5:19": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "6:1": [
+    {
+      "surface": "Arabian",
+      "lemma": "Arabian"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "6:2": [
+    {
+      "surface": "appoint",
+      "lemma": "appoint"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "thinking",
+      "lemma": "thinking"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "6:3": [
+    {
+      "surface": "messengers",
+      "lemma": "messenger"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "6:4": [
+    {
+      "surface": "times",
+      "lemma": "time"
+    }
+  ],
+  "6:5": [
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "6:6": [
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "thinking",
+      "lemma": "thinking"
+    },
+    {
+      "surface": "rebel",
+      "lemma": "rebel"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "6:7": [
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "6:8": [],
+  "6:9": [
+    {
+      "surface": "frightening",
+      "lemma": "frighten"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "6:10": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "appoint",
+      "lemma": "appoint"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    },
+    {
+      "surface": "kill",
+      "lemma": "kill"
+    }
+  ],
+  "6:11": [
+    {
+      "surface": "temple",
+      "lemma": "temple"
+    }
+  ],
+  "6:12": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "prophecy",
+      "lemma": "prophecy"
+    }
+  ],
+  "6:13": [
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "might",
+      "lemma": "might"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "reproach",
+      "lemma": "reproach"
+    }
+  ],
+  "6:14": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "prophetess",
+      "lemma": "prophetess"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "frightening",
+      "lemma": "frighten"
+    }
+  ],
+  "6:15": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "6:16": [
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    },
+    {
+      "surface": "knew",
+      "lemma": "knew"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "6:17": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "multiplying",
+      "lemma": "multiply"
+    }
+  ],
+  "6:18": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "masters",
+      "lemma": "master"
+    },
+    {
+      "surface": "oath",
+      "lemma": "oath"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "6:19": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "frighten",
+      "lemma": "frighten"
+    }
+  ],
+  "7:1": [
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    }
+  ],
+  "7:2": [
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    },
+    {
+      "surface": "official",
+      "lemma": "official"
+    },
+    {
+      "surface": "citadel",
+      "lemma": "citadel"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "feared",
+      "lemma": "fear"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "7:3": [
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "watches",
+      "lemma": "watch"
+    },
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "7:4": [
+    {
+      "surface": "houses",
+      "lemma": "house"
+    }
+  ],
+  "7:5": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    }
+  ],
+  "7:6": [
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    },
+    {
+      "surface": "exiles",
+      "lemma": "exile"
+    },
+    {
+      "surface": "Nebuchadnezzar",
+      "lemma": "Nebuchadnezzar"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Babylon",
+      "lemma": "Babylon"
+    },
+    {
+      "surface": "exiled",
+      "lemma": "exiled"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "7:7": [
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    },
+    {
+      "surface": "Mordecai",
+      "lemma": "Mordecai"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "7:8": [],
+  "7:9": [],
+  "7:10": [],
+  "7:11": [
+    {
+      "surface": "Moab",
+      "lemma": "Moab"
+    },
+    {
+      "surface": "Joab",
+      "lemma": "Joab"
+    }
+  ],
+  "7:12": [
+    {
+      "surface": "Elam",
+      "lemma": "Elam"
+    }
+  ],
+  "7:13": [],
+  "7:14": [],
+  "7:15": [],
+  "7:16": [],
+  "7:17": [],
+  "7:18": [],
+  "7:19": [],
+  "7:20": [],
+  "7:21": [
+    {
+      "surface": "Hezekiah",
+      "lemma": "Hezekiah"
+    }
+  ],
+  "7:22": [],
+  "7:23": [],
+  "7:24": [],
+  "7:25": [
+    {
+      "surface": "Gibeon",
+      "lemma": "Gibeon"
+    }
+  ],
+  "7:26": [
+    {
+      "surface": "Bethlehem",
+      "lemma": "Bethlehem"
+    }
+  ],
+  "7:27": [],
+  "7:28": [],
+  "7:29": [],
+  "7:30": [
+    {
+      "surface": "Ramah",
+      "lemma": "Ramah"
+    }
+  ],
+  "7:31": [],
+  "7:32": [
+    {
+      "surface": "Bethel",
+      "lemma": "Bethel"
+    },
+    {
+      "surface": "Ai",
+      "lemma": "Ai"
+    }
+  ],
+  "7:33": [],
+  "7:34": [
+    {
+      "surface": "Elam",
+      "lemma": "Elam"
+    }
+  ],
+  "7:35": [],
+  "7:36": [
+    {
+      "surface": "Jericho",
+      "lemma": "Jericho"
+    }
+  ],
+  "7:37": [],
+  "7:38": [],
+  "7:39": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "7:40": [],
+  "7:41": [],
+  "7:42": [],
+  "7:43": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    }
+  ],
+  "7:44": [
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    }
+  ],
+  "7:45": [
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    }
+  ],
+  "7:46": [],
+  "7:47": [],
+  "7:48": [],
+  "7:49": [],
+  "7:50": [],
+  "7:51": [],
+  "7:52": [],
+  "7:53": [],
+  "7:54": [],
+  "7:55": [],
+  "7:56": [],
+  "7:57": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    }
+  ],
+  "7:58": [],
+  "7:59": [],
+  "7:60": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    }
+  ],
+  "7:61": [
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "7:62": [],
+  "7:63": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Gileadite",
+      "lemma": "Gileadite"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    }
+  ],
+  "7:64": [
+    {
+      "surface": "desecrated",
+      "lemma": "desecrated"
+    },
+    {
+      "surface": "priesthood",
+      "lemma": "priesthood"
+    }
+  ],
+  "7:65": [
+    {
+      "surface": "Tirshatha",
+      "lemma": "Tirshatha"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    }
+  ],
+  "7:66": [
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    }
+  ],
+  "7:67": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    }
+  ],
+  "7:68": [
+    {
+      "surface": "horses",
+      "lemma": "horse"
+    },
+    {
+      "surface": "mules",
+      "lemma": "mule"
+    }
+  ],
+  "7:69": [
+    {
+      "surface": "camels",
+      "lemma": "camel"
+    },
+    {
+      "surface": "donkeys",
+      "lemma": "donkey"
+    }
+  ],
+  "7:70": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "Tirshatha",
+      "lemma": "Tirshatha"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "tunics",
+      "lemma": "tunic"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "7:71": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "7:72": [
+    {
+      "surface": "remnant",
+      "lemma": "remnant"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "tunics",
+      "lemma": "tunic"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "7:73": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    }
+  ],
+  "8:1": [
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "law of Moses",
+      "lemma": "law of Moses"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "8:2": [
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    }
+  ],
+  "8:3": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "8:4": [
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "Uriah",
+      "lemma": "Uriah"
+    },
+    {
+      "surface": "Hilkiah",
+      "lemma": "Hilkiah"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "Mishael",
+      "lemma": "Mishael"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "8:5": [
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    }
+  ],
+  "8:6": [
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Amen",
+      "lemma": "amen"
+    },
+    {
+      "surface": "prostrated",
+      "lemma": "prostrate"
+    }
+  ],
+  "8:7": [
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "8:8": [
+    {
+      "surface": "law of God",
+      "lemma": "law of God"
+    },
+    {
+      "surface": "interpretation",
+      "lemma": "interpretation"
+    }
+  ],
+  "8:9": [
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "Tirshatha",
+      "lemma": "Tirshatha"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "mourn",
+      "lemma": "mourn"
+    },
+    {
+      "surface": "weeping",
+      "lemma": "weeping"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "8:10": [
+    {
+      "surface": "prepared",
+      "lemma": "prepared"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "8:11": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    }
+  ],
+  "8:12": [
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    }
+  ],
+  "8:13": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "8:14": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    }
+  ],
+  "8:15": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "palms",
+      "lemma": "palm"
+    }
+  ],
+  "8:16": [
+    {
+      "surface": "courtyards",
+      "lemma": "courtyard"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Ephraim",
+      "lemma": "Ephraim"
+    }
+  ],
+  "8:17": [
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "captivity",
+      "lemma": "captivity"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Joshua",
+      "lemma": "Joshua"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    }
+  ],
+  "8:18": [
+    {
+      "surface": "law of God",
+      "lemma": "law of God"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "last day",
+      "lemma": "last day"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "ordinance",
+      "lemma": "ordinance"
+    }
+  ],
+  "9:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "month",
+      "lemma": "month"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "fasting",
+      "lemma": "fasting"
+    },
+    {
+      "surface": "sackcloth",
+      "lemma": "sackcloth"
+    }
+  ],
+  "9:2": [
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "foreigner",
+      "lemma": "foreigner"
+    },
+    {
+      "surface": "confessed",
+      "lemma": "confess"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "iniquities",
+      "lemma": "iniquity"
+    }
+  ],
+  "9:3": [
+    {
+      "surface": "law of Yahweh",
+      "lemma": "law of Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "confessing",
+      "lemma": "confess"
+    },
+    {
+      "surface": "prostrating",
+      "lemma": "prostrate"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "9:4": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "9:5": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Bless",
+      "lemma": "bless"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "bless",
+      "lemma": "bless"
+    },
+    {
+      "surface": "glorious",
+      "lemma": "glorious"
+    },
+    {
+      "surface": "exalted",
+      "lemma": "exalted"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    }
+  ],
+  "9:6": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "heavens",
+      "lemma": "heavens"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "host of the heavens",
+      "lemma": "host of the heavens"
+    },
+    {
+      "surface": "prostrates",
+      "lemma": "prostrate"
+    }
+  ],
+  "9:7": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Abram",
+      "lemma": "Abram"
+    },
+    {
+      "surface": "Ur",
+      "lemma": "Ur"
+    },
+    {
+      "surface": "Abraham",
+      "lemma": "Abraham"
+    }
+  ],
+  "9:8": [
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Canaanites",
+      "lemma": "Canaanite"
+    },
+    {
+      "surface": "Hittites",
+      "lemma": "Hittite"
+    },
+    {
+      "surface": "Amorites",
+      "lemma": "Amorite"
+    },
+    {
+      "surface": "Perizzites",
+      "lemma": "Perizzite"
+    },
+    {
+      "surface": "Jebusites",
+      "lemma": "Jebusite"
+    },
+    {
+      "surface": "Girgashites",
+      "lemma": "Girgashites"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "9:9": [
+    {
+      "surface": "affliction",
+      "lemma": "affliction"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "cry",
+      "lemma": "cry"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "reeds",
+      "lemma": "reed"
+    }
+  ],
+  "9:10": [
+    {
+      "surface": "signs",
+      "lemma": "sign"
+    },
+    {
+      "surface": "wonders",
+      "lemma": "wonder"
+    },
+    {
+      "surface": "Pharaoh",
+      "lemma": "Pharaoh"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "knew",
+      "lemma": "knew"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "9:11": [
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "dry",
+      "lemma": "dry"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    }
+  ],
+  "9:12": [
+    {
+      "surface": "pillar",
+      "lemma": "pillar"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "9:13": [
+    {
+      "surface": "Sinai",
+      "lemma": "Sinai"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "just",
+      "lemma": "just"
+    },
+    {
+      "surface": "judgments",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "laws",
+      "lemma": "law"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "statutes",
+      "lemma": "statute"
+    }
+  ],
+  "9:14": [
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "statutes",
+      "lemma": "statute"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    }
+  ],
+  "9:15": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "possess",
+      "lemma": "possess"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "9:16": [],
+  "9:17": [
+    {
+      "surface": "rebellion",
+      "lemma": "rebellion"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "forgiveness",
+      "lemma": "forgiveness"
+    },
+    {
+      "surface": "gracious",
+      "lemma": "gracious"
+    },
+    {
+      "surface": "compassionate",
+      "lemma": "compassionate"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    }
+  ],
+  "9:18": [
+    {
+      "surface": "calf",
+      "lemma": "calf"
+    },
+    {
+      "surface": "image",
+      "lemma": "image"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    },
+    {
+      "surface": "blasphemies",
+      "lemma": "blasphemy"
+    }
+  ],
+  "9:19": [
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "wilderness",
+      "lemma": "wilderness"
+    },
+    {
+      "surface": "pillar",
+      "lemma": "pillar"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "9:20": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "manna",
+      "lemma": "manna"
+    }
+  ],
+  "9:21": [
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "wilderness",
+      "lemma": "wilderness"
+    }
+  ],
+  "9:22": [
+    {
+      "surface": "kingdoms",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "possession",
+      "lemma": "possession"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Sihon",
+      "lemma": "Sihon"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Heshbon",
+      "lemma": "Heshbon"
+    },
+    {
+      "surface": "Og",
+      "lemma": "Og"
+    },
+    {
+      "surface": "Bashan",
+      "lemma": "Bashan"
+    }
+  ],
+  "9:23": [
+    {
+      "surface": "multiplied",
+      "lemma": "multiplied"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "heavens",
+      "lemma": "heavens"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "possess",
+      "lemma": "possess"
+    }
+  ],
+  "9:24": [
+    {
+      "surface": "possessed",
+      "lemma": "possessed"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "Canaanites",
+      "lemma": "Canaanite"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    }
+  ],
+  "9:25": [
+    {
+      "surface": "captured",
+      "lemma": "capture"
+    },
+    {
+      "surface": "possessed",
+      "lemma": "possessed"
+    },
+    {
+      "surface": "houses",
+      "lemma": "house"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "cisterns",
+      "lemma": "cistern"
+    },
+    {
+      "surface": "vineyards",
+      "lemma": "vineyards"
+    },
+    {
+      "surface": "olive",
+      "lemma": "olive"
+    }
+  ],
+  "9:26": [
+    {
+      "surface": "rebelled",
+      "lemma": "rebel"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "killed",
+      "lemma": "kill"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "blasphemies",
+      "lemma": "blasphemy"
+    }
+  ],
+  "9:27": [
+    {
+      "surface": "adversaries",
+      "lemma": "adversary"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "saviors",
+      "lemma": "savior"
+    },
+    {
+      "surface": "saved",
+      "lemma": "saved"
+    }
+  ],
+  "9:28": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "delivered",
+      "lemma": "delivered"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    }
+  ],
+  "9:29": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "judgments",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "sinned",
+      "lemma": "sin"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    }
+  ],
+  "9:30": [
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "lands",
+      "lemma": "land"
+    }
+  ],
+  "9:31": [
+    {
+      "surface": "mercies",
+      "lemma": "mercy"
+    },
+    {
+      "surface": "complete",
+      "lemma": "complete"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "gracious",
+      "lemma": "gracious"
+    },
+    {
+      "surface": "merciful",
+      "lemma": "merciful"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "9:32": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "hardship",
+      "lemma": "hardship"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "prophets",
+      "lemma": "prophet"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Assyria",
+      "lemma": "Assyria"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "9:33": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "9:34": [
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "testimonies",
+      "lemma": "testimony"
+    }
+  ],
+  "9:35": [
+    {
+      "surface": "serve",
+      "lemma": "serve"
+    },
+    {
+      "surface": "kingdom",
+      "lemma": "kingdom"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "9:36": [
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    }
+  ],
+  "9:37": [
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "ruling",
+      "lemma": "rule"
+    },
+    {
+      "surface": "livestock",
+      "lemma": "livestock"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "9:38": [
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "sealed",
+      "lemma": "sealed"
+    },
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "10:1": [
+    {
+      "surface": "sealed",
+      "lemma": "sealed"
+    },
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "Tirshatha",
+      "lemma": "Tirshatha"
+    },
+    {
+      "surface": "Zedekiah",
+      "lemma": "Zedekiah"
+    }
+  ],
+  "10:2": [
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    },
+    {
+      "surface": "Jeremiah",
+      "lemma": "Jeremiah"
+    }
+  ],
+  "10:3": [],
+  "10:4": [],
+  "10:5": [
+    {
+      "surface": "Obadiah",
+      "lemma": "Obadiah"
+    }
+  ],
+  "10:6": [
+    {
+      "surface": "Daniel",
+      "lemma": "Daniel"
+    },
+    {
+      "surface": "Baruch",
+      "lemma": "Baruch"
+    }
+  ],
+  "10:7": [
+    {
+      "surface": "Abijah",
+      "lemma": "Abijah"
+    }
+  ],
+  "10:8": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "10:9": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    }
+  ],
+  "10:10": [],
+  "10:11": [],
+  "10:12": [],
+  "10:13": [],
+  "10:14": [
+    {
+      "surface": "Moab",
+      "lemma": "Moab"
+    },
+    {
+      "surface": "Elam",
+      "lemma": "Elam"
+    }
+  ],
+  "10:15": [],
+  "10:16": [
+    {
+      "surface": "Adonijah",
+      "lemma": "Adonijah"
+    }
+  ],
+  "10:17": [
+    {
+      "surface": "Hezekiah",
+      "lemma": "Hezekiah"
+    }
+  ],
+  "10:18": [],
+  "10:19": [],
+  "10:20": [],
+  "10:21": [
+    {
+      "surface": "Zadok",
+      "lemma": "Zadok"
+    }
+  ],
+  "10:22": [],
+  "10:23": [
+    {
+      "surface": "Hoshea",
+      "lemma": "Hoshea"
+    },
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    }
+  ],
+  "10:24": [],
+  "10:25": [],
+  "10:26": [],
+  "10:27": [],
+  "10:28": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "lands",
+      "lemma": "land"
+    },
+    {
+      "surface": "law of God",
+      "lemma": "law of God"
+    },
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    }
+  ],
+  "10:29": [
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "oath",
+      "lemma": "oath"
+    },
+    {
+      "surface": "law of God",
+      "lemma": "law of God"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "Lord",
+      "lemma": "Lord"
+    },
+    {
+      "surface": "judgments",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "statutes",
+      "lemma": "statute"
+    }
+  ],
+  "10:30": [
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "10:31": [
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "goods",
+      "lemma": "good"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "leave",
+      "lemma": "leave"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    }
+  ],
+  "10:32": [
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "10:33": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "offering",
+      "lemma": "offering"
+    },
+    {
+      "surface": "burnt offering",
+      "lemma": "burnt offering"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "10:34": [
+    {
+      "surface": "lots",
+      "lemma": "lots"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "offering",
+      "lemma": "offering"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "altar",
+      "lemma": "altar"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "10:35": [
+    {
+      "surface": "firstfruits",
+      "lemma": "firstfruits"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "10:36": [
+    {
+      "surface": "firstborns",
+      "lemma": "firstborn"
+    },
+    {
+      "surface": "livestock",
+      "lemma": "livestock"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "herds",
+      "lemma": "herd"
+    },
+    {
+      "surface": "flocks",
+      "lemma": "flock"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "10:37": [
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "tithe",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "receiving",
+      "lemma": "receive"
+    },
+    {
+      "surface": "tithes",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "labor",
+      "lemma": "labor"
+    }
+  ],
+  "10:38": [
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Aaron",
+      "lemma": "Aaron"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "tithes",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "tithe",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "10:39": [
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "Levi",
+      "lemma": "Levi"
+    },
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "sanctuary",
+      "lemma": "sanctuary"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "11:1": [
+    {
+      "surface": "leaders",
+      "lemma": "leader"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "lots",
+      "lemma": "lots"
+    },
+    {
+      "surface": "holy city",
+      "lemma": "holy city"
+    }
+  ],
+  "11:2": [
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "11:3": [
+    {
+      "surface": "province",
+      "lemma": "province"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    }
+  ],
+  "11:4": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Uzziah",
+      "lemma": "Uzziah"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "11:5": [
+    {
+      "surface": "Baruch",
+      "lemma": "Baruch"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "11:6": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "11:7": [
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    }
+  ],
+  "11:8": [],
+  "11:9": [
+    {
+      "surface": "Joel",
+      "lemma": "Joel"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "11:10": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "11:11": [
+    {
+      "surface": "Hilkiah",
+      "lemma": "Hilkiah"
+    },
+    {
+      "surface": "Zadok",
+      "lemma": "Zadok"
+    },
+    {
+      "surface": "leader",
+      "lemma": "leader"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "11:12": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "11:13": [],
+  "11:14": [
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    }
+  ],
+  "11:15": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    }
+  ],
+  "11:16": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "11:17": [
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    }
+  ],
+  "11:18": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "holy city",
+      "lemma": "holy city"
+    }
+  ],
+  "11:19": [
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "guarded",
+      "lemma": "guard"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "11:20": [
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "inheritance",
+      "lemma": "inheritance"
+    }
+  ],
+  "11:21": [],
+  "11:22": [
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "11:23": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "11:24": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "11:25": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Kiriath Arba",
+      "lemma": "Kiriath Arba"
+    }
+  ],
+  "11:26": [],
+  "11:27": [
+    {
+      "surface": "Beersheba",
+      "lemma": "Beersheba"
+    }
+  ],
+  "11:28": [],
+  "11:29": [
+    {
+      "surface": "Rimmon",
+      "lemma": "Rimmon"
+    }
+  ],
+  "11:30": [
+    {
+      "surface": "Beersheba",
+      "lemma": "Beersheba"
+    }
+  ],
+  "11:31": [
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    },
+    {
+      "surface": "Bethel",
+      "lemma": "Bethel"
+    }
+  ],
+  "11:32": [],
+  "11:33": [
+    {
+      "surface": "Ramah",
+      "lemma": "Ramah"
+    }
+  ],
+  "11:34": [],
+  "11:35": [],
+  "11:36": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    }
+  ],
+  "12:1": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "Jeremiah",
+      "lemma": "Jeremiah"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    }
+  ],
+  "12:2": [],
+  "12:3": [],
+  "12:4": [
+    {
+      "surface": "Abijah",
+      "lemma": "Abijah"
+    }
+  ],
+  "12:5": [],
+  "12:6": [],
+  "12:7": [
+    {
+      "surface": "Hilkiah",
+      "lemma": "Hilkiah"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "12:8": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "12:9": [
+    {
+      "surface": "watches",
+      "lemma": "watch"
+    }
+  ],
+  "12:10": [],
+  "12:11": [
+    {
+      "surface": "Jonathan",
+      "lemma": "Jonathan"
+    }
+  ],
+  "12:12": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Jeremiah",
+      "lemma": "Jeremiah"
+    },
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    }
+  ],
+  "12:13": [
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    }
+  ],
+  "12:14": [
+    {
+      "surface": "Jonathan",
+      "lemma": "Jonathan"
+    },
+    {
+      "surface": "Joseph",
+      "lemma": "Joseph"
+    }
+  ],
+  "12:15": [],
+  "12:16": [
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    }
+  ],
+  "12:17": [
+    {
+      "surface": "Abijah",
+      "lemma": "Abijah"
+    }
+  ],
+  "12:18": [],
+  "12:19": [],
+  "12:20": [],
+  "12:21": [
+    {
+      "surface": "Hilkiah",
+      "lemma": "Hilkiah"
+    }
+  ],
+  "12:22": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "reign",
+      "lemma": "reign"
+    },
+    {
+      "surface": "Darius",
+      "lemma": "Darius"
+    }
+  ],
+  "12:23": [
+    {
+      "surface": "Levi",
+      "lemma": "Levi"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "12:24": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "man of God",
+      "lemma": "man of God"
+    }
+  ],
+  "12:25": [
+    {
+      "surface": "Obadiah",
+      "lemma": "Obadiah"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "storehouses",
+      "lemma": "storehouse"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "12:26": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "governor",
+      "lemma": "governor"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    }
+  ],
+  "12:27": [
+    {
+      "surface": "dedication",
+      "lemma": "dedication"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "lyres",
+      "lemma": "lyre"
+    },
+    {
+      "surface": "harps",
+      "lemma": "harp"
+    }
+  ],
+  "12:28": [
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:29": [
+    {
+      "surface": "Gilgal",
+      "lemma": "Gilgal"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:30": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "12:31": [
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "dung",
+      "lemma": "dung"
+    }
+  ],
+  "12:32": [
+    {
+      "surface": "officials",
+      "lemma": "officials"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "12:33": [
+    {
+      "surface": "Azariah",
+      "lemma": "Azariah"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    }
+  ],
+  "12:34": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Benjamin",
+      "lemma": "Benjamin"
+    },
+    {
+      "surface": "Jeremiah",
+      "lemma": "Jeremiah"
+    }
+  ],
+  "12:35": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "trumpets",
+      "lemma": "trumpet"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    },
+    {
+      "surface": "Jonathan",
+      "lemma": "Jonathan"
+    },
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    }
+  ],
+  "12:36": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "man of God",
+      "lemma": "man of God"
+    },
+    {
+      "surface": "Ezra",
+      "lemma": "Ezra"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    }
+  ],
+  "12:37": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "city of David",
+      "lemma": "city of David"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    }
+  ],
+  "12:38": [
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    }
+  ],
+  "12:39": [
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Ephraim",
+      "lemma": "Ephraim"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    },
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    },
+    {
+      "surface": "sheep",
+      "lemma": "sheep"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "12:40": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    }
+  ],
+  "12:41": [
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Eliakim",
+      "lemma": "Eliakim"
+    },
+    {
+      "surface": "Zechariah",
+      "lemma": "Zechariah"
+    },
+    {
+      "surface": "Hananiah",
+      "lemma": "Hananiah"
+    },
+    {
+      "surface": "trumpets",
+      "lemma": "trumpet"
+    }
+  ],
+  "12:42": [
+    {
+      "surface": "Eleazar",
+      "lemma": "Eleazar"
+    },
+    {
+      "surface": "Elam",
+      "lemma": "Elam"
+    },
+    {
+      "surface": "overseer",
+      "lemma": "overseer"
+    }
+  ],
+  "12:43": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "sacrificed",
+      "lemma": "sacrifice"
+    },
+    {
+      "surface": "sacrifices",
+      "lemma": "sacrifices"
+    },
+    {
+      "surface": "rejoiced",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "12:44": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "storehouses",
+      "lemma": "storehouse"
+    },
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "firstfruits",
+      "lemma": "firstfruits"
+    },
+    {
+      "surface": "tithes",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "gather",
+      "lemma": "gather"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "rejoiced",
+      "lemma": "rejoice"
+    }
+  ],
+  "12:45": [
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "purification",
+      "lemma": "purification"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    }
+  ],
+  "12:46": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "Asaph",
+      "lemma": "Asaph"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "12:47": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Zerubbabel",
+      "lemma": "Zerubbabel"
+    },
+    {
+      "surface": "Nehemiah",
+      "lemma": "Nehemiah"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "consecrating",
+      "lemma": "consecrate"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "Aaron",
+      "lemma": "Aaron"
+    }
+  ],
+  "13:1": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "Moses",
+      "lemma": "Moses"
+    },
+    {
+      "surface": "Ammonite",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "Moabite",
+      "lemma": "Moabite"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    }
+  ],
+  "13:2": [
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "Balaam",
+      "lemma": "Balaam"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    }
+  ],
+  "13:3": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "13:4": [
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "13:5": [
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "frankincense",
+      "lemma": "frankincense"
+    },
+    {
+      "surface": "tithes",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "gatekeepers",
+      "lemma": "gatekeeper"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    }
+  ],
+  "13:6": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "year",
+      "lemma": "year"
+    },
+    {
+      "surface": "Artaxerxes",
+      "lemma": "Artaxerxes"
+    },
+    {
+      "surface": "Babylon",
+      "lemma": "Babylon"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "leave",
+      "lemma": "leave"
+    }
+  ],
+  "13:7": [
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "courts",
+      "lemma": "court"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "13:8": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "cast out",
+      "lemma": "cast out"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "13:9": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "offering",
+      "lemma": "offering"
+    },
+    {
+      "surface": "incense",
+      "lemma": "incense"
+    }
+  ],
+  "13:10": [
+    {
+      "surface": "knew",
+      "lemma": "knew"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "13:11": [
+    {
+      "surface": "prefects",
+      "lemma": "prefect"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "forsaken",
+      "lemma": "forsaken"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    }
+  ],
+  "13:12": [
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "tithe",
+      "lemma": "tithe"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    }
+  ],
+  "13:13": [
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "priest",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Zadok",
+      "lemma": "Zadok"
+    },
+    {
+      "surface": "scribe",
+      "lemma": "scribe"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    }
+  ],
+  "13:14": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "wipe out",
+      "lemma": "wipe out"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "watches",
+      "lemma": "watch"
+    }
+  ],
+  "13:15": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "winepresses",
+      "lemma": "winepress"
+    },
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "donkeys",
+      "lemma": "donkey"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "grapes",
+      "lemma": "grape"
+    },
+    {
+      "surface": "figs",
+      "lemma": "fig"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "13:16": [
+    {
+      "surface": "Tyrians",
+      "lemma": "Tyrians"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    }
+  ],
+  "13:17": [
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "profaning",
+      "lemma": "profane"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "13:18": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "wrath",
+      "lemma": "wrath"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "profaning",
+      "lemma": "profane"
+    }
+  ],
+  "13:19": [
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "13:20": [
+    {
+      "surface": "goods",
+      "lemma": "good"
+    },
+    {
+      "surface": "Jerusalem",
+      "lemma": "Jerusalem"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "13:21": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "13:22": [
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "purify",
+      "lemma": "purify"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "consecrate",
+      "lemma": "consecrate"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    }
+  ],
+  "13:23": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "Jews",
+      "lemma": "Jew"
+    },
+    {
+      "surface": "Ammonite",
+      "lemma": "Ammonite"
+    },
+    {
+      "surface": "Moabite",
+      "lemma": "Moabite"
+    }
+  ],
+  "13:24": [
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "Hebrew",
+      "lemma": "Hebrew"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "13:25": [
+    {
+      "surface": "cursed",
+      "lemma": "cursed"
+    },
+    {
+      "surface": "swear",
+      "lemma": "swear"
+    },
+    {
+      "surface": "oath",
+      "lemma": "oath"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "13:26": [
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "beloved",
+      "lemma": "beloved"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "13:27": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "13:28": [
+    {
+      "surface": "high priest",
+      "lemma": "high priest"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "13:29": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "defiling",
+      "lemma": "defile"
+    },
+    {
+      "surface": "priesthood",
+      "lemma": "priesthood"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    }
+  ],
+  "13:30": [
+    {
+      "surface": "watches",
+      "lemma": "watch"
+    },
+    {
+      "surface": "priests",
+      "lemma": "priest"
+    },
+    {
+      "surface": "Levites",
+      "lemma": "Levite"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "13:31": [
+    {
+      "surface": "offering",
+      "lemma": "offering"
+    },
+    {
+      "surface": "appointed",
+      "lemma": "appointed"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "firstfruits",
+      "lemma": "firstfruits"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ]
+}

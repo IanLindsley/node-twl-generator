@@ -1,0 +1,11320 @@
+{
+  "1:1": [
+    {
+      "surface": "proverbs",
+      "lemma": "proverb"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    },
+    {
+      "surface": "David",
+      "lemma": "David"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Israel",
+      "lemma": "Israel"
+    }
+  ],
+  "1:2": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "1:3": [
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "1:4": [
+    {
+      "surface": "prudence",
+      "lemma": "prudence"
+    },
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "1:5": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "1:6": [
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "proverb",
+      "lemma": "proverb"
+    },
+    {
+      "surface": "parable",
+      "lemma": "parable"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "1:7": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "fools",
+      "lemma": "fool"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    }
+  ],
+  "1:8": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "1:9": [
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    }
+  ],
+  "1:10": [
+    {
+      "surface": "sinners",
+      "lemma": "sinner"
+    }
+  ],
+  "1:11": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "innocent",
+      "lemma": "innocent"
+    }
+  ],
+  "1:12": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    },
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    }
+  ],
+  "1:13": [
+    {
+      "surface": "houses",
+      "lemma": "house"
+    },
+    {
+      "surface": "spoil",
+      "lemma": "spoil"
+    }
+  ],
+  "1:14": [
+    {
+      "surface": "lot",
+      "lemma": "lots"
+    }
+  ],
+  "1:15": [],
+  "1:16": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "1:17": [
+    {
+      "surface": "vain",
+      "lemma": "vain"
+    }
+  ],
+  "1:18": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "1:19": [
+    {
+      "surface": "unjust",
+      "lemma": "unjust"
+    }
+  ],
+  "1:20": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "calls",
+      "lemma": "call"
+    }
+  ],
+  "1:21": [
+    {
+      "surface": "calls",
+      "lemma": "call"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ],
+  "1:22": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "mockers",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "mockery",
+      "lemma": "mockery"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "1:23": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "1:24": [
+    {
+      "surface": "called",
+      "lemma": "called"
+    }
+  ],
+  "1:25": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "1:26": [
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    },
+    {
+      "surface": "mock",
+      "lemma": "mock"
+    },
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    }
+  ],
+  "1:27": [
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    },
+    {
+      "surface": "anguish",
+      "lemma": "anguish"
+    }
+  ],
+  "1:28": [
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "1:29": [
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "choose",
+      "lemma": "choose"
+    }
+  ],
+  "1:30": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "1:31": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    }
+  ],
+  "1:32": [
+    {
+      "surface": "slay",
+      "lemma": "slay"
+    },
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    }
+  ],
+  "1:33": [
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "2:1": [
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    }
+  ],
+  "2:2": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "2:3": [
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "2:4": [
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "search",
+      "lemma": "search"
+    }
+  ],
+  "2:5": [
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "2:6": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "2:7": [
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "shield",
+      "lemma": "shield"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "2:8": [
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    }
+  ],
+  "2:9": [
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "2:10": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "2:11": [
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "2:12": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "perversions",
+      "lemma": "perversion"
+    }
+  ],
+  "2:13": [
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    }
+  ],
+  "2:14": [
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    }
+  ],
+  "2:15": [],
+  "2:16": [],
+  "2:17": [
+    {
+      "surface": "forsakes",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "companion",
+      "lemma": "companion"
+    },
+    {
+      "surface": "covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "2:18": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "spirits",
+      "lemma": "spirit"
+    }
+  ],
+  "2:19": [],
+  "2:20": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "2:21": [
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "2:22": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "3:1": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "3:2": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "3:3": [
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "trustworthiness",
+      "lemma": "trustworthiness"
+    },
+    {
+      "surface": "leave",
+      "lemma": "leave"
+    }
+  ],
+  "3:4": [
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "3:5": [
+    {
+      "surface": "Trust",
+      "lemma": "trust"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "3:6": [
+    {
+      "surface": "acknowledge",
+      "lemma": "acknowledge"
+    }
+  ],
+  "3:7": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "3:8": [],
+  "3:9": [
+    {
+      "surface": "Honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    }
+  ],
+  "3:10": [
+    {
+      "surface": "storehouses",
+      "lemma": "storehouse"
+    },
+    {
+      "surface": "new wine",
+      "lemma": "new wine"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "3:11": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "reject",
+      "lemma": "reject"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "3:12": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    }
+  ],
+  "3:13": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "3:14": [
+    {
+      "surface": "better",
+      "lemma": "better"
+    },
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    }
+  ],
+  "3:15": [],
+  "3:16": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "3:17": [
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "3:18": [],
+  "3:19": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "founded",
+      "lemma": "founded"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "heavens",
+      "lemma": "heavens"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "3:20": [
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "3:21": [
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "prudence",
+      "lemma": "prudence"
+    }
+  ],
+  "3:22": [
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    }
+  ],
+  "3:23": [
+    {
+      "surface": "stumble",
+      "lemma": "stumble"
+    }
+  ],
+  "3:24": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    },
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    }
+  ],
+  "3:25": [
+    {
+      "surface": "afraid",
+      "lemma": "afraid"
+    },
+    {
+      "surface": "dread",
+      "lemma": "dread"
+    },
+    {
+      "surface": "devastation",
+      "lemma": "devastation"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "3:26": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "capture",
+      "lemma": "capture"
+    }
+  ],
+  "3:27": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "3:28": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "3:29": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "3:30": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "3:31": [
+    {
+      "surface": "choose",
+      "lemma": "choose"
+    }
+  ],
+  "3:32": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    }
+  ],
+  "3:33": [
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "blesses",
+      "lemma": "bless"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "3:34": [
+    {
+      "surface": "mockers",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "mocks",
+      "lemma": "mock"
+    },
+    {
+      "surface": "humble",
+      "lemma": "humble"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    }
+  ],
+  "3:35": [
+    {
+      "surface": "Wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "dishonor",
+      "lemma": "dishonor"
+    }
+  ],
+  "4:1": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "4:2": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "teaching",
+      "lemma": "teaching"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "4:3": [],
+  "4:4": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "4:5": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "4:6": [
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "4:7": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "4:8": [
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "4:9": [
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    }
+  ],
+  "4:10": [
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "multiply",
+      "lemma": "multiply"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    }
+  ],
+  "4:11": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "uprightness",
+      "lemma": "uprightness"
+    }
+  ],
+  "4:12": [
+    {
+      "surface": "stumble",
+      "lemma": "stumble"
+    }
+  ],
+  "4:13": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    }
+  ],
+  "4:14": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "4:15": [],
+  "4:16": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "robbed",
+      "lemma": "rob"
+    },
+    {
+      "surface": "stumbling",
+      "lemma": "stumble"
+    }
+  ],
+  "4:17": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "4:18": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "4:19": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "stumble",
+      "lemma": "stumble"
+    }
+  ],
+  "4:20": [],
+  "4:21": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "4:22": [],
+  "4:23": [
+    {
+      "surface": "Guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "sources",
+      "lemma": "source"
+    }
+  ],
+  "4:24": [],
+  "4:25": [],
+  "4:26": [],
+  "4:27": [
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "5:1": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "5:2": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "5:3": [
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    }
+  ],
+  "5:4": [
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    }
+  ],
+  "5:5": [
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    }
+  ],
+  "5:6": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "5:7": [],
+  "5:8": [
+    {
+      "surface": "Keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "5:9": [
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    }
+  ],
+  "5:10": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "foreigner",
+      "lemma": "foreigner"
+    }
+  ],
+  "5:11": [],
+  "5:12": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "5:13": [
+    {
+      "surface": "teachers",
+      "lemma": "teacher"
+    },
+    {
+      "surface": "instructors",
+      "lemma": "instructors"
+    }
+  ],
+  "5:14": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "congregation",
+      "lemma": "congregation"
+    }
+  ],
+  "5:15": [
+    {
+      "surface": "cistern",
+      "lemma": "cistern"
+    },
+    {
+      "surface": "well",
+      "lemma": "well"
+    }
+  ],
+  "5:16": [
+    {
+      "surface": "springs",
+      "lemma": "spring"
+    }
+  ],
+  "5:17": [],
+  "5:18": [
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    }
+  ],
+  "5:19": [
+    {
+      "surface": "doe",
+      "lemma": "doe"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "goat",
+      "lemma": "goat"
+    },
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    },
+    {
+      "surface": "stagger",
+      "lemma": "stagger"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "5:20": [
+    {
+      "surface": "stagger",
+      "lemma": "stagger"
+    }
+  ],
+  "5:21": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "5:22": [
+    {
+      "surface": "iniquities",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "capture",
+      "lemma": "capture"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "5:23": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "staggers",
+      "lemma": "stagger"
+    }
+  ],
+  "6:1": [
+    {
+      "surface": "pledge",
+      "lemma": "pledge"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "palms",
+      "lemma": "palm"
+    }
+  ],
+  "6:2": [
+    {
+      "surface": "ensnared",
+      "lemma": "ensnare"
+    }
+  ],
+  "6:3": [
+    {
+      "surface": "palm",
+      "lemma": "palm"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "humble",
+      "lemma": "humble"
+    }
+  ],
+  "6:4": [],
+  "6:5": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "trap",
+      "lemma": "trap"
+    }
+  ],
+  "6:6": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "6:7": [
+    {
+      "surface": "commander",
+      "lemma": "commander"
+    },
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    }
+  ],
+  "6:8": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "gathers",
+      "lemma": "gather"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    }
+  ],
+  "6:9": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "6:10": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "6:11": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "shield",
+      "lemma": "shield"
+    }
+  ],
+  "6:12": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "6:13": [],
+  "6:14": [
+    {
+      "surface": "Perverse",
+      "lemma": "perverse"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    }
+  ],
+  "6:15": [
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    }
+  ],
+  "6:16": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "abominations",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "self",
+      "lemma": "self"
+    }
+  ],
+  "6:17": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "innocent",
+      "lemma": "innocent"
+    }
+  ],
+  "6:18": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "6:19": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "breathing",
+      "lemma": "breath"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    }
+  ],
+  "6:20": [
+    {
+      "surface": "Guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "6:21": [
+    {
+      "surface": "Bind",
+      "lemma": "bind"
+    }
+  ],
+  "6:22": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "6:23": [
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "rebukes",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    }
+  ],
+  "6:24": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "6:25": [],
+  "6:26": [
+    {
+      "surface": "prostitute",
+      "lemma": "prostitute"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "6:27": [
+    {
+      "surface": "carry",
+      "lemma": "carry"
+    }
+  ],
+  "6:28": [],
+  "6:29": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "6:30": [
+    {
+      "surface": "thief",
+      "lemma": "thief"
+    }
+  ],
+  "6:31": [
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "6:32": [
+    {
+      "surface": "commits",
+      "lemma": "commit"
+    },
+    {
+      "surface": "adultery",
+      "lemma": "adultery"
+    },
+    {
+      "surface": "destroying",
+      "lemma": "destroy"
+    }
+  ],
+  "6:33": [
+    {
+      "surface": "disgrace",
+      "lemma": "disgrace"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "6:34": [
+    {
+      "surface": "jealousy",
+      "lemma": "jealousy"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "vengeance",
+      "lemma": "vengeance"
+    }
+  ],
+  "6:35": [
+    {
+      "surface": "ransom",
+      "lemma": "ransom"
+    },
+    {
+      "surface": "bribe",
+      "lemma": "bribe"
+    }
+  ],
+  "7:1": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "7:2": [
+    {
+      "surface": "Keep",
+      "lemma": "keep"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "7:3": [],
+  "7:4": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "call",
+      "lemma": "call"
+    },
+    {
+      "surface": "Understanding",
+      "lemma": "understand"
+    },
+    {
+      "surface": "Kinsman",
+      "lemma": "kinsman"
+    }
+  ],
+  "7:5": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "7:6": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "7:7": [
+    {
+      "surface": "discerned",
+      "lemma": "discern"
+    },
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    }
+  ],
+  "7:8": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "7:9": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "7:10": [
+    {
+      "surface": "prostitute",
+      "lemma": "prostitute"
+    },
+    {
+      "surface": "guarded",
+      "lemma": "guard"
+    }
+  ],
+  "7:11": [
+    {
+      "surface": "rebellious",
+      "lemma": "rebellious"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "7:12": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    }
+  ],
+  "7:13": [
+    {
+      "surface": "kisses",
+      "lemma": "kiss"
+    }
+  ],
+  "7:14": [
+    {
+      "surface": "sacrifices",
+      "lemma": "sacrifices"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    },
+    {
+      "surface": "offerings",
+      "lemma": "offering"
+    },
+    {
+      "surface": "vows",
+      "lemma": "vow"
+    }
+  ],
+  "7:15": [
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "7:16": [
+    {
+      "surface": "Egypt",
+      "lemma": "Egypt"
+    }
+  ],
+  "7:17": [
+    {
+      "surface": "myrrh",
+      "lemma": "myrrh"
+    }
+  ],
+  "7:18": [
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    }
+  ],
+  "7:19": [
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "7:20": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "7:21": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    }
+  ],
+  "7:22": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "ox",
+      "lemma": "ox"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    }
+  ],
+  "7:23": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "trap",
+      "lemma": "trap"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "7:24": [],
+  "7:25": [],
+  "7:26": [
+    {
+      "surface": "slain",
+      "lemma": "slain"
+    }
+  ],
+  "7:27": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    },
+    {
+      "surface": "descending",
+      "lemma": "descend"
+    }
+  ],
+  "8:1": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "call out",
+      "lemma": "call out"
+    },
+    {
+      "surface": "Understanding",
+      "lemma": "understand"
+    }
+  ],
+  "8:2": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    }
+  ],
+  "8:3": [
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "cries",
+      "lemma": "cry"
+    }
+  ],
+  "8:4": [
+    {
+      "surface": "call",
+      "lemma": "call"
+    }
+  ],
+  "8:5": [
+    {
+      "surface": "Understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "prudence",
+      "lemma": "prudence"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    }
+  ],
+  "8:6": [
+    {
+      "surface": "noble",
+      "lemma": "noble"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "8:7": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    }
+  ],
+  "8:8": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "8:9": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "8:10": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    }
+  ],
+  "8:11": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "better",
+      "lemma": "better"
+    }
+  ],
+  "8:12": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "Prudence",
+      "lemma": "prudence"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "8:13": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    }
+  ],
+  "8:14": [
+    {
+      "surface": "Counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "8:15": [
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "reign",
+      "lemma": "reign"
+    },
+    {
+      "surface": "decree",
+      "lemma": "decree"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "8:16": [
+    {
+      "surface": "princes",
+      "lemma": "prince"
+    },
+    {
+      "surface": "rule",
+      "lemma": "rule"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "judges",
+      "lemma": "judge"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "8:17": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "8:18": [
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "8:19": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "better",
+      "lemma": "better"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "8:20": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "8:21": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    }
+  ],
+  "8:22": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "possessed",
+      "lemma": "possessed"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    }
+  ],
+  "8:23": [
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "8:24": [
+    {
+      "surface": "springs",
+      "lemma": "spring"
+    }
+  ],
+  "8:25": [],
+  "8:26": [
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "world",
+      "lemma": "world"
+    }
+  ],
+  "8:27": [
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "heavens",
+      "lemma": "heavens"
+    }
+  ],
+  "8:28": [
+    {
+      "surface": "springs",
+      "lemma": "spring"
+    }
+  ],
+  "8:29": [
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "statute",
+      "lemma": "statute"
+    },
+    {
+      "surface": "cross",
+      "lemma": "cross"
+    },
+    {
+      "surface": "foundations",
+      "lemma": "foundation"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "8:30": [
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "8:31": [
+    {
+      "surface": "world",
+      "lemma": "world"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    }
+  ],
+  "8:32": [
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "8:33": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "8:34": [
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    },
+    {
+      "surface": "doorposts",
+      "lemma": "doorpost"
+    }
+  ],
+  "8:35": [
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "8:36": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "9:1": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "pillars",
+      "lemma": "pillar"
+    }
+  ],
+  "9:2": [
+    {
+      "surface": "slaughtered",
+      "lemma": "slaughtered"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "9:3": [
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    },
+    {
+      "surface": "calls",
+      "lemma": "call"
+    }
+  ],
+  "9:4": [],
+  "9:5": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "9:6": [
+    {
+      "surface": "Forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "9:7": [
+    {
+      "surface": "instructor",
+      "lemma": "instructors"
+    },
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "receives",
+      "lemma": "receive"
+    },
+    {
+      "surface": "disgrace",
+      "lemma": "disgrace"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "9:8": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "9:9": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "9:10": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "9:11": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    }
+  ],
+  "9:12": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "mock",
+      "lemma": "mock"
+    },
+    {
+      "surface": "bear",
+      "lemma": "bear"
+    }
+  ],
+  "9:13": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "9:14": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "9:15": [
+    {
+      "surface": "call",
+      "lemma": "call"
+    }
+  ],
+  "9:16": [],
+  "9:17": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    }
+  ],
+  "9:18": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "spirits",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    }
+  ],
+  "10:1": [
+    {
+      "surface": "proverbs",
+      "lemma": "proverb"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "10:2": [
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "delivers",
+      "lemma": "deliver"
+    }
+  ],
+  "10:3": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "10:4": [
+    {
+      "surface": "palm",
+      "lemma": "palm"
+    }
+  ],
+  "10:5": [
+    {
+      "surface": "gathers",
+      "lemma": "gather"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    }
+  ],
+  "10:6": [
+    {
+      "surface": "Blessings",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "10:7": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "10:8": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "receives",
+      "lemma": "receive"
+    }
+  ],
+  "10:9": [
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "10:10": [
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    }
+  ],
+  "10:11": [
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "10:12": [
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "transgressions",
+      "lemma": "transgression"
+    }
+  ],
+  "10:13": [
+    {
+      "surface": "discerning",
+      "lemma": "discern"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    }
+  ],
+  "10:14": [
+    {
+      "surface": "Wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    }
+  ],
+  "10:15": [
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "10:16": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "10:17": [
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "forsakes",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "10:18": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "report",
+      "lemma": "report"
+    }
+  ],
+  "10:19": [
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    }
+  ],
+  "10:20": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "10:21": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "shepherd",
+      "lemma": "shepherd"
+    },
+    {
+      "surface": "fools",
+      "lemma": "fool"
+    }
+  ],
+  "10:22": [
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "10:23": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "10:24": [
+    {
+      "surface": "terror",
+      "lemma": "terror"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "10:25": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "foundation",
+      "lemma": "foundation"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    }
+  ],
+  "10:26": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    }
+  ],
+  "10:27": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "years",
+      "lemma": "year"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "10:28": [
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "10:29": [
+    {
+      "surface": "stronghold",
+      "lemma": "stronghold"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "10:30": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "10:31": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "bears",
+      "lemma": "bears"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    }
+  ],
+  "10:32": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    }
+  ],
+  "11:1": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    }
+  ],
+  "11:2": [
+    {
+      "surface": "disgrace",
+      "lemma": "disgrace"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "11:3": [
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "destroy",
+      "lemma": "destroy"
+    }
+  ],
+  "11:4": [
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "deliver",
+      "lemma": "deliver"
+    }
+  ],
+  "11:5": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "11:6": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "deliver",
+      "lemma": "deliver"
+    },
+    {
+      "surface": "captured",
+      "lemma": "capture"
+    }
+  ],
+  "11:7": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    },
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "perishes",
+      "lemma": "perish"
+    }
+  ],
+  "11:8": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "11:9": [
+    {
+      "surface": "godless",
+      "lemma": "godless"
+    },
+    {
+      "surface": "destroys",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "delivered",
+      "lemma": "delivered"
+    }
+  ],
+  "11:10": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "exults",
+      "lemma": "exult"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    }
+  ],
+  "11:11": [
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "11:12": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "understandings",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "11:13": [
+    {
+      "surface": "gossip",
+      "lemma": "gossip"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "11:14": [
+    {
+      "surface": "salvation",
+      "lemma": "salvation"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    }
+  ],
+  "11:15": [
+    {
+      "surface": "pledges",
+      "lemma": "pledges"
+    }
+  ],
+  "11:16": [
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "11:17": [
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "troubles",
+      "lemma": "trouble"
+    }
+  ],
+  "11:18": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "sowing",
+      "lemma": "sow"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "11:19": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "11:20": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "11:21": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "seed",
+      "lemma": "seed"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "11:22": [
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "pig",
+      "lemma": "pig"
+    }
+  ],
+  "11:23": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "11:24": [
+    {
+      "surface": "right",
+      "lemma": "right"
+    }
+  ],
+  "11:25": [
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    }
+  ],
+  "11:26": [
+    {
+      "surface": "grain",
+      "lemma": "grain"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    }
+  ],
+  "11:27": [
+    {
+      "surface": "seeking",
+      "lemma": "seek"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "searching",
+      "lemma": "search"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "11:28": [
+    {
+      "surface": "trusting",
+      "lemma": "trust"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "11:29": [
+    {
+      "surface": "troubling",
+      "lemma": "trouble"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "slave",
+      "lemma": "slave"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "11:30": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "souls",
+      "lemma": "soul"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "11:31": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "sinner",
+      "lemma": "sinner"
+    }
+  ],
+  "12:1": [
+    {
+      "surface": "lover",
+      "lemma": "lover"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "12:2": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "condemn",
+      "lemma": "condemn"
+    }
+  ],
+  "12:3": [
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "12:4": [
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "12:5": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "12:6": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "deliver",
+      "lemma": "deliver"
+    }
+  ],
+  "12:7": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "12:8": [
+    {
+      "surface": "praised",
+      "lemma": "praised"
+    },
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    }
+  ],
+  "12:9": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "honoring",
+      "lemma": "honor"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "12:10": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    },
+    {
+      "surface": "animal",
+      "lemma": "animals"
+    },
+    {
+      "surface": "compassion",
+      "lemma": "compassion"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "12:11": [
+    {
+      "surface": "Bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    }
+  ],
+  "12:12": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "desires",
+      "lemma": "desires"
+    },
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "12:13": [
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    },
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "12:14": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "12:15": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    }
+  ],
+  "12:16": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "dishonor",
+      "lemma": "dishonor"
+    }
+  ],
+  "12:17": [
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    },
+    {
+      "surface": "tells",
+      "lemma": "tell"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    }
+  ],
+  "12:18": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "12:19": [
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "12:20": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "12:21": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "12:22": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    }
+  ],
+  "12:23": [
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "calls",
+      "lemma": "call"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "12:24": [
+    {
+      "surface": "rule",
+      "lemma": "rule"
+    },
+    {
+      "surface": "laborer",
+      "lemma": "laborer"
+    }
+  ],
+  "12:25": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "12:26": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "searches",
+      "lemma": "search"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "12:27": [],
+  "12:28": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "13:1": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "mocking",
+      "lemma": "mock"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "13:2": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "13:3": [
+    {
+      "surface": "guarding",
+      "lemma": "guard"
+    },
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    }
+  ],
+  "13:4": [],
+  "13:5": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "13:6": [
+    {
+      "surface": "Righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "guards",
+      "lemma": "guard"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "sinful",
+      "lemma": "sinful"
+    }
+  ],
+  "13:7": [],
+  "13:8": [
+    {
+      "surface": "ransom",
+      "lemma": "ransom"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "13:9": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "13:10": [
+    {
+      "surface": "counseled",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "13:11": [
+    {
+      "surface": "gathering",
+      "lemma": "gather"
+    }
+  ],
+  "13:12": [
+    {
+      "surface": "Hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "fulfilled",
+      "lemma": "fulfilled"
+    }
+  ],
+  "13:13": [
+    {
+      "surface": "fearing",
+      "lemma": "fear"
+    },
+    {
+      "surface": "rewarded",
+      "lemma": "reward"
+    }
+  ],
+  "13:14": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "snares",
+      "lemma": "snare"
+    }
+  ],
+  "13:15": [
+    {
+      "surface": "Good",
+      "lemma": "good"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    }
+  ],
+  "13:16": [
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "person",
+      "lemma": "person"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "13:17": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "messenger",
+      "lemma": "messenger"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    }
+  ],
+  "13:18": [
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "honored",
+      "lemma": "honor"
+    }
+  ],
+  "13:19": [
+    {
+      "surface": "pleasing",
+      "lemma": "please"
+    },
+    {
+      "surface": "self",
+      "lemma": "self"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "13:20": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "13:21": [
+    {
+      "surface": "Evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "sinful",
+      "lemma": "sinful"
+    },
+    {
+      "surface": "reward",
+      "lemma": "reward"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "13:22": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "sinner",
+      "lemma": "sinner"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "13:23": [
+    {
+      "surface": "unplowed",
+      "lemma": "unplowed"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "13:24": [
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    }
+  ],
+  "13:25": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "14:1": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    }
+  ],
+  "14:2": [
+    {
+      "surface": "uprightness",
+      "lemma": "uprightness"
+    },
+    {
+      "surface": "fears",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "14:3": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    },
+    {
+      "surface": "pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "14:4": [
+    {
+      "surface": "cattle",
+      "lemma": "cattle"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    },
+    {
+      "surface": "ox",
+      "lemma": "ox"
+    }
+  ],
+  "14:5": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    },
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    }
+  ],
+  "14:6": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "14:7": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "14:8": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "14:9": [
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    },
+    {
+      "surface": "mock",
+      "lemma": "mock"
+    },
+    {
+      "surface": "guilt offering",
+      "lemma": "guilt offering"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    }
+  ],
+  "14:10": [
+    {
+      "surface": "knows",
+      "lemma": "know"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    }
+  ],
+  "14:11": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "destroyed",
+      "lemma": "destroy"
+    },
+    {
+      "surface": "tent",
+      "lemma": "tent"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "14:12": [],
+  "14:13": [
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    }
+  ],
+  "14:14": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "14:15": [
+    {
+      "surface": "believes",
+      "lemma": "believe"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    }
+  ],
+  "14:16": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "fears",
+      "lemma": "fear"
+    },
+    {
+      "surface": "trouble",
+      "lemma": "trouble"
+    }
+  ],
+  "14:17": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "14:18": [
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "14:19": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "bow down",
+      "lemma": "bow down"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "14:20": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "14:21": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "sins",
+      "lemma": "sin"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "14:22": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "trustworthiness",
+      "lemma": "trustworthiness"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "14:23": [
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    }
+  ],
+  "14:24": [
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "14:25": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    }
+  ],
+  "14:26": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "refuge",
+      "lemma": "refuge"
+    }
+  ],
+  "14:27": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "snares",
+      "lemma": "snare"
+    }
+  ],
+  "14:28": [
+    {
+      "surface": "majesty",
+      "lemma": "majesty"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    },
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    }
+  ],
+  "14:29": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "14:30": [
+    {
+      "surface": "envy",
+      "lemma": "envy"
+    }
+  ],
+  "14:31": [
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "honors",
+      "lemma": "honor"
+    }
+  ],
+  "14:32": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "refuge",
+      "lemma": "refuge"
+    }
+  ],
+  "14:33": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "14:34": [
+    {
+      "surface": "Righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "nation",
+      "lemma": "nation"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "14:35": [
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "15:1": [],
+  "15:2": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "15:3": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "watching",
+      "lemma": "watch"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "15:4": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "15:5": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    }
+  ],
+  "15:6": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "troubled",
+      "lemma": "trouble"
+    }
+  ],
+  "15:7": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "scatter",
+      "lemma": "scatter"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "15:8": [
+    {
+      "surface": "sacrifice",
+      "lemma": "sacrifice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    }
+  ],
+  "15:9": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    }
+  ],
+  "15:10": [
+    {
+      "surface": "forsakes",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "15:11": [
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "15:12": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "rebukes",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "15:13": [
+    {
+      "surface": "joyful",
+      "lemma": "joyful"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "15:14": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "15:15": [
+    {
+      "surface": "days",
+      "lemma": "day"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "feast",
+      "lemma": "feast"
+    }
+  ],
+  "15:16": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "15:17": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "ox",
+      "lemma": "ox"
+    }
+  ],
+  "15:18": [
+    {
+      "surface": "quarrel",
+      "lemma": "quarrel"
+    }
+  ],
+  "15:19": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "15:20": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "15:21": [
+    {
+      "surface": "Folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "15:22": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    }
+  ],
+  "15:23": [
+    {
+      "surface": "Joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "time",
+      "lemma": "time"
+    }
+  ],
+  "15:24": [
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    }
+  ],
+  "15:25": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "proud",
+      "lemma": "proud"
+    },
+    {
+      "surface": "set up",
+      "lemma": "set up"
+    }
+  ],
+  "15:26": [
+    {
+      "surface": "Evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    }
+  ],
+  "15:27": [
+    {
+      "surface": "unjust",
+      "lemma": "unjust"
+    },
+    {
+      "surface": "troubles",
+      "lemma": "trouble"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    },
+    {
+      "surface": "bribes",
+      "lemma": "bribe"
+    }
+  ],
+  "15:28": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "evils",
+      "lemma": "evil"
+    }
+  ],
+  "15:29": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "15:30": [
+    {
+      "surface": "good news",
+      "lemma": "good news"
+    }
+  ],
+  "15:31": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "15:32": [
+    {
+      "surface": "rejects",
+      "lemma": "reject"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "15:33": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "humility",
+      "lemma": "humility"
+    }
+  ],
+  "16:1": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "16:2": [
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "spirits",
+      "lemma": "spirit"
+    }
+  ],
+  "16:3": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "16:4": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "16:5": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "16:6": [
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "trustworthiness",
+      "lemma": "trustworthiness"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "atoned",
+      "lemma": "atoned"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "16:7": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "pleased",
+      "lemma": "please"
+    },
+    {
+      "surface": "enemies",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "peace",
+      "lemma": "peace"
+    }
+  ],
+  "16:8": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "16:9": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "16:10": [
+    {
+      "surface": "Divination",
+      "lemma": "divination"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    }
+  ],
+  "16:11": [
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "16:12": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "16:13": [
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "16:14": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "messengers",
+      "lemma": "messenger"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "atone",
+      "lemma": "atone"
+    }
+  ],
+  "16:15": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    }
+  ],
+  "16:16": [
+    {
+      "surface": "better",
+      "lemma": "better"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "chosen",
+      "lemma": "chosen"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "16:17": [
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "guards",
+      "lemma": "guard"
+    }
+  ],
+  "16:18": [
+    {
+      "surface": "pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "stumbling",
+      "lemma": "stumble"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "16:19": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    },
+    {
+      "surface": "spoil",
+      "lemma": "spoil"
+    },
+    {
+      "surface": "proud",
+      "lemma": "proud"
+    }
+  ],
+  "16:20": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "trusts",
+      "lemma": "trust"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "16:21": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "called",
+      "lemma": "called"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "16:22": [
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "fools",
+      "lemma": "fool"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "16:23": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "16:24": [
+    {
+      "surface": "honeycomb",
+      "lemma": "honeycomb"
+    },
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "16:25": [],
+  "16:26": [
+    {
+      "surface": "laborer",
+      "lemma": "laborer"
+    },
+    {
+      "surface": "labors",
+      "lemma": "labors"
+    }
+  ],
+  "16:27": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "16:28": [
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    },
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    }
+  ],
+  "16:29": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "16:30": [
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "16:31": [
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "16:32": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "ruling",
+      "lemma": "rule"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "capturing",
+      "lemma": "capture"
+    }
+  ],
+  "16:33": [
+    {
+      "surface": "lot",
+      "lemma": "lots"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "17:1": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "dry",
+      "lemma": "dry"
+    },
+    {
+      "surface": "a house",
+      "lemma": "a house"
+    },
+    {
+      "surface": "sacrifices",
+      "lemma": "sacrifices"
+    },
+    {
+      "surface": "quarreling",
+      "lemma": "quarrel"
+    }
+  ],
+  "17:2": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "rule",
+      "lemma": "rule"
+    },
+    {
+      "surface": "inheritance",
+      "lemma": "inheritance"
+    }
+  ],
+  "17:3": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "furnace",
+      "lemma": "furnace"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "tests",
+      "lemma": "test"
+    }
+  ],
+  "17:4": [
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    }
+  ],
+  "17:5": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "17:6": [
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    },
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    }
+  ],
+  "17:7": [
+    {
+      "surface": "noble",
+      "lemma": "noble"
+    }
+  ],
+  "17:8": [
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "bribe",
+      "lemma": "bribe"
+    }
+  ],
+  "17:9": [
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    }
+  ],
+  "17:10": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "times",
+      "lemma": "time"
+    }
+  ],
+  "17:11": [
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "rebellion",
+      "lemma": "rebellion"
+    },
+    {
+      "surface": "messenger",
+      "lemma": "messenger"
+    }
+  ],
+  "17:12": [
+    {
+      "surface": "bear",
+      "lemma": "bear"
+    },
+    {
+      "surface": "robbed",
+      "lemma": "rob"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "17:13": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "his house",
+      "lemma": "his house"
+    }
+  ],
+  "17:14": [
+    {
+      "surface": "quarrel",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "releasing",
+      "lemma": "release"
+    },
+    {
+      "surface": "leave",
+      "lemma": "leave"
+    }
+  ],
+  "17:15": [
+    {
+      "surface": "declares",
+      "lemma": "declare"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "17:16": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "17:17": [
+    {
+      "surface": "time",
+      "lemma": "time"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "17:18": [
+    {
+      "surface": "palm",
+      "lemma": "palm"
+    },
+    {
+      "surface": "pledging",
+      "lemma": "pledging"
+    },
+    {
+      "surface": "pledge",
+      "lemma": "pledge"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "17:19": [
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    }
+  ],
+  "17:20": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "17:21": [
+    {
+      "surface": "begets",
+      "lemma": "beget"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    }
+  ],
+  "17:22": [
+    {
+      "surface": "joyful",
+      "lemma": "joyful"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "dries",
+      "lemma": "dry"
+    }
+  ],
+  "17:23": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "bribe",
+      "lemma": "bribe"
+    },
+    {
+      "surface": "bend",
+      "lemma": "bend"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "17:24": [
+    {
+      "surface": "Wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "17:25": [
+    {
+      "surface": "bore",
+      "lemma": "bore"
+    }
+  ],
+  "17:26": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "nobles",
+      "lemma": "noble"
+    },
+    {
+      "surface": "uprightness",
+      "lemma": "uprightness"
+    }
+  ],
+  "17:27": [
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "17:28": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "18:1": [
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "18:2": [
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "18:3": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    },
+    {
+      "surface": "reproach",
+      "lemma": "reproach"
+    }
+  ],
+  "18:4": [
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "18:5": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    }
+  ],
+  "18:6": [
+    {
+      "surface": "calls",
+      "lemma": "call"
+    }
+  ],
+  "18:7": [
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    },
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    }
+  ],
+  "18:8": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "18:9": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    }
+  ],
+  "18:10": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "tower",
+      "lemma": "tower"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "18:11": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "18:12": [
+    {
+      "surface": "exalted",
+      "lemma": "exalted"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "humility",
+      "lemma": "humility"
+    }
+  ],
+  "18:13": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "18:14": [
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "endure",
+      "lemma": "endure"
+    }
+  ],
+  "18:15": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "seeks",
+      "lemma": "seek"
+    }
+  ],
+  "18:16": [],
+  "18:17": [
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "18:18": [
+    {
+      "surface": "lot",
+      "lemma": "lots"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    }
+  ],
+  "18:19": [
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    },
+    {
+      "surface": "fortress",
+      "lemma": "fortress"
+    }
+  ],
+  "18:20": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "produce",
+      "lemma": "produce"
+    }
+  ],
+  "18:21": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    }
+  ],
+  "18:22": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "18:23": [
+    {
+      "surface": "pleas",
+      "lemma": "plea"
+    }
+  ],
+  "18:24": [
+    {
+      "surface": "companions",
+      "lemma": "companion"
+    },
+    {
+      "surface": "loves",
+      "lemma": "love"
+    }
+  ],
+  "19:1": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "19:2": [
+    {
+      "surface": "zeal",
+      "lemma": "zeal"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "19:3": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "19:4": [
+    {
+      "surface": "companions",
+      "lemma": "companion"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "19:5": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    }
+  ],
+  "19:6": [
+    {
+      "surface": "noble",
+      "lemma": "noble"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    }
+  ],
+  "19:7": [
+    {
+      "surface": "friends",
+      "lemma": "friend"
+    }
+  ],
+  "19:8": [
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "19:9": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "19:10": [
+    {
+      "surface": "slave",
+      "lemma": "slave"
+    },
+    {
+      "surface": "rule",
+      "lemma": "rule"
+    },
+    {
+      "surface": "princes",
+      "lemma": "prince"
+    }
+  ],
+  "19:11": [
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    }
+  ],
+  "19:12": [
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    }
+  ],
+  "19:13": [
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    }
+  ],
+  "19:14": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "inheritance",
+      "lemma": "inheritance"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "19:15": [],
+  "19:16": [
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    }
+  ],
+  "19:17": [
+    {
+      "surface": "gracious",
+      "lemma": "gracious"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "19:18": [
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "19:19": [],
+  "19:20": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "19:21": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "19:22": [
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "better",
+      "lemma": "better"
+    }
+  ],
+  "19:23": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "19:24": [],
+  "19:25": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "19:26": [
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "19:27": [
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "19:28": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "mocks",
+      "lemma": "mock"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "19:29": [
+    {
+      "surface": "Judgments",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "prepared",
+      "lemma": "prepared"
+    },
+    {
+      "surface": "mockers",
+      "lemma": "mocker"
+    }
+  ],
+  "20:1": [
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "staggers",
+      "lemma": "stagger"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "20:2": [
+    {
+      "surface": "terror",
+      "lemma": "terror"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    },
+    {
+      "surface": "wrongs",
+      "lemma": "wrong"
+    }
+  ],
+  "20:3": [
+    {
+      "surface": "Honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    }
+  ],
+  "20:4": [
+    {
+      "surface": "plow",
+      "lemma": "plow"
+    },
+    {
+      "surface": "begs",
+      "lemma": "beg"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    }
+  ],
+  "20:5": [
+    {
+      "surface": "Counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "20:6": [
+    {
+      "surface": "proclaims",
+      "lemma": "proclaim"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    }
+  ],
+  "20:7": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "20:8": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "winnows",
+      "lemma": "winnow"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "20:9": [
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    },
+    {
+      "surface": "clean",
+      "lemma": "clean"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "20:10": [
+    {
+      "surface": "Stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "20:11": [
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    },
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "20:12": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "20:13": [
+    {
+      "surface": "love",
+      "lemma": "love"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "20:14": [
+    {
+      "surface": "praises",
+      "lemma": "praise"
+    }
+  ],
+  "20:15": [
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "20:16": [
+    {
+      "surface": "pledged",
+      "lemma": "pledged"
+    },
+    {
+      "surface": "pledge",
+      "lemma": "pledge"
+    }
+  ],
+  "20:17": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "20:18": [
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "20:19": [
+    {
+      "surface": "gossip",
+      "lemma": "gossip"
+    }
+  ],
+  "20:20": [
+    {
+      "surface": "curses",
+      "lemma": "curse"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    }
+  ],
+  "20:21": [
+    {
+      "surface": "inheritance",
+      "lemma": "inheritance"
+    },
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    }
+  ],
+  "20:22": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "save",
+      "lemma": "save"
+    }
+  ],
+  "20:23": [
+    {
+      "surface": "Stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "20:24": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    }
+  ],
+  "20:25": [
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "vows",
+      "lemma": "vow"
+    }
+  ],
+  "20:26": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "winnows",
+      "lemma": "winnow"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "20:27": [
+    {
+      "surface": "breath",
+      "lemma": "breath"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "searching",
+      "lemma": "search"
+    }
+  ],
+  "20:28": [
+    {
+      "surface": "Covenant",
+      "lemma": "covenant"
+    },
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    },
+    {
+      "surface": "trustworthiness",
+      "lemma": "trustworthiness"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    }
+  ],
+  "20:29": [
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    }
+  ],
+  "20:30": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "21:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "desires",
+      "lemma": "desires"
+    }
+  ],
+  "21:2": [
+    {
+      "surface": "right",
+      "lemma": "right"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "21:3": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "sacrifice",
+      "lemma": "sacrifice"
+    }
+  ],
+  "21:4": [
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    }
+  ],
+  "21:5": [
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    }
+  ],
+  "21:6": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "scattered",
+      "lemma": "scatter"
+    }
+  ],
+  "21:7": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "21:8": [
+    {
+      "surface": "Perverse",
+      "lemma": "perverse"
+    },
+    {
+      "surface": "guilty",
+      "lemma": "guilty"
+    },
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "21:9": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "a house",
+      "lemma": "a house"
+    }
+  ],
+  "21:10": [
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "grace",
+      "lemma": "grace"
+    }
+  ],
+  "21:11": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "receives",
+      "lemma": "receive"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "21:12": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "21:13": [
+    {
+      "surface": "outcry",
+      "lemma": "outcry"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "cry out",
+      "lemma": "cry out"
+    }
+  ],
+  "21:14": [
+    {
+      "surface": "bribe",
+      "lemma": "bribe"
+    }
+  ],
+  "21:15": [
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "terror",
+      "lemma": "terror"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "21:16": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    },
+    {
+      "surface": "spirits",
+      "lemma": "spirit"
+    }
+  ],
+  "21:17": [
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "lover",
+      "lemma": "lover"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    }
+  ],
+  "21:18": [
+    {
+      "surface": "ransom",
+      "lemma": "ransom"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "21:19": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "wilderness",
+      "lemma": "wilderness"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    }
+  ],
+  "21:20": [
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "21:21": [
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "21:22": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    }
+  ],
+  "21:23": [
+    {
+      "surface": "keeps",
+      "lemma": "keep"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "21:24": [
+    {
+      "surface": "presumptuous",
+      "lemma": "presumptuous"
+    },
+    {
+      "surface": "haughty",
+      "lemma": "haughty"
+    },
+    {
+      "surface": "Mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "21:25": [],
+  "21:26": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "desires",
+      "lemma": "desires"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "21:27": [
+    {
+      "surface": "sacrifice",
+      "lemma": "sacrifice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    }
+  ],
+  "21:28": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    }
+  ],
+  "21:29": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "21:30": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "21:31": [
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "salvation",
+      "lemma": "salvation"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "22:1": [
+    {
+      "surface": "chosen",
+      "lemma": "chosen"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "better",
+      "lemma": "better"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    }
+  ],
+  "22:2": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "22:3": [
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "22:4": [
+    {
+      "surface": "humility",
+      "lemma": "humility"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "22:5": [
+    {
+      "surface": "Thorns",
+      "lemma": "thorn"
+    },
+    {
+      "surface": "traps",
+      "lemma": "trap"
+    },
+    {
+      "surface": "guarding",
+      "lemma": "guard"
+    }
+  ],
+  "22:6": [
+    {
+      "surface": "old",
+      "lemma": "old"
+    }
+  ],
+  "22:7": [
+    {
+      "surface": "rules",
+      "lemma": "rule"
+    },
+    {
+      "surface": "slave",
+      "lemma": "slave"
+    }
+  ],
+  "22:8": [
+    {
+      "surface": "sower",
+      "lemma": "sower"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    },
+    {
+      "surface": "reap",
+      "lemma": "reap"
+    },
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    },
+    {
+      "surface": "rage",
+      "lemma": "rage"
+    }
+  ],
+  "22:9": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "22:10": [
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "dishonor",
+      "lemma": "dishonor"
+    }
+  ],
+  "22:11": [
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "pure",
+      "lemma": "pure"
+    },
+    {
+      "surface": "gracious",
+      "lemma": "gracious"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    }
+  ],
+  "22:12": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "22:13": [
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    },
+    {
+      "surface": "killed",
+      "lemma": "kill"
+    }
+  ],
+  "22:14": [
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    },
+    {
+      "surface": "cursed",
+      "lemma": "cursed"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "22:15": [
+    {
+      "surface": "Folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "bound",
+      "lemma": "bound"
+    },
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    }
+  ],
+  "22:16": [
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "22:17": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "22:18": [
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    },
+    {
+      "surface": "keep",
+      "lemma": "keep"
+    }
+  ],
+  "22:19": [
+    {
+      "surface": "trust",
+      "lemma": "trust"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "22:20": [
+    {
+      "surface": "counsels",
+      "lemma": "counsels"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "22:21": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "trustworthiness",
+      "lemma": "trustworthiness"
+    },
+    {
+      "surface": "trustworthy",
+      "lemma": "trustworthy"
+    }
+  ],
+  "22:22": [
+    {
+      "surface": "rob",
+      "lemma": "rob"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "22:23": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "plead",
+      "lemma": "plead"
+    },
+    {
+      "surface": "plunder",
+      "lemma": "plunder"
+    }
+  ],
+  "22:24": [],
+  "22:25": [
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    }
+  ],
+  "22:26": [
+    {
+      "surface": "palm",
+      "lemma": "palm"
+    },
+    {
+      "surface": "pledge",
+      "lemma": "pledge"
+    }
+  ],
+  "22:27": [],
+  "22:28": [],
+  "22:29": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    }
+  ],
+  "23:1": [
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    }
+  ],
+  "23:2": [],
+  "23:3": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    }
+  ],
+  "23:4": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "23:5": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "eagle",
+      "lemma": "eagle"
+    },
+    {
+      "surface": "sky",
+      "lemma": "sky"
+    }
+  ],
+  "23:6": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "23:7": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "23:8": [
+    {
+      "surface": "ruin",
+      "lemma": "ruin"
+    },
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    }
+  ],
+  "23:9": [
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    }
+  ],
+  "23:10": [],
+  "23:11": [
+    {
+      "surface": "redeemer",
+      "lemma": "redeemer"
+    },
+    {
+      "surface": "plead",
+      "lemma": "plead"
+    }
+  ],
+  "23:12": [
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "23:13": [
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    }
+  ],
+  "23:14": [
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    },
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    }
+  ],
+  "23:15": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    }
+  ],
+  "23:16": [
+    {
+      "surface": "exult",
+      "lemma": "exult"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "23:17": [
+    {
+      "surface": "sinners",
+      "lemma": "sinner"
+    },
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "23:18": [
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    }
+  ],
+  "23:19": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "23:20": [
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "23:21": [],
+  "23:22": [
+    {
+      "surface": "begot",
+      "lemma": "begot"
+    },
+    {
+      "surface": "old",
+      "lemma": "old"
+    }
+  ],
+  "23:23": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "23:24": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "rejoicing",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "begets",
+      "lemma": "beget"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "23:25": [
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "bore",
+      "lemma": "bore"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    }
+  ],
+  "23:26": [
+    {
+      "surface": "watch",
+      "lemma": "watch"
+    }
+  ],
+  "23:27": [
+    {
+      "surface": "prostitute",
+      "lemma": "prostitute"
+    },
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    },
+    {
+      "surface": "well",
+      "lemma": "well"
+    }
+  ],
+  "23:28": [
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "robber",
+      "lemma": "robber"
+    }
+  ],
+  "23:29": [
+    {
+      "surface": "woe",
+      "lemma": "woe"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "lament",
+      "lemma": "lament"
+    }
+  ],
+  "23:30": [
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "search",
+      "lemma": "search"
+    }
+  ],
+  "23:31": [
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "23:32": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "snake",
+      "lemma": "snake"
+    },
+    {
+      "surface": "viper",
+      "lemma": "viper"
+    }
+  ],
+  "23:33": [
+    {
+      "surface": "perverse",
+      "lemma": "perverse"
+    }
+  ],
+  "23:34": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "lies",
+      "lemma": "lie"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    }
+  ],
+  "23:35": [
+    {
+      "surface": "hurt",
+      "lemma": "hurt"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "24:1": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "24:2": [
+    {
+      "surface": "trouble",
+      "lemma": "trouble"
+    }
+  ],
+  "24:3": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "a house",
+      "lemma": "a house"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "24:4": [
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    }
+  ],
+  "24:5": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "24:6": [
+    {
+      "surface": "salvation",
+      "lemma": "salvation"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    }
+  ],
+  "24:7": [
+    {
+      "surface": "Wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "gate",
+      "lemma": "gate"
+    }
+  ],
+  "24:8": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "call",
+      "lemma": "call"
+    }
+  ],
+  "24:9": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "sin",
+      "lemma": "sin"
+    },
+    {
+      "surface": "mocker",
+      "lemma": "mocker"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    }
+  ],
+  "24:10": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "24:11": [
+    {
+      "surface": "staggering",
+      "lemma": "stagger"
+    },
+    {
+      "surface": "slaughter",
+      "lemma": "slaughter"
+    }
+  ],
+  "24:12": [
+    {
+      "surface": "know",
+      "lemma": "know"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "guard",
+      "lemma": "guard"
+    },
+    {
+      "surface": "work",
+      "lemma": "work"
+    }
+  ],
+  "24:13": [
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "24:14": [
+    {
+      "surface": "Know",
+      "lemma": "know"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    }
+  ],
+  "24:15": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "24:16": [
+    {
+      "surface": "times",
+      "lemma": "time"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "stumble",
+      "lemma": "stumble"
+    },
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    }
+  ],
+  "24:17": [
+    {
+      "surface": "enemy",
+      "lemma": "enemy"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    },
+    {
+      "surface": "stumbles",
+      "lemma": "stumble"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    }
+  ],
+  "24:18": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "24:19": [
+    {
+      "surface": "envy",
+      "lemma": "envy"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "24:20": [
+    {
+      "surface": "evil one",
+      "lemma": "evil one"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "24:21": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "24:22": [
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    },
+    {
+      "surface": "knowing",
+      "lemma": "know"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    }
+  ],
+  "24:23": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "24:24": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "nations",
+      "lemma": "nation"
+    }
+  ],
+  "24:25": [
+    {
+      "surface": "pleasant",
+      "lemma": "pleasant"
+    },
+    {
+      "surface": "blessing",
+      "lemma": "blessing"
+    }
+  ],
+  "24:26": [
+    {
+      "surface": "kisses",
+      "lemma": "kiss"
+    }
+  ],
+  "24:27": [
+    {
+      "surface": "work",
+      "lemma": "work"
+    },
+    {
+      "surface": "your house",
+      "lemma": "your house"
+    }
+  ],
+  "24:28": [
+    {
+      "surface": "witness",
+      "lemma": "witness"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "deceive",
+      "lemma": "deceive"
+    }
+  ],
+  "24:29": [
+    {
+      "surface": "Just",
+      "lemma": "just"
+    }
+  ],
+  "24:30": [
+    {
+      "surface": "vineyard",
+      "lemma": "vineyard"
+    }
+  ],
+  "24:31": [
+    {
+      "surface": "thorns",
+      "lemma": "thorn"
+    },
+    {
+      "surface": "stones",
+      "lemma": "stone"
+    }
+  ],
+  "24:32": [
+    {
+      "surface": "received",
+      "lemma": "receive"
+    },
+    {
+      "surface": "instruction",
+      "lemma": "instruction"
+    }
+  ],
+  "24:33": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    }
+  ],
+  "24:34": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "shield",
+      "lemma": "shield"
+    }
+  ],
+  "25:1": [
+    {
+      "surface": "proverbs",
+      "lemma": "proverb"
+    },
+    {
+      "surface": "Solomon",
+      "lemma": "Solomon"
+    },
+    {
+      "surface": "Hezekiah",
+      "lemma": "Hezekiah"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "Judah",
+      "lemma": "Judah"
+    }
+  ],
+  "25:2": [
+    {
+      "surface": "glory",
+      "lemma": "glory"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "search",
+      "lemma": "search"
+    }
+  ],
+  "25:3": [
+    {
+      "surface": "Heavens",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "kings",
+      "lemma": "king"
+    }
+  ],
+  "25:4": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "25:5": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    }
+  ],
+  "25:6": [
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "25:7": [
+    {
+      "surface": "better",
+      "lemma": "better"
+    },
+    {
+      "surface": "humiliate",
+      "lemma": "humiliate"
+    },
+    {
+      "surface": "noble",
+      "lemma": "noble"
+    }
+  ],
+  "25:8": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "humiliates",
+      "lemma": "humiliate"
+    }
+  ],
+  "25:9": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "25:10": [
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "25:11": [
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    }
+  ],
+  "25:12": [
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "25:13": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "snow",
+      "lemma": "snow"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    },
+    {
+      "surface": "faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "masters",
+      "lemma": "master"
+    }
+  ],
+  "25:14": [
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "boasts",
+      "lemma": "boast"
+    }
+  ],
+  "25:15": [
+    {
+      "surface": "commander",
+      "lemma": "commander"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "25:16": [
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    }
+  ],
+  "25:17": [
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "25:18": [
+    {
+      "surface": "sword",
+      "lemma": "sword"
+    },
+    {
+      "surface": "testimony",
+      "lemma": "testimony"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "25:19": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "distress",
+      "lemma": "distress"
+    }
+  ],
+  "25:20": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "25:21": [
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "25:22": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "25:23": [
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "25:24": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "a house",
+      "lemma": "a house"
+    }
+  ],
+  "25:25": [
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    },
+    {
+      "surface": "good news",
+      "lemma": "good news"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "25:26": [
+    {
+      "surface": "spring",
+      "lemma": "spring"
+    },
+    {
+      "surface": "trampling",
+      "lemma": "trample"
+    },
+    {
+      "surface": "fountain",
+      "lemma": "fountain"
+    },
+    {
+      "surface": "spoiled",
+      "lemma": "spoil"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "25:27": [
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "searching",
+      "lemma": "search"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "25:28": [
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    }
+  ],
+  "26:1": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "snow",
+      "lemma": "snow"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "harvest",
+      "lemma": "harvest"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "26:2": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    }
+  ],
+  "26:3": [
+    {
+      "surface": "horse",
+      "lemma": "horse"
+    },
+    {
+      "surface": "donkey",
+      "lemma": "donkey"
+    },
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    }
+  ],
+  "26:4": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "26:5": [
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "26:6": [],
+  "26:7": [
+    {
+      "surface": "proverb",
+      "lemma": "proverb"
+    }
+  ],
+  "26:8": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "26:9": [
+    {
+      "surface": "thorn",
+      "lemma": "thorn"
+    },
+    {
+      "surface": "drunkard",
+      "lemma": "drunkard"
+    },
+    {
+      "surface": "proverb",
+      "lemma": "proverb"
+    }
+  ],
+  "26:10": [
+    {
+      "surface": "archer",
+      "lemma": "archer"
+    }
+  ],
+  "26:11": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "26:12": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    }
+  ],
+  "26:13": [
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    }
+  ],
+  "26:14": [],
+  "26:15": [],
+  "26:16": [
+    {
+      "surface": "discernment",
+      "lemma": "discernment"
+    }
+  ],
+  "26:17": [],
+  "26:18": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    }
+  ],
+  "26:19": [
+    {
+      "surface": "deceives",
+      "lemma": "deceive"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "26:20": [
+    {
+      "surface": "quarrel",
+      "lemma": "quarrel"
+    }
+  ],
+  "26:21": [
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    }
+  ],
+  "26:22": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    }
+  ],
+  "26:23": [
+    {
+      "surface": "Silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "26:24": [],
+  "26:25": [
+    {
+      "surface": "gracious",
+      "lemma": "gracious"
+    },
+    {
+      "surface": "trust",
+      "lemma": "trust"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    },
+    {
+      "surface": "abominations",
+      "lemma": "abomination"
+    }
+  ],
+  "26:26": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "assembly",
+      "lemma": "assembly"
+    }
+  ],
+  "26:27": [
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    },
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    }
+  ],
+  "26:28": [
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    },
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    }
+  ],
+  "27:1": [
+    {
+      "surface": "boast",
+      "lemma": "boast"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "27:2": [
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    },
+    {
+      "surface": "foreigner",
+      "lemma": "foreigner"
+    }
+  ],
+  "27:3": [
+    {
+      "surface": "stone",
+      "lemma": "stone"
+    },
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    }
+  ],
+  "27:4": [
+    {
+      "surface": "flood",
+      "lemma": "flood"
+    },
+    {
+      "surface": "jealousy",
+      "lemma": "jealousy"
+    }
+  ],
+  "27:5": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "love",
+      "lemma": "love"
+    }
+  ],
+  "27:6": [
+    {
+      "surface": "Faithful",
+      "lemma": "faithful"
+    },
+    {
+      "surface": "loving",
+      "lemma": "love"
+    },
+    {
+      "surface": "kisses",
+      "lemma": "kiss"
+    }
+  ],
+  "27:7": [
+    {
+      "surface": "tramples",
+      "lemma": "trample"
+    },
+    {
+      "surface": "honey",
+      "lemma": "honey"
+    }
+  ],
+  "27:8": [
+    {
+      "surface": "Like",
+      "lemma": "like"
+    }
+  ],
+  "27:9": [
+    {
+      "surface": "Oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "incense",
+      "lemma": "incense"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    },
+    {
+      "surface": "counsel",
+      "lemma": "counsel"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "27:10": [
+    {
+      "surface": "forsake",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "friend",
+      "lemma": "friend"
+    },
+    {
+      "surface": "the house",
+      "lemma": "the house"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "calamity",
+      "lemma": "calamity"
+    },
+    {
+      "surface": "Better",
+      "lemma": "better"
+    }
+  ],
+  "27:11": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "reproaching",
+      "lemma": "reproach"
+    }
+  ],
+  "27:12": [
+    {
+      "surface": "prudent",
+      "lemma": "prudent"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "27:13": [
+    {
+      "surface": "pledged",
+      "lemma": "pledged"
+    },
+    {
+      "surface": "pledge",
+      "lemma": "pledge"
+    }
+  ],
+  "27:14": [
+    {
+      "surface": "blesses",
+      "lemma": "bless"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    }
+  ],
+  "27:15": [
+    {
+      "surface": "day",
+      "lemma": "day"
+    },
+    {
+      "surface": "quarrels",
+      "lemma": "quarrel"
+    },
+    {
+      "surface": "alike",
+      "lemma": "alike"
+    }
+  ],
+  "27:16": [
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "oil",
+      "lemma": "oil"
+    },
+    {
+      "surface": "right",
+      "lemma": "right"
+    }
+  ],
+  "27:17": [
+    {
+      "surface": "Iron",
+      "lemma": "iron"
+    },
+    {
+      "surface": "iron",
+      "lemma": "iron"
+    },
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "27:18": [
+    {
+      "surface": "guarding",
+      "lemma": "guard"
+    },
+    {
+      "surface": "fig",
+      "lemma": "fig"
+    },
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    },
+    {
+      "surface": "honored",
+      "lemma": "honor"
+    }
+  ],
+  "27:19": [],
+  "27:20": [
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    }
+  ],
+  "27:21": [
+    {
+      "surface": "silver",
+      "lemma": "silver"
+    },
+    {
+      "surface": "furnace",
+      "lemma": "furnace"
+    },
+    {
+      "surface": "gold",
+      "lemma": "gold"
+    },
+    {
+      "surface": "praises",
+      "lemma": "praise"
+    }
+  ],
+  "27:22": [
+    {
+      "surface": "fool",
+      "lemma": "fool"
+    },
+    {
+      "surface": "grains",
+      "lemma": "grain"
+    },
+    {
+      "surface": "folly",
+      "lemma": "folly"
+    }
+  ],
+  "27:23": [
+    {
+      "surface": "Know",
+      "lemma": "know"
+    },
+    {
+      "surface": "well",
+      "lemma": "well"
+    },
+    {
+      "surface": "flock",
+      "lemma": "flock"
+    },
+    {
+      "surface": "herds",
+      "lemma": "herd"
+    }
+  ],
+  "27:24": [
+    {
+      "surface": "eternity",
+      "lemma": "eternity"
+    },
+    {
+      "surface": "crown",
+      "lemma": "crown"
+    },
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    }
+  ],
+  "27:25": [
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    }
+  ],
+  "27:26": [
+    {
+      "surface": "lambs",
+      "lemma": "lamb"
+    },
+    {
+      "surface": "goats",
+      "lemma": "goat"
+    }
+  ],
+  "27:27": [
+    {
+      "surface": "goats",
+      "lemma": "goat"
+    },
+    {
+      "surface": "your house",
+      "lemma": "your house"
+    },
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    }
+  ],
+  "28:1": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    }
+  ],
+  "28:2": [
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "rulers",
+      "lemma": "ruler"
+    },
+    {
+      "surface": "understands",
+      "lemma": "understand"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    },
+    {
+      "surface": "endure",
+      "lemma": "endure"
+    }
+  ],
+  "28:3": [
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "washes",
+      "lemma": "wash"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "28:4": [
+    {
+      "surface": "forsaking",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    }
+  ],
+  "28:5": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "28:6": [
+    {
+      "surface": "Better",
+      "lemma": "better"
+    },
+    {
+      "surface": "integrity",
+      "lemma": "integrity"
+    }
+  ],
+  "28:7": [
+    {
+      "surface": "guards",
+      "lemma": "guard"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "understands",
+      "lemma": "understand"
+    },
+    {
+      "surface": "humiliates",
+      "lemma": "humiliate"
+    }
+  ],
+  "28:8": [
+    {
+      "surface": "gathers",
+      "lemma": "gather"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "28:9": [
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "prayer",
+      "lemma": "prayer"
+    },
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    }
+  ],
+  "28:10": [
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "inherit",
+      "lemma": "inherit"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    }
+  ],
+  "28:11": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "discerning",
+      "lemma": "discern"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "search",
+      "lemma": "search"
+    }
+  ],
+  "28:12": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "exult",
+      "lemma": "exult"
+    },
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "searched",
+      "lemma": "search"
+    }
+  ],
+  "28:13": [
+    {
+      "surface": "transgressions",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "prosper",
+      "lemma": "prosper"
+    },
+    {
+      "surface": "confessing",
+      "lemma": "confess"
+    },
+    {
+      "surface": "forsaking",
+      "lemma": "forsake"
+    },
+    {
+      "surface": "mercy",
+      "lemma": "mercy"
+    }
+  ],
+  "28:14": [
+    {
+      "surface": "fearing",
+      "lemma": "fear"
+    },
+    {
+      "surface": "hardening",
+      "lemma": "harden"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    }
+  ],
+  "28:15": [
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    },
+    {
+      "surface": "bear",
+      "lemma": "bear"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    }
+  ],
+  "28:16": [
+    {
+      "surface": "leader",
+      "lemma": "leader"
+    },
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    },
+    {
+      "surface": "unjust",
+      "lemma": "unjust"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "28:17": [
+    {
+      "surface": "pit",
+      "lemma": "pit"
+    }
+  ],
+  "28:18": [
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "saved",
+      "lemma": "saved"
+    }
+  ],
+  "28:19": [
+    {
+      "surface": "working",
+      "lemma": "work"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "28:20": [
+    {
+      "surface": "faithfulness",
+      "lemma": "faithfulness"
+    },
+    {
+      "surface": "blessings",
+      "lemma": "blessing"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    }
+  ],
+  "28:21": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    },
+    {
+      "surface": "transgress",
+      "lemma": "transgress"
+    }
+  ],
+  "28:22": [
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "28:23": [
+    {
+      "surface": "rebuking",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "favor",
+      "lemma": "favor"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "28:24": [
+    {
+      "surface": "robbing",
+      "lemma": "rob"
+    },
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "companion",
+      "lemma": "companion"
+    },
+    {
+      "surface": "destruction",
+      "lemma": "destruction"
+    }
+  ],
+  "28:25": [
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    },
+    {
+      "surface": "trusts",
+      "lemma": "trust"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "28:26": [
+    {
+      "surface": "trusting",
+      "lemma": "trust"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    }
+  ],
+  "28:27": [
+    {
+      "surface": "curses",
+      "lemma": "curse"
+    }
+  ],
+  "28:28": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "perish",
+      "lemma": "perish"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "29:1": [
+    {
+      "surface": "rebukes",
+      "lemma": "rebuke"
+    }
+  ],
+  "29:2": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "rejoice",
+      "lemma": "rejoice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "rules",
+      "lemma": "rule"
+    }
+  ],
+  "29:3": [
+    {
+      "surface": "loves",
+      "lemma": "love"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "prostitutes",
+      "lemma": "prostitute"
+    },
+    {
+      "surface": "destroys",
+      "lemma": "destroy"
+    }
+  ],
+  "29:4": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    },
+    {
+      "surface": "contributions",
+      "lemma": "contribution"
+    }
+  ],
+  "29:5": [
+    {
+      "surface": "neighbor",
+      "lemma": "neighbor"
+    }
+  ],
+  "29:6": [
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "joy",
+      "lemma": "joy"
+    },
+    {
+      "surface": "glad",
+      "lemma": "glad"
+    }
+  ],
+  "29:7": [
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "knows",
+      "lemma": "know"
+    },
+    {
+      "surface": "legal",
+      "lemma": "legal"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    }
+  ],
+  "29:8": [
+    {
+      "surface": "mockery",
+      "lemma": "mockery"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "29:9": [
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    },
+    {
+      "surface": "judgment",
+      "lemma": "judgment"
+    },
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    },
+    {
+      "surface": "rages",
+      "lemma": "rage"
+    }
+  ],
+  "29:10": [
+    {
+      "surface": "bloodshed",
+      "lemma": "bloodshed"
+    },
+    {
+      "surface": "blameless",
+      "lemma": "blameless"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    },
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    }
+  ],
+  "29:11": [
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "29:12": [
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    },
+    {
+      "surface": "servants",
+      "lemma": "servant"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    }
+  ],
+  "29:13": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "29:14": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "judges",
+      "lemma": "judge"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "throne",
+      "lemma": "throne"
+    },
+    {
+      "surface": "established",
+      "lemma": "established"
+    }
+  ],
+  "29:15": [
+    {
+      "surface": "rod",
+      "lemma": "rod"
+    },
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    },
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "shame",
+      "lemma": "shame"
+    }
+  ],
+  "29:16": [
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    }
+  ],
+  "29:17": [
+    {
+      "surface": "delights",
+      "lemma": "delight"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "29:18": [
+    {
+      "surface": "vision",
+      "lemma": "vision"
+    },
+    {
+      "surface": "keeping",
+      "lemma": "keep"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    }
+  ],
+  "29:19": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "instructed",
+      "lemma": "instruct"
+    },
+    {
+      "surface": "understands",
+      "lemma": "understand"
+    }
+  ],
+  "29:20": [
+    {
+      "surface": "hope",
+      "lemma": "hope"
+    }
+  ],
+  "29:21": [
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    }
+  ],
+  "29:22": [
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    },
+    {
+      "surface": "transgression",
+      "lemma": "transgression"
+    }
+  ],
+  "29:23": [
+    {
+      "surface": "pride",
+      "lemma": "pride"
+    },
+    {
+      "surface": "lowly",
+      "lemma": "lowly"
+    },
+    {
+      "surface": "spirit",
+      "lemma": "spirit"
+    },
+    {
+      "surface": "honor",
+      "lemma": "honor"
+    }
+  ],
+  "29:24": [
+    {
+      "surface": "thief",
+      "lemma": "thief"
+    },
+    {
+      "surface": "oath",
+      "lemma": "oath"
+    },
+    {
+      "surface": "tell",
+      "lemma": "tell"
+    }
+  ],
+  "29:25": [
+    {
+      "surface": "snare",
+      "lemma": "snare"
+    },
+    {
+      "surface": "trusting",
+      "lemma": "trust"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    }
+  ],
+  "29:26": [
+    {
+      "surface": "seek",
+      "lemma": "seek"
+    },
+    {
+      "surface": "ruler",
+      "lemma": "ruler"
+    },
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "justice",
+      "lemma": "justice"
+    }
+  ],
+  "29:27": [
+    {
+      "surface": "abomination",
+      "lemma": "abomination"
+    },
+    {
+      "surface": "righteous",
+      "lemma": "righteous"
+    },
+    {
+      "surface": "injustice",
+      "lemma": "injustice"
+    },
+    {
+      "surface": "wicked",
+      "lemma": "wicked"
+    },
+    {
+      "surface": "upright",
+      "lemma": "upright"
+    }
+  ],
+  "30:1": [],
+  "30:2": [
+    {
+      "surface": "understanding",
+      "lemma": "understanding"
+    }
+  ],
+  "30:3": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "knowledge",
+      "lemma": "knowledge"
+    },
+    {
+      "surface": "holy",
+      "lemma": "holy"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "30:4": [
+    {
+      "surface": "heaven",
+      "lemma": "heaven"
+    },
+    {
+      "surface": "descended",
+      "lemma": "descend"
+    },
+    {
+      "surface": "gathered",
+      "lemma": "gather"
+    },
+    {
+      "surface": "wind",
+      "lemma": "wind"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "know",
+      "lemma": "know"
+    }
+  ],
+  "30:5": [
+    {
+      "surface": "God",
+      "lemma": "God"
+    },
+    {
+      "surface": "shield",
+      "lemma": "shield"
+    },
+    {
+      "surface": "refuge",
+      "lemma": "refuge"
+    },
+    {
+      "surface": "in him",
+      "lemma": "in him"
+    }
+  ],
+  "30:6": [
+    {
+      "surface": "rebuke",
+      "lemma": "rebuke"
+    }
+  ],
+  "30:7": [],
+  "30:8": [
+    {
+      "surface": "lie",
+      "lemma": "lie"
+    },
+    {
+      "surface": "receive",
+      "lemma": "receive"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "30:9": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "dispossessed",
+      "lemma": "dispossess"
+    },
+    {
+      "surface": "seize",
+      "lemma": "seize"
+    },
+    {
+      "surface": "God",
+      "lemma": "God"
+    }
+  ],
+  "30:10": [
+    {
+      "surface": "slander",
+      "lemma": "slander"
+    },
+    {
+      "surface": "slave",
+      "lemma": "slave"
+    },
+    {
+      "surface": "master",
+      "lemma": "master"
+    },
+    {
+      "surface": "curse",
+      "lemma": "curse"
+    },
+    {
+      "surface": "guilty",
+      "lemma": "guilty"
+    }
+  ],
+  "30:11": [
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    },
+    {
+      "surface": "curses",
+      "lemma": "curse"
+    },
+    {
+      "surface": "bless",
+      "lemma": "bless"
+    }
+  ],
+  "30:12": [
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    },
+    {
+      "surface": "clean",
+      "lemma": "clean"
+    },
+    {
+      "surface": "washed",
+      "lemma": "wash"
+    }
+  ],
+  "30:13": [
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    }
+  ],
+  "30:14": [
+    {
+      "surface": "generation",
+      "lemma": "generation"
+    },
+    {
+      "surface": "swords",
+      "lemma": "sword"
+    },
+    {
+      "surface": "devouring",
+      "lemma": "devour"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    },
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "30:15": [],
+  "30:16": [
+    {
+      "surface": "Sheol",
+      "lemma": "Sheol"
+    },
+    {
+      "surface": "womb",
+      "lemma": "womb"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "30:17": [
+    {
+      "surface": "mocks",
+      "lemma": "mock"
+    },
+    {
+      "surface": "contempt",
+      "lemma": "contempt"
+    }
+  ],
+  "30:18": [
+    {
+      "surface": "understand",
+      "lemma": "understand"
+    }
+  ],
+  "30:19": [
+    {
+      "surface": "eagle",
+      "lemma": "eagle"
+    },
+    {
+      "surface": "sky",
+      "lemma": "sky"
+    },
+    {
+      "surface": "snake",
+      "lemma": "snake"
+    },
+    {
+      "surface": "the sea",
+      "lemma": "the sea"
+    },
+    {
+      "surface": "young man",
+      "lemma": "young man"
+    }
+  ],
+  "30:20": [
+    {
+      "surface": "commits",
+      "lemma": "commit"
+    },
+    {
+      "surface": "adultery",
+      "lemma": "adultery"
+    },
+    {
+      "surface": "iniquity",
+      "lemma": "iniquity"
+    }
+  ],
+  "30:21": [
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    }
+  ],
+  "30:22": [
+    {
+      "surface": "slave",
+      "lemma": "slave"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "30:23": [
+    {
+      "surface": "married",
+      "lemma": "married"
+    },
+    {
+      "surface": "servant",
+      "lemma": "servant"
+    },
+    {
+      "surface": "dispossesses",
+      "lemma": "dispossess"
+    }
+  ],
+  "30:24": [
+    {
+      "surface": "earth",
+      "lemma": "earth"
+    },
+    {
+      "surface": "wise",
+      "lemma": "wise"
+    }
+  ],
+  "30:25": [],
+  "30:26": [
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    }
+  ],
+  "30:27": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "locust",
+      "lemma": "locust"
+    }
+  ],
+  "30:28": [
+    {
+      "surface": "catch",
+      "lemma": "catch"
+    },
+    {
+      "surface": "palaces",
+      "lemma": "palace"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "30:29": [
+    {
+      "surface": "well",
+      "lemma": "well"
+    }
+  ],
+  "30:30": [
+    {
+      "surface": "lion",
+      "lemma": "lion"
+    },
+    {
+      "surface": "mighty",
+      "lemma": "mighty"
+    },
+    {
+      "surface": "animals",
+      "lemma": "animals"
+    }
+  ],
+  "30:31": [
+    {
+      "surface": "loins",
+      "lemma": "loins"
+    },
+    {
+      "surface": "goat",
+      "lemma": "goat"
+    },
+    {
+      "surface": "king",
+      "lemma": "king"
+    }
+  ],
+  "30:32": [
+    {
+      "surface": "foolish",
+      "lemma": "foolish"
+    }
+  ],
+  "30:33": [
+    {
+      "surface": "strife",
+      "lemma": "strife"
+    }
+  ],
+  "31:1": [
+    {
+      "surface": "king",
+      "lemma": "king"
+    },
+    {
+      "surface": "instructed",
+      "lemma": "instruct"
+    }
+  ],
+  "31:2": [
+    {
+      "surface": "womb",
+      "lemma": "womb"
+    },
+    {
+      "surface": "vows",
+      "lemma": "vow"
+    }
+  ],
+  "31:3": [
+    {
+      "surface": "kings",
+      "lemma": "king"
+    }
+  ],
+  "31:4": [
+    {
+      "surface": "kings",
+      "lemma": "king"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    }
+  ],
+  "31:5": [
+    {
+      "surface": "decreed",
+      "lemma": "decreed"
+    },
+    {
+      "surface": "pervert",
+      "lemma": "pervert"
+    },
+    {
+      "surface": "legal",
+      "lemma": "legal"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    }
+  ],
+  "31:6": [
+    {
+      "surface": "perishing",
+      "lemma": "perish"
+    },
+    {
+      "surface": "wine",
+      "lemma": "wine"
+    },
+    {
+      "surface": "soul",
+      "lemma": "soul"
+    }
+  ],
+  "31:7": [
+    {
+      "surface": "trouble",
+      "lemma": "trouble"
+    }
+  ],
+  "31:8": [
+    {
+      "surface": "legal",
+      "lemma": "legal"
+    }
+  ],
+  "31:9": [
+    {
+      "surface": "judge",
+      "lemma": "judge"
+    },
+    {
+      "surface": "righteousness",
+      "lemma": "righteousness"
+    },
+    {
+      "surface": "plead",
+      "lemma": "plead"
+    },
+    {
+      "surface": "legal",
+      "lemma": "legal"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    }
+  ],
+  "31:10": [],
+  "31:11": [
+    {
+      "surface": "trusts",
+      "lemma": "trust"
+    },
+    {
+      "surface": "spoil",
+      "lemma": "spoil"
+    }
+  ],
+  "31:12": [
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "evil",
+      "lemma": "evil"
+    },
+    {
+      "surface": "days",
+      "lemma": "day"
+    }
+  ],
+  "31:13": [
+    {
+      "surface": "searches",
+      "lemma": "search"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "delight",
+      "lemma": "delight"
+    },
+    {
+      "surface": "palms",
+      "lemma": "palm"
+    }
+  ],
+  "31:14": [
+    {
+      "surface": "like",
+      "lemma": "like"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "31:15": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "young women",
+      "lemma": "young women"
+    }
+  ],
+  "31:16": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "palms",
+      "lemma": "palm"
+    },
+    {
+      "surface": "plants",
+      "lemma": "plant"
+    },
+    {
+      "surface": "vineyard",
+      "lemma": "vineyard"
+    }
+  ],
+  "31:17": [
+    {
+      "surface": "girds",
+      "lemma": "gird"
+    },
+    {
+      "surface": "loins",
+      "lemma": "loins"
+    }
+  ],
+  "31:18": [
+    {
+      "surface": "profit",
+      "lemma": "profit"
+    },
+    {
+      "surface": "good",
+      "lemma": "good"
+    },
+    {
+      "surface": "lamp",
+      "lemma": "lamp"
+    }
+  ],
+  "31:19": [
+    {
+      "surface": "palms",
+      "lemma": "palm"
+    }
+  ],
+  "31:20": [
+    {
+      "surface": "palm",
+      "lemma": "palm"
+    },
+    {
+      "surface": "afflicted",
+      "lemma": "afflict"
+    }
+  ],
+  "31:21": [
+    {
+      "surface": "fear",
+      "lemma": "fear"
+    },
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "snow",
+      "lemma": "snow"
+    }
+  ],
+  "31:22": [
+    {
+      "surface": "purple",
+      "lemma": "purple"
+    }
+  ],
+  "31:23": [
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    },
+    {
+      "surface": "elders",
+      "lemma": "elder"
+    },
+    {
+      "surface": "land",
+      "lemma": "land"
+    }
+  ],
+  "31:24": [
+    {
+      "surface": "belt",
+      "lemma": "belt"
+    },
+    {
+      "surface": "Canaanite",
+      "lemma": "Canaanite"
+    }
+  ],
+  "31:25": [
+    {
+      "surface": "splendor",
+      "lemma": "splendor"
+    },
+    {
+      "surface": "day",
+      "lemma": "day"
+    }
+  ],
+  "31:26": [
+    {
+      "surface": "wisdom",
+      "lemma": "wisdom"
+    },
+    {
+      "surface": "law",
+      "lemma": "law"
+    },
+    {
+      "surface": "covenant faithfulness",
+      "lemma": "covenant faithfulness"
+    },
+    {
+      "surface": "tongue",
+      "lemma": "tongue"
+    }
+  ],
+  "31:27": [
+    {
+      "surface": "house",
+      "lemma": "house"
+    },
+    {
+      "surface": "bread",
+      "lemma": "bread"
+    }
+  ],
+  "31:28": [
+    {
+      "surface": "call",
+      "lemma": "call"
+    },
+    {
+      "surface": "blessed",
+      "lemma": "blessed"
+    },
+    {
+      "surface": "praises",
+      "lemma": "praise"
+    }
+  ],
+  "31:29": [],
+  "31:30": [
+    {
+      "surface": "Yahweh",
+      "lemma": "Yahweh"
+    },
+    {
+      "surface": "praised",
+      "lemma": "praised"
+    }
+  ],
+  "31:31": [
+    {
+      "surface": "fruit",
+      "lemma": "fruit"
+    },
+    {
+      "surface": "works",
+      "lemma": "work"
+    },
+    {
+      "surface": "praise",
+      "lemma": "praise"
+    },
+    {
+      "surface": "gates",
+      "lemma": "gate"
+    }
+  ]
+}
