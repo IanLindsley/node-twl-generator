@@ -2,155 +2,155 @@
   "1:1": [
     {
       "surface": "Paul",
-      "lemma": "Paul"
+      "tw_match": "Paul"
     },
     {
       "surface": "Christ Jesus",
-      "lemma": "Christ Jesus"
+      "tw_match": "Christ Jesus"
     },
     {
       "surface": "Timothy",
-      "lemma": "Timothy"
+      "tw_match": "Timothy"
     },
     {
       "surface": "beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "fellow worker",
-      "lemma": "fellow worker"
+      "tw_match": "fellow worker"
     }
   ],
   "1:2": [
     {
       "surface": "soldier",
-      "lemma": "soldier"
+      "tw_match": "soldier"
     },
     {
       "surface": "church",
-      "lemma": "church"
+      "tw_match": "church"
     },
     {
       "surface": "your house",
-      "lemma": "your house"
+      "tw_match": "your house"
     }
   ],
   "1:3": [
     {
       "surface": "Grace",
-      "lemma": "grace"
+      "tw_match": "grace"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "Father",
-      "lemma": "Father"
+      "tw_match": "Father"
     },
     {
       "surface": "Lord",
-      "lemma": "Lord"
+      "tw_match": "Lord"
     },
     {
       "surface": "Jesus Christ",
-      "lemma": "Jesus Christ"
+      "tw_match": "Jesus Christ"
     }
   ],
   "1:4": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "prayers",
-      "lemma": "prayer"
+      "tw_match": "prayer"
     }
   ],
   "1:5": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "faith",
-      "lemma": "faith"
+      "tw_match": "faith"
     },
     {
       "surface": "in the Lord",
-      "lemma": "in the Lord"
+      "tw_match": "in the Lord"
     },
     {
       "surface": "Jesus",
-      "lemma": "Jesus"
+      "tw_match": "Jesus"
     },
     {
       "surface": "saints",
-      "lemma": "saint"
+      "tw_match": "saint"
     }
   ],
   "1:6": [
     {
       "surface": "fellowship",
-      "lemma": "fellowship"
+      "tw_match": "fellowship"
     },
     {
       "surface": "faith",
-      "lemma": "faith"
+      "tw_match": "faith"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "Christ",
-      "lemma": "Christ"
+      "tw_match": "Christ"
     }
   ],
   "1:7": [
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "saints",
-      "lemma": "saint"
+      "tw_match": "saint"
     }
   ],
   "1:8": [
     {
       "surface": "in Christ",
-      "lemma": "in Christ"
+      "tw_match": "in Christ"
     }
   ],
   "1:9": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "Paul",
-      "lemma": "Paul"
+      "tw_match": "Paul"
     },
     {
       "surface": "elder",
-      "lemma": "elder"
+      "tw_match": "elder"
     },
     {
       "surface": "Christ Jesus",
-      "lemma": "Christ Jesus"
+      "tw_match": "Christ Jesus"
     }
   ],
   "1:10": [],
@@ -159,146 +159,146 @@
   "1:13": [
     {
       "surface": "keep",
-      "lemma": "keep"
+      "tw_match": "keep"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "serve",
-      "lemma": "serve"
+      "tw_match": "serve"
     },
     {
       "surface": "gospel",
-      "lemma": "gospel"
+      "tw_match": "gospel"
     }
   ],
   "1:14": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     }
   ],
   "1:15": [
     {
       "surface": "hour",
-      "lemma": "hour"
+      "tw_match": "hour"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "forever",
-      "lemma": "forever"
+      "tw_match": "forever"
     }
   ],
   "1:16": [
     {
       "surface": "slave",
-      "lemma": "slave"
+      "tw_match": "slave"
     },
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "in the Lord",
-      "lemma": "in the Lord"
+      "tw_match": "in the Lord"
     }
   ],
   "1:17": [
     {
       "surface": "receive",
-      "lemma": "receive"
+      "tw_match": "receive"
     }
   ],
   "1:18": [
     {
       "surface": "wronged",
-      "lemma": "wronged"
+      "tw_match": "wronged"
     }
   ],
   "1:19": [
     {
       "surface": "Paul",
-      "lemma": "Paul"
+      "tw_match": "Paul"
     },
     {
       "surface": "self",
-      "lemma": "self"
+      "tw_match": "self"
     }
   ],
   "1:20": [
     {
       "surface": "in the Lord",
-      "lemma": "in the Lord"
+      "tw_match": "in the Lord"
     },
     {
       "surface": "in Christ",
-      "lemma": "in Christ"
+      "tw_match": "in Christ"
     }
   ],
   "1:21": [],
   "1:22": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "hope",
-      "lemma": "hope"
+      "tw_match": "hope"
     },
     {
       "surface": "prayers",
-      "lemma": "prayer"
+      "tw_match": "prayer"
     }
   ],
   "1:23": [
     {
       "surface": "in Christ",
-      "lemma": "in Christ"
+      "tw_match": "in Christ"
     },
     {
       "surface": "Jesus",
-      "lemma": "Jesus"
+      "tw_match": "Jesus"
     }
   ],
   "1:24": [
     {
       "surface": "Luke",
-      "lemma": "Luke"
+      "tw_match": "Luke"
     }
   ],
   "1:25": [
     {
       "surface": "grace",
-      "lemma": "grace"
+      "tw_match": "grace"
     },
     {
       "surface": "Lord",
-      "lemma": "Lord"
+      "tw_match": "Lord"
     },
     {
       "surface": "Jesus Christ",
-      "lemma": "Jesus Christ"
+      "tw_match": "Jesus Christ"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "Amen",
-      "lemma": "amen"
+      "tw_match": "amen"
     }
   ]
 }

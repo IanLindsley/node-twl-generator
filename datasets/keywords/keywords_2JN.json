@@ -2,191 +2,191 @@
   "1:1": [
     {
       "surface": "elder",
-      "lemma": "elder"
+      "tw_match": "elder"
     },
     {
       "surface": "chosen",
-      "lemma": "chosen"
+      "tw_match": "chosen"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     }
   ],
   "1:2": [
     {
       "surface": "eternity",
-      "lemma": "eternity"
+      "tw_match": "eternity"
     }
   ],
   "1:3": [
     {
       "surface": "Grace",
-      "lemma": "grace"
+      "tw_match": "grace"
     },
     {
       "surface": "mercy",
-      "lemma": "mercy"
+      "tw_match": "mercy"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     },
     {
       "surface": "God the Father",
-      "lemma": "God the Father"
+      "tw_match": "God the Father"
     },
     {
       "surface": "Jesus Christ",
-      "lemma": "Jesus Christ"
+      "tw_match": "Jesus Christ"
     },
     {
       "surface": "the Son",
-      "lemma": "the Son"
+      "tw_match": "the Son"
     },
     {
       "surface": "Father",
-      "lemma": "Father"
+      "tw_match": "Father"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     }
   ],
   "1:4": [
     {
       "surface": "rejoiced",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "received",
-      "lemma": "receive"
+      "tw_match": "receive"
     },
     {
       "surface": "Father",
-      "lemma": "Father"
+      "tw_match": "Father"
     }
   ],
   "1:5": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     }
   ],
   "1:6": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     }
   ],
   "1:7": [
     {
       "surface": "world",
-      "lemma": "world"
+      "tw_match": "world"
     },
     {
       "surface": "confessing",
-      "lemma": "confess"
+      "tw_match": "confess"
     },
     {
       "surface": "Jesus Christ",
-      "lemma": "Jesus Christ"
+      "tw_match": "Jesus Christ"
     },
     {
       "surface": "antichrist",
-      "lemma": "antichrist"
+      "tw_match": "antichrist"
     }
   ],
   "1:8": [
     {
       "surface": "Watch",
-      "lemma": "watch"
+      "tw_match": "watch"
     },
     {
       "surface": "worked",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "receive",
-      "lemma": "receive"
+      "tw_match": "receive"
     },
     {
       "surface": "reward",
-      "lemma": "reward"
+      "tw_match": "reward"
     }
   ],
   "1:9": [
     {
       "surface": "teaching",
-      "lemma": "teaching"
+      "tw_match": "teaching"
     },
     {
       "surface": "Christ",
-      "lemma": "Christ"
+      "tw_match": "Christ"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "Father",
-      "lemma": "Father"
+      "tw_match": "Father"
     },
     {
       "surface": "the Son",
-      "lemma": "the Son"
+      "tw_match": "the Son"
     }
   ],
   "1:10": [
     {
       "surface": "teaching",
-      "lemma": "teaching"
+      "tw_match": "teaching"
     },
     {
       "surface": "receive",
-      "lemma": "receive"
+      "tw_match": "receive"
     },
     {
       "surface": "your house",
-      "lemma": "your house"
+      "tw_match": "your house"
     }
   ],
   "1:11": [
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "1:12": [
     {
       "surface": "hope",
-      "lemma": "hope"
+      "tw_match": "hope"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "complete",
-      "lemma": "complete"
+      "tw_match": "complete"
     }
   ],
   "1:13": [
     {
       "surface": "chosen",
-      "lemma": "chosen"
+      "tw_match": "chosen"
     }
   ]
 }

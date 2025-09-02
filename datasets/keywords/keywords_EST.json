@@ -2,3401 +2,3401 @@
   "1:1": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "ruled",
-      "lemma": "rule"
+      "tw_match": "rule"
     },
     {
       "surface": "Ethiopia",
-      "lemma": "Ethiopia"
+      "tw_match": "Ethiopia"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "1:2": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "throne",
-      "lemma": "throne"
+      "tw_match": "throne"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     }
   ],
   "1:3": [
     {
       "surface": "year",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "reign",
-      "lemma": "reign"
+      "tw_match": "reign"
     },
     {
       "surface": "feast",
-      "lemma": "feast"
+      "tw_match": "feast"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "Persia",
-      "lemma": "Persia"
+      "tw_match": "Persia"
     },
     {
       "surface": "Media",
-      "lemma": "Media"
+      "tw_match": "Media"
     },
     {
       "surface": "noblemen",
-      "lemma": "noblemen"
+      "tw_match": "noblemen"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "1:4": [
     {
       "surface": "glory",
-      "lemma": "glory"
+      "tw_match": "glory"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "splendor",
-      "lemma": "splendor"
+      "tw_match": "splendor"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "1:5": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "fulfilled",
-      "lemma": "fulfilled"
+      "tw_match": "fulfilled"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "feast",
-      "lemma": "feast"
+      "tw_match": "feast"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "courtyard",
-      "lemma": "courtyard"
+      "tw_match": "courtyard"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     }
   ],
   "1:6": [
     {
       "surface": "hanging",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "purple",
-      "lemma": "purple"
+      "tw_match": "purple"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "pillars",
-      "lemma": "pillar"
+      "tw_match": "pillar"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "stone",
-      "lemma": "stone"
+      "tw_match": "stone"
     }
   ],
   "1:7": [
     {
       "surface": "serving",
-      "lemma": "serve"
+      "tw_match": "serve"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "1:8": [
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "established",
-      "lemma": "established"
+      "tw_match": "established"
     },
     {
       "surface": "overseer",
-      "lemma": "overseer"
+      "tw_match": "overseer"
     },
     {
       "surface": "his house",
-      "lemma": "his house"
+      "tw_match": "his house"
     }
   ],
   "1:9": [
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "feast",
-      "lemma": "feast"
+      "tw_match": "feast"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "1:10": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "pleased",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "served",
-      "lemma": "serve"
+      "tw_match": "serve"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "1:11": [
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "crown",
-      "lemma": "crown"
+      "tw_match": "crown"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     }
   ],
   "1:12": [
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     }
   ],
   "1:13": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "wise men",
-      "lemma": "wise men"
+      "tw_match": "wise men"
     },
     {
       "surface": "times",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     }
   ],
   "1:14": [
     {
       "surface": "Tarshish",
-      "lemma": "Tarshish"
+      "tw_match": "Tarshish"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "Persia",
-      "lemma": "Persia"
+      "tw_match": "Persia"
     },
     {
       "surface": "Media",
-      "lemma": "Media"
+      "tw_match": "Media"
     },
     {
       "surface": "seers",
-      "lemma": "seer"
+      "tw_match": "seer"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     }
   ],
   "1:15": [
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     }
   ],
   "1:16": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "wrong",
-      "lemma": "wrong"
+      "tw_match": "wrong"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "1:17": [
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     }
   ],
   "1:18": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Persia",
-      "lemma": "Persia"
+      "tw_match": "Persia"
     },
     {
       "surface": "Media",
-      "lemma": "Media"
+      "tw_match": "Media"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "contempt",
-      "lemma": "contempt"
+      "tw_match": "contempt"
     },
     {
       "surface": "wrath",
-      "lemma": "wrath"
+      "tw_match": "wrath"
     }
   ],
   "1:19": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "laws",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "Persia",
-      "lemma": "Persia"
+      "tw_match": "Persia"
     },
     {
       "surface": "Media",
-      "lemma": "Media"
+      "tw_match": "Media"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "neighbor",
-      "lemma": "neighbor"
+      "tw_match": "neighbor"
     },
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     }
   ],
   "1:20": [
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     }
   ],
   "1:21": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     }
   ],
   "1:22": [
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "tongue",
-      "lemma": "tongue"
+      "tw_match": "tongue"
     },
     {
       "surface": "ruling",
-      "lemma": "rule"
+      "tw_match": "rule"
     },
     {
       "surface": "his house",
-      "lemma": "his house"
+      "tw_match": "his house"
     }
   ],
   "2:1": [
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     }
   ],
   "2:2": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "served",
-      "lemma": "serve"
+      "tw_match": "serve"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "young women",
-      "lemma": "young women"
+      "tw_match": "young women"
     },
     {
       "surface": "virgins",
-      "lemma": "virgin"
+      "tw_match": "virgin"
     },
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     }
   ],
   "2:3": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "appoint",
-      "lemma": "appoint"
+      "tw_match": "appoint"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "gather",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "virgin",
-      "lemma": "virgin"
+      "tw_match": "virgin"
     },
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "eunuch",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "overseer",
-      "lemma": "overseer"
+      "tw_match": "overseer"
     }
   ],
   "2:4": [
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     }
   ],
   "2:5": [
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Shimei",
-      "lemma": "Shimei"
+      "tw_match": "Shimei"
     }
   ],
   "2:6": [
     {
       "surface": "exiled",
-      "lemma": "exiled"
+      "tw_match": "exiled"
     },
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     },
     {
       "surface": "exiles",
-      "lemma": "exile"
+      "tw_match": "exile"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Judah",
-      "lemma": "Judah"
+      "tw_match": "Judah"
     },
     {
       "surface": "Nebuchadnezzar",
-      "lemma": "Nebuchadnezzar"
+      "tw_match": "Nebuchadnezzar"
     },
     {
       "surface": "Babylon",
-      "lemma": "Babylon"
+      "tw_match": "Babylon"
     }
   ],
   "2:7": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "2:8": [
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "young women",
-      "lemma": "young women"
+      "tw_match": "young women"
     },
     {
       "surface": "gathered",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "overseer",
-      "lemma": "overseer"
+      "tw_match": "overseer"
     }
   ],
   "2:9": [
     {
       "surface": "pleasing",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "young women",
-      "lemma": "young women"
+      "tw_match": "young women"
     },
     {
       "surface": "chosen",
-      "lemma": "chosen"
+      "tw_match": "chosen"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "best",
-      "lemma": "best"
+      "tw_match": "best"
     }
   ],
   "2:10": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "declared",
-      "lemma": "declare"
+      "tw_match": "declare"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "tell",
-      "lemma": "tell"
+      "tw_match": "tell"
     }
   ],
   "2:11": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "courtyard",
-      "lemma": "courtyard"
+      "tw_match": "courtyard"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     }
   ],
   "2:12": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "months",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "fulfilled",
-      "lemma": "fulfilled"
+      "tw_match": "fulfilled"
     },
     {
       "surface": "oil",
-      "lemma": "oil"
+      "tw_match": "oil"
     },
     {
       "surface": "myrrh",
-      "lemma": "myrrh"
+      "tw_match": "myrrh"
     }
   ],
   "2:13": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     }
   ],
   "2:14": [
     {
       "surface": "house",
-      "lemma": "house"
+      "tw_match": "house"
     },
     {
       "surface": "eunuch",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "overseer",
-      "lemma": "overseer"
+      "tw_match": "overseer"
     },
     {
       "surface": "concubines",
-      "lemma": "concubine"
+      "tw_match": "concubine"
     },
     {
       "surface": "delighted",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     }
   ],
   "2:15": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "eunuch",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "overseer",
-      "lemma": "overseer"
+      "tw_match": "overseer"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     }
   ],
   "2:16": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "tenth",
-      "lemma": "tenth"
+      "tw_match": "tenth"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "year",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "reign",
-      "lemma": "reign"
+      "tw_match": "reign"
     }
   ],
   "2:17": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "loved",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "virgins",
-      "lemma": "virgin"
+      "tw_match": "virgin"
     },
     {
       "surface": "crown",
-      "lemma": "crown"
+      "tw_match": "crown"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Vashti",
-      "lemma": "Vashti"
+      "tw_match": "Vashti"
     }
   ],
   "2:18": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "feast",
-      "lemma": "feast"
+      "tw_match": "feast"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "2:19": [
     {
       "surface": "virgins",
-      "lemma": "virgin"
+      "tw_match": "virgin"
     },
     {
       "surface": "gathered",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "2:20": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "declared",
-      "lemma": "declare"
+      "tw_match": "declare"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "2:21": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "doorway",
-      "lemma": "doorway"
+      "tw_match": "doorway"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "2:22": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "declared",
-      "lemma": "declare"
+      "tw_match": "declare"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "2:23": [
     {
       "surface": "hanged",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "3:1": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "authority",
-      "lemma": "authority"
+      "tw_match": "authority"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     }
   ],
   "3:2": [
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "bowing",
-      "lemma": "bow"
+      "tw_match": "bow"
     },
     {
       "surface": "prostrating",
-      "lemma": "prostrate"
+      "tw_match": "prostrate"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "bow down",
-      "lemma": "bow down"
+      "tw_match": "bow down"
     },
     {
       "surface": "prostrate",
-      "lemma": "prostrate"
+      "tw_match": "prostrate"
     }
   ],
   "3:3": [
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "trespassing",
-      "lemma": "trespass"
+      "tw_match": "trespass"
     }
   ],
   "3:4": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "3:5": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "bow down",
-      "lemma": "bow down"
+      "tw_match": "bow down"
     },
     {
       "surface": "prostrate",
-      "lemma": "prostrate"
+      "tw_match": "prostrate"
     },
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     }
   ],
   "3:6": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "annihilate",
-      "lemma": "annihilate"
+      "tw_match": "annihilate"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "3:7": [
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "year",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "lot",
-      "lemma": "lots"
+      "tw_match": "lots"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "3:8": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "scattered",
-      "lemma": "scatter"
+      "tw_match": "scatter"
     },
     {
       "surface": "dispersed",
-      "lemma": "disperse"
+      "tw_match": "disperse"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "laws",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "leave",
-      "lemma": "leave"
+      "tw_match": "leave"
     }
   ],
   "3:9": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     }
   ],
   "3:10": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "adversary",
-      "lemma": "adversary"
+      "tw_match": "adversary"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "3:11": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "3:12": [
     {
       "surface": "scribes",
-      "lemma": "scribe"
+      "tw_match": "scribe"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "governors",
-      "lemma": "governors"
+      "tw_match": "governors"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "tongue",
-      "lemma": "tongue"
+      "tw_match": "tongue"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "sealed",
-      "lemma": "sealed"
+      "tw_match": "sealed"
     }
   ],
   "3:13": [
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "annihilate",
-      "lemma": "annihilate"
+      "tw_match": "annihilate"
     },
     {
       "surface": "slaughter",
-      "lemma": "slaughter"
+      "tw_match": "slaughter"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "old",
-      "lemma": "old"
+      "tw_match": "old"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "plunder",
-      "lemma": "plunder"
+      "tw_match": "plunder"
     },
     {
       "surface": "spoils",
-      "lemma": "spoils"
+      "tw_match": "spoils"
     }
   ],
   "3:14": [
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "3:15": [
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     }
   ],
   "4:1": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "knew",
-      "lemma": "knew"
+      "tw_match": "knew"
     },
     {
       "surface": "sackcloth",
-      "lemma": "sackcloth"
+      "tw_match": "sackcloth"
     },
     {
       "surface": "outcry",
-      "lemma": "outcry"
+      "tw_match": "outcry"
     }
   ],
   "4:2": [
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "sackcloth",
-      "lemma": "sackcloth"
+      "tw_match": "sackcloth"
     }
   ],
   "4:3": [
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "mourning",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "fasting",
-      "lemma": "fasting"
+      "tw_match": "fasting"
     },
     {
       "surface": "weeping",
-      "lemma": "weeping"
+      "tw_match": "weeping"
     },
     {
       "surface": "lamenting",
-      "lemma": "lament"
+      "tw_match": "lament"
     },
     {
       "surface": "sackcloth",
-      "lemma": "sackcloth"
+      "tw_match": "sackcloth"
     }
   ],
   "4:4": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "seized",
-      "lemma": "seize"
+      "tw_match": "seize"
     },
     {
       "surface": "fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "sackcloth",
-      "lemma": "sackcloth"
+      "tw_match": "sackcloth"
     }
   ],
   "4:5": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "4:6": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "4:7": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "reported",
-      "lemma": "reported"
+      "tw_match": "reported"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     }
   ],
   "4:8": [
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "annihilate",
-      "lemma": "annihilate"
+      "tw_match": "annihilate"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "implore",
-      "lemma": "implore"
+      "tw_match": "implore"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     }
   ],
   "4:9": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "4:10": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "4:11": [
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "court",
-      "lemma": "court"
+      "tw_match": "court"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "scepter",
-      "lemma": "scepter"
+      "tw_match": "scepter"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "4:12": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     }
   ],
   "4:13": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "4:14": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "deliverance",
-      "lemma": "deliverance"
+      "tw_match": "deliverance"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "perish",
-      "lemma": "perish"
+      "tw_match": "perish"
     },
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     }
   ],
   "4:15": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "4:16": [
     {
       "surface": "gather",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "fast",
-      "lemma": "fast"
+      "tw_match": "fast"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "likewise",
-      "lemma": "likewise"
+      "tw_match": "likewise"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "perish",
-      "lemma": "perish"
+      "tw_match": "perish"
     }
   ],
   "4:17": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     }
   ],
   "5:1": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "court",
-      "lemma": "court"
+      "tw_match": "court"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "throne",
-      "lemma": "throne"
+      "tw_match": "throne"
     }
   ],
   "5:2": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "court",
-      "lemma": "court"
+      "tw_match": "court"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "scepter",
-      "lemma": "scepter"
+      "tw_match": "scepter"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     }
   ],
   "5:3": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     }
   ],
   "5:4": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     }
   ],
   "5:5": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     }
   ],
   "5:6": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     }
   ],
   "5:7": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     }
   ],
   "5:8": [
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     }
   ],
   "5:9": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "joyful",
-      "lemma": "joyful"
+      "tw_match": "joyful"
     },
     {
       "surface": "pleased",
-      "lemma": "please"
+      "tw_match": "please"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "trembled",
-      "lemma": "tremble"
+      "tw_match": "tremble"
     },
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     }
   ],
   "5:10": [
     {
       "surface": "his house",
-      "lemma": "his house"
+      "tw_match": "his house"
     },
     {
       "surface": "friends",
-      "lemma": "friend"
+      "tw_match": "friend"
     }
   ],
   "5:11": [
     {
       "surface": "glory",
-      "lemma": "glory"
+      "tw_match": "glory"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     }
   ],
   "5:12": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     }
   ],
   "5:13": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "5:14": [
     {
       "surface": "friends",
-      "lemma": "friend"
+      "tw_match": "friend"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "hang",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "joyful",
-      "lemma": "joyful"
+      "tw_match": "joyful"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "6:1": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "called out",
-      "lemma": "called out"
+      "tw_match": "called out"
     }
   ],
   "6:2": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "doorway",
-      "lemma": "doorway"
+      "tw_match": "doorway"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "6:3": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "served",
-      "lemma": "serve"
+      "tw_match": "serve"
     }
   ],
   "6:4": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "court",
-      "lemma": "court"
+      "tw_match": "court"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "hang",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "prepared",
-      "lemma": "prepared"
+      "tw_match": "prepared"
     }
   ],
   "6:5": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "courtyard",
-      "lemma": "courtyard"
+      "tw_match": "courtyard"
     }
   ],
   "6:6": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     },
     {
       "surface": "delighted",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "delight",
-      "lemma": "delight"
+      "tw_match": "delight"
     }
   ],
   "6:7": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "delights",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     }
   ],
   "6:8": [
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "horse",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "crown",
-      "lemma": "crown"
+      "tw_match": "crown"
     }
   ],
   "6:9": [
     {
       "surface": "horse",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "noble",
-      "lemma": "noble"
+      "tw_match": "noble"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "delights",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     },
     {
       "surface": "proclaim",
-      "lemma": "proclaim"
+      "tw_match": "proclaim"
     }
   ],
   "6:10": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "horse",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     }
   ],
   "6:11": [
     {
       "surface": "horse",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "called out",
-      "lemma": "called out"
+      "tw_match": "called out"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "delights",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     }
   ],
   "6:12": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "gate",
-      "lemma": "gate"
+      "tw_match": "gate"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "his house",
-      "lemma": "his house"
+      "tw_match": "his house"
     },
     {
       "surface": "mourning",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     }
   ],
   "6:13": [
     {
       "surface": "friends",
-      "lemma": "friend"
+      "tw_match": "friend"
     },
     {
       "surface": "wise men",
-      "lemma": "wise men"
+      "tw_match": "wise men"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "6:14": [
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     }
   ],
   "7:1": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     }
   ],
   "7:2": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     }
   ],
   "7:3": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "7:4": [
     {
       "surface": "slaughter",
-      "lemma": "slaughter"
+      "tw_match": "slaughter"
     },
     {
       "surface": "destruction",
-      "lemma": "destruction"
+      "tw_match": "destruction"
     },
     {
       "surface": "slaves",
-      "lemma": "slave"
+      "tw_match": "slave"
     },
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "distress",
-      "lemma": "distress"
+      "tw_match": "distress"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "7:5": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     }
   ],
   "7:6": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "adversary",
-      "lemma": "adversary"
+      "tw_match": "adversary"
     },
     {
       "surface": "enemy",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     }
   ],
   "7:7": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "7:8": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     }
   ],
   "7:9": [
     {
       "surface": "eunuchs",
-      "lemma": "eunuch"
+      "tw_match": "eunuch"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "Hang",
-      "lemma": "hang"
+      "tw_match": "hang"
     }
   ],
   "7:10": [
     {
       "surface": "hanged",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "prepared",
-      "lemma": "prepared"
+      "tw_match": "prepared"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "rage",
-      "lemma": "rage"
+      "tw_match": "rage"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "8:1": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "adversary",
-      "lemma": "adversary"
+      "tw_match": "adversary"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "8:2": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     }
   ],
   "8:3": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "implored",
-      "lemma": "implore"
+      "tw_match": "implore"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "8:4": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "scepter",
-      "lemma": "scepter"
+      "tw_match": "scepter"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     }
   ],
   "8:5": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "8:6": [
     {
       "surface": "bear",
-      "lemma": "bear"
+      "tw_match": "bear"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "destruction",
-      "lemma": "destruction"
+      "tw_match": "destruction"
     },
     {
       "surface": "kindred",
-      "lemma": "kindred"
+      "tw_match": "kindred"
     }
   ],
   "8:7": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "hanged",
-      "lemma": "hang"
+      "tw_match": "hang"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     }
   ],
   "8:8": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "seal",
-      "lemma": "seal"
+      "tw_match": "seal"
     },
     {
       "surface": "sealed",
-      "lemma": "sealed"
+      "tw_match": "sealed"
     }
   ],
   "8:9": [
     {
       "surface": "scribes",
-      "lemma": "scribe"
+      "tw_match": "scribe"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "governors",
-      "lemma": "governors"
+      "tw_match": "governors"
     },
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "Ethiopia",
-      "lemma": "Ethiopia"
+      "tw_match": "Ethiopia"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "tongue",
-      "lemma": "tongue"
+      "tw_match": "tongue"
     }
   ],
   "8:10": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "sealed",
-      "lemma": "sealed"
+      "tw_match": "sealed"
     },
     {
       "surface": "horses",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "royal",
-      "lemma": "royal"
+      "tw_match": "royal"
     },
     {
       "surface": "mares",
-      "lemma": "mare"
+      "tw_match": "mare"
     }
   ],
   "8:11": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "gather",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "annihilate",
-      "lemma": "annihilate"
+      "tw_match": "annihilate"
     },
     {
       "surface": "slaughter",
-      "lemma": "slaughter"
+      "tw_match": "slaughter"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "plunder",
-      "lemma": "plunder"
+      "tw_match": "plunder"
     },
     {
       "surface": "spoil",
-      "lemma": "spoil"
+      "tw_match": "spoil"
     }
   ],
   "8:12": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     }
   ],
   "8:13": [
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "prepared",
-      "lemma": "prepared"
+      "tw_match": "prepared"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "revenge",
-      "lemma": "revenge"
+      "tw_match": "revenge"
     },
     {
       "surface": "enemies",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     }
   ],
   "8:14": [
     {
       "surface": "royal",
-      "lemma": "royal"
+      "tw_match": "royal"
     },
     {
       "surface": "horses",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     }
   ],
   "8:15": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "royalty",
-      "lemma": "royalty"
+      "tw_match": "royalty"
     },
     {
       "surface": "crown",
-      "lemma": "crown"
+      "tw_match": "crown"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "robe",
-      "lemma": "robe"
+      "tw_match": "robe"
     },
     {
       "surface": "purple",
-      "lemma": "purple"
+      "tw_match": "purple"
     },
     {
       "surface": "rejoiced",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     }
   ],
   "8:16": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     }
   ],
   "8:17": [
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "feast",
-      "lemma": "feast"
+      "tw_match": "feast"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "land",
-      "lemma": "land"
+      "tw_match": "land"
     },
     {
       "surface": "dread",
-      "lemma": "dread"
+      "tw_match": "dread"
     }
   ],
   "9:1": [
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "enemies",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "hoped",
-      "lemma": "hoped"
+      "tw_match": "hoped"
     }
   ],
   "9:2": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "assembled",
-      "lemma": "assemble"
+      "tw_match": "assemble"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "seeking",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     }
   ],
   "9:3": [
     {
       "surface": "officials",
-      "lemma": "officials"
+      "tw_match": "officials"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "governors",
-      "lemma": "governors"
+      "tw_match": "governors"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "dread",
-      "lemma": "dread"
+      "tw_match": "dread"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "9:4": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "palace",
-      "lemma": "palace"
+      "tw_match": "palace"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "report",
-      "lemma": "report"
+      "tw_match": "report"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "9:5": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "enemies",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     },
     {
       "surface": "sword",
-      "lemma": "sword"
+      "tw_match": "sword"
     },
     {
       "surface": "slaughter",
-      "lemma": "slaughter"
+      "tw_match": "slaughter"
     },
     {
       "surface": "destruction",
-      "lemma": "destruction"
+      "tw_match": "destruction"
     }
   ],
   "9:6": [
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "slaughtered",
-      "lemma": "slaughtered"
+      "tw_match": "slaughtered"
     },
     {
       "surface": "destroyed",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     }
   ],
   "9:7": [],
@@ -3405,641 +3405,641 @@
   "9:10": [
     {
       "surface": "adversary",
-      "lemma": "adversary"
+      "tw_match": "adversary"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "slaughtered",
-      "lemma": "slaughtered"
+      "tw_match": "slaughtered"
     },
     {
       "surface": "plunder",
-      "lemma": "plunder"
+      "tw_match": "plunder"
     }
   ],
   "9:11": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "report",
-      "lemma": "report"
+      "tw_match": "report"
     },
     {
       "surface": "killed",
-      "lemma": "kill"
+      "tw_match": "kill"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "9:12": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "citadel",
-      "lemma": "citadel"
+      "tw_match": "citadel"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "slaughtered",
-      "lemma": "slaughtered"
+      "tw_match": "slaughtered"
     },
     {
       "surface": "destroyed",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     }
   ],
   "9:13": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "hang",
-      "lemma": "hang"
+      "tw_match": "hang"
     }
   ],
   "9:14": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "law",
-      "lemma": "law"
+      "tw_match": "law"
     },
     {
       "surface": "hanged",
-      "lemma": "hang"
+      "tw_match": "hang"
     }
   ],
   "9:15": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "assembled",
-      "lemma": "assemble"
+      "tw_match": "assemble"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "killed",
-      "lemma": "kill"
+      "tw_match": "kill"
     },
     {
       "surface": "plunder",
-      "lemma": "plunder"
+      "tw_match": "plunder"
     }
   ],
   "9:16": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "assembled",
-      "lemma": "assemble"
+      "tw_match": "assemble"
     },
     {
       "surface": "enemies",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     },
     {
       "surface": "slaughtered",
-      "lemma": "slaughtered"
+      "tw_match": "slaughtered"
     },
     {
       "surface": "plunder",
-      "lemma": "plunder"
+      "tw_match": "plunder"
     }
   ],
   "9:17": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "feasting",
-      "lemma": "feasting"
+      "tw_match": "feasting"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     }
   ],
   "9:18": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "assembled",
-      "lemma": "assemble"
+      "tw_match": "assemble"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "feasting",
-      "lemma": "feasting"
+      "tw_match": "feasting"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     }
   ],
   "9:19": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "feasting",
-      "lemma": "feasting"
+      "tw_match": "feasting"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "friend",
-      "lemma": "friend"
+      "tw_match": "friend"
     }
   ],
   "9:20": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     }
   ],
   "9:21": [
     {
       "surface": "set up",
-      "lemma": "set up"
+      "tw_match": "set up"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "year",
-      "lemma": "year"
+      "tw_match": "year"
     }
   ],
   "9:22": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "enemies",
-      "lemma": "enemy"
+      "tw_match": "enemy"
     },
     {
       "surface": "month",
-      "lemma": "month"
+      "tw_match": "month"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "mourning",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "feasting",
-      "lemma": "feasting"
+      "tw_match": "feasting"
     },
     {
       "surface": "rejoicing",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "friend",
-      "lemma": "friend"
+      "tw_match": "friend"
     }
   ],
   "9:23": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     }
   ],
   "9:24": [
     {
       "surface": "adversary",
-      "lemma": "adversary"
+      "tw_match": "adversary"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "annihilate",
-      "lemma": "annihilate"
+      "tw_match": "annihilate"
     },
     {
       "surface": "lot",
-      "lemma": "lots"
+      "tw_match": "lots"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     }
   ],
   "9:25": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "hang",
-      "lemma": "hang"
+      "tw_match": "hang"
     }
   ],
   "9:26": [
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "9:27": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "set up",
-      "lemma": "set up"
+      "tw_match": "set up"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "appointed",
-      "lemma": "appointed"
+      "tw_match": "appointed"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "year",
-      "lemma": "year"
+      "tw_match": "year"
     }
   ],
   "9:28": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "generation",
-      "lemma": "generation"
+      "tw_match": "generation"
     },
     {
       "surface": "family",
-      "lemma": "family"
+      "tw_match": "family"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     }
   ],
   "9:29": [
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "set up",
-      "lemma": "set up"
+      "tw_match": "set up"
     }
   ],
   "9:30": [
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     }
   ],
   "9:31": [
     {
       "surface": "set up",
-      "lemma": "set up"
+      "tw_match": "set up"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "appointed",
-      "lemma": "appointed"
+      "tw_match": "appointed"
     },
     {
       "surface": "times",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "queen",
-      "lemma": "queen"
+      "tw_match": "queen"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     },
     {
       "surface": "fasts",
-      "lemma": "fast"
+      "tw_match": "fast"
     },
     {
       "surface": "outcry",
-      "lemma": "outcry"
+      "tw_match": "outcry"
     }
   ],
   "9:32": [
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "Esther",
-      "lemma": "Esther"
+      "tw_match": "Esther"
     },
     {
       "surface": "set up",
-      "lemma": "set up"
+      "tw_match": "set up"
     }
   ],
   "10:1": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "tribute",
-      "lemma": "tribute"
+      "tw_match": "tribute"
     },
     {
       "surface": "land",
-      "lemma": "land"
+      "tw_match": "land"
     },
     {
       "surface": "the sea",
-      "lemma": "the sea"
+      "tw_match": "the sea"
     }
   ],
   "10:2": [
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "kings",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Media",
-      "lemma": "Media"
+      "tw_match": "Media"
     },
     {
       "surface": "Persia",
-      "lemma": "Persia"
+      "tw_match": "Persia"
     }
   ],
   "10:3": [
     {
       "surface": "Mordecai",
-      "lemma": "Mordecai"
+      "tw_match": "Mordecai"
     },
     {
       "surface": "Jew",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Ahasuerus",
-      "lemma": "Ahasuerus"
+      "tw_match": "Ahasuerus"
     },
     {
       "surface": "Jews",
-      "lemma": "Jew"
+      "tw_match": "Jew"
     },
     {
       "surface": "favored",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "seeking",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     }
   ]
 }

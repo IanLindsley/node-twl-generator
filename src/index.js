@@ -51,7 +51,7 @@ export function generateKeywordsForVerses(twTerms, verses) {
       // derive stable position from context '[...]'
       const withPos = matches.map(m => ({
         surface: m.matchedText,
-        lemma: m.term,
+        tw_match: m.term,
         pos: (m.context || '').indexOf('[')
       }));
 
@@ -67,7 +67,7 @@ export function generateKeywordsForVerses(twTerms, verses) {
       for (const m of withPos) {
         if (!seen.has(m.surface)) {
           seen.add(m.surface);
-          entries.push({ surface: m.surface, lemma: m.lemma });
+          entries.push({ surface: m.surface, tw_match: m.tw_match });
         }
       }
 

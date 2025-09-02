@@ -2,168 +2,168 @@
   "1:1": [
     {
       "surface": "elder",
-      "lemma": "elder"
+      "tw_match": "elder"
     },
     {
       "surface": "beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     }
   ],
   "1:2": [
     {
       "surface": "Beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "pray",
-      "lemma": "pray"
+      "tw_match": "pray"
     },
     {
       "surface": "prosper",
-      "lemma": "prosper"
+      "tw_match": "prosper"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     },
     {
       "surface": "prospers",
-      "lemma": "prosper"
+      "tw_match": "prosper"
     }
   ],
   "1:3": [
     {
       "surface": "rejoiced",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     }
   ],
   "1:4": [
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     }
   ],
   "1:5": [
     {
       "surface": "Beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "faithful",
-      "lemma": "faithful"
+      "tw_match": "faithful"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     }
   ],
   "1:6": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "church",
-      "lemma": "church"
+      "tw_match": "church"
     },
     {
       "surface": "well",
-      "lemma": "well"
+      "tw_match": "well"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "1:7": [
     {
       "surface": "receiving",
-      "lemma": "receive"
+      "tw_match": "receive"
     },
     {
       "surface": "Gentiles",
-      "lemma": "Gentile"
+      "tw_match": "Gentile"
     }
   ],
   "1:8": [],
   "1:9": [
     {
       "surface": "church",
-      "lemma": "church"
+      "tw_match": "church"
     },
     {
       "surface": "loving",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "receive",
-      "lemma": "receive"
+      "tw_match": "receive"
     }
   ],
   "1:10": [
     {
       "surface": "call",
-      "lemma": "call"
+      "tw_match": "call"
     },
     {
       "surface": "works",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "receive",
-      "lemma": "receive"
+      "tw_match": "receive"
     },
     {
       "surface": "church",
-      "lemma": "church"
+      "tw_match": "church"
     }
   ],
   "1:11": [
     {
       "surface": "Beloved",
-      "lemma": "beloved"
+      "tw_match": "beloved"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "1:12": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "testimony",
-      "lemma": "testimony"
+      "tw_match": "testimony"
     }
   ],
   "1:13": [],
@@ -171,11 +171,11 @@
   "1:15": [
     {
       "surface": "Peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     },
     {
       "surface": "friends",
-      "lemma": "friend"
+      "tw_match": "friend"
     }
   ]
 }

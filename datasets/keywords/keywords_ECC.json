@@ -2,3068 +2,3068 @@
   "1:1": [
     {
       "surface": "David",
-      "lemma": "David"
+      "tw_match": "David"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     }
   ],
   "1:2": [],
   "1:3": [
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     }
   ],
   "1:4": [
     {
       "surface": "generation",
-      "lemma": "generation"
+      "tw_match": "generation"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     }
   ],
   "1:5": [],
   "1:6": [
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "1:7": [
     {
       "surface": "the sea",
-      "lemma": "the sea"
+      "tw_match": "the sea"
     }
   ],
   "1:8": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "1:9": [],
   "1:10": [
     {
       "surface": "ages",
-      "lemma": "age"
+      "tw_match": "age"
     }
   ],
   "1:11": [],
   "1:12": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "Israel",
-      "lemma": "Israel"
+      "tw_match": "Israel"
     },
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     }
   ],
   "1:13": [
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "unpleasant",
-      "lemma": "unpleasant"
+      "tw_match": "unpleasant"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "1:14": [
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "1:15": [],
   "1:16": [
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     }
   ],
   "1:17": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     },
     {
       "surface": "folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     },
     {
       "surface": "knew",
-      "lemma": "knew"
+      "tw_match": "knew"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "1:18": [
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     }
   ],
   "2:1": [
     {
       "surface": "test",
-      "lemma": "test"
+      "tw_match": "test"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "2:2": [
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     }
   ],
   "2:3": [
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "heavens",
-      "lemma": "heavens"
+      "tw_match": "heavens"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "2:4": [
     {
       "surface": "houses",
-      "lemma": "house"
+      "tw_match": "house"
     },
     {
       "surface": "planted",
-      "lemma": "planted"
+      "tw_match": "planted"
     },
     {
       "surface": "vineyards",
-      "lemma": "vineyards"
+      "tw_match": "vineyards"
     }
   ],
   "2:5": [
     {
       "surface": "royal",
-      "lemma": "royal"
+      "tw_match": "royal"
     },
     {
       "surface": "planted",
-      "lemma": "planted"
+      "tw_match": "planted"
     },
     {
       "surface": "fruit",
-      "lemma": "fruit"
+      "tw_match": "fruit"
     }
   ],
   "2:6": [],
   "2:7": [
     {
       "surface": "servants",
-      "lemma": "servant"
+      "tw_match": "servant"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "cattle",
-      "lemma": "cattle"
+      "tw_match": "cattle"
     },
     {
       "surface": "sheep",
-      "lemma": "sheep"
+      "tw_match": "sheep"
     },
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     }
   ],
   "2:8": [
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "kings",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "provinces",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "appointed",
-      "lemma": "appointed"
+      "tw_match": "appointed"
     }
   ],
   "2:9": [
     {
       "surface": "Jerusalem",
-      "lemma": "Jerusalem"
+      "tw_match": "Jerusalem"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     }
   ],
   "2:10": [
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "joyful",
-      "lemma": "joyful"
+      "tw_match": "joyful"
     }
   ],
   "2:11": [
     {
       "surface": "works",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     },
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     }
   ],
   "2:12": [
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "2:13": [
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     }
   ],
   "2:14": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "2:15": [
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     }
   ],
   "2:16": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "2:17": [
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "2:18": [
     {
       "surface": "leave",
-      "lemma": "leave"
+      "tw_match": "leave"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "2:19": [
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "authority",
-      "lemma": "authority"
+      "tw_match": "authority"
     }
   ],
   "2:20": [],
   "2:21": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     }
   ],
   "2:22": [
     {
       "surface": "endures",
-      "lemma": "endure"
+      "tw_match": "endure"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "2:23": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "2:24": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "2:25": [],
   "2:26": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "sinner",
-      "lemma": "sinner"
+      "tw_match": "sinner"
     },
     {
       "surface": "gather",
-      "lemma": "gather"
+      "tw_match": "gather"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "3:1": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "heavens",
-      "lemma": "heavens"
+      "tw_match": "heavens"
     }
   ],
   "3:2": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "plant",
-      "lemma": "plant"
+      "tw_match": "plant"
     },
     {
       "surface": "planted",
-      "lemma": "planted"
+      "tw_match": "planted"
     }
   ],
   "3:3": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "kill",
-      "lemma": "kill"
+      "tw_match": "kill"
     }
   ],
   "3:4": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "mourn",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     }
   ],
   "3:5": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "stones",
-      "lemma": "stone"
+      "tw_match": "stone"
     },
     {
       "surface": "gather",
-      "lemma": "gather"
+      "tw_match": "gather"
     }
   ],
   "3:6": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "keep",
-      "lemma": "keep"
+      "tw_match": "keep"
     }
   ],
   "3:7": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     }
   ],
   "3:8": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "peace",
-      "lemma": "peace"
+      "tw_match": "peace"
     }
   ],
   "3:9": [
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     }
   ],
   "3:10": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "3:11": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "3:12": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     }
   ],
   "3:13": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "3:14": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "enduring",
-      "lemma": "endure"
+      "tw_match": "endure"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     }
   ],
   "3:15": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     }
   ],
   "3:16": [
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     },
     {
       "surface": "righteousness",
-      "lemma": "righteousness"
+      "tw_match": "righteousness"
     }
   ],
   "3:17": [
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "judge",
-      "lemma": "judge"
+      "tw_match": "judge"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     }
   ],
   "3:18": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "test",
-      "lemma": "test"
+      "tw_match": "test"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "animals",
-      "lemma": "animals"
+      "tw_match": "animals"
     }
   ],
   "3:19": [
     {
       "surface": "animal",
-      "lemma": "animals"
+      "tw_match": "animals"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     }
   ],
   "3:20": [],
   "3:21": [
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "animal",
-      "lemma": "animals"
+      "tw_match": "animals"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     }
   ],
   "3:22": [
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "works",
-      "lemma": "work"
+      "tw_match": "work"
     }
   ],
   "4:1": [],
   "4:2": [
     {
       "surface": "praised",
-      "lemma": "praised"
+      "tw_match": "praised"
     }
   ],
   "4:3": [
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "4:4": [
     {
       "surface": "envy",
-      "lemma": "envy"
+      "tw_match": "envy"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "friend",
-      "lemma": "friend"
+      "tw_match": "friend"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "4:5": [
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "4:6": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "palm",
-      "lemma": "palm"
+      "tw_match": "palm"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "4:7": [],
   "4:8": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "unpleasant",
-      "lemma": "unpleasant"
+      "tw_match": "unpleasant"
     }
   ],
   "4:9": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "4:10": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "companion",
-      "lemma": "companion"
+      "tw_match": "companion"
     },
     {
       "surface": "woe",
-      "lemma": "woe"
+      "tw_match": "woe"
     }
   ],
   "4:11": [
     {
       "surface": "lie",
-      "lemma": "lie"
+      "tw_match": "lie"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "4:12": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "4:13": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "old",
-      "lemma": "old"
+      "tw_match": "old"
     },
     {
       "surface": "foolish",
-      "lemma": "foolish"
+      "tw_match": "foolish"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "warned",
-      "lemma": "warned"
+      "tw_match": "warned"
     }
   ],
   "4:14": [
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "kingdom",
-      "lemma": "kingdom"
+      "tw_match": "kingdom"
     }
   ],
   "4:15": [],
   "4:16": [
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "in him",
-      "lemma": "in him"
+      "tw_match": "in him"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "5:1": [
     {
       "surface": "Keep",
-      "lemma": "keep"
+      "tw_match": "keep"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "sacrifice",
-      "lemma": "sacrifice"
+      "tw_match": "sacrifice"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "5:2": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "heaven",
-      "lemma": "heaven"
+      "tw_match": "heaven"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     }
   ],
   "5:3": [
     {
       "surface": "dream",
-      "lemma": "dream"
+      "tw_match": "dream"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "5:4": [
     {
       "surface": "vow",
-      "lemma": "vow"
+      "tw_match": "vow"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "fulfill",
-      "lemma": "fulfill"
+      "tw_match": "fulfill"
     },
     {
       "surface": "delight",
-      "lemma": "delight"
+      "tw_match": "delight"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "5:5": [
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "vow",
-      "lemma": "vow"
+      "tw_match": "vow"
     },
     {
       "surface": "fulfill",
-      "lemma": "fulfill"
+      "tw_match": "fulfill"
     }
   ],
   "5:6": [
     {
       "surface": "sin",
-      "lemma": "sin"
+      "tw_match": "sin"
     },
     {
       "surface": "messenger",
-      "lemma": "messenger"
+      "tw_match": "messenger"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     }
   ],
   "5:7": [
     {
       "surface": "dreams",
-      "lemma": "dream"
+      "tw_match": "dream"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "5:8": [
     {
       "surface": "robbery",
-      "lemma": "robbery"
+      "tw_match": "robbery"
     },
     {
       "surface": "justice",
-      "lemma": "justice"
+      "tw_match": "justice"
     },
     {
       "surface": "righteousness",
-      "lemma": "righteousness"
+      "tw_match": "righteousness"
     },
     {
       "surface": "province",
-      "lemma": "province"
+      "tw_match": "province"
     },
     {
       "surface": "watching",
-      "lemma": "watch"
+      "tw_match": "watch"
     }
   ],
   "5:9": [
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "land",
-      "lemma": "land"
+      "tw_match": "land"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "worked",
-      "lemma": "work"
+      "tw_match": "work"
     }
   ],
   "5:10": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "loves",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     }
   ],
   "5:11": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "master",
-      "lemma": "master"
+      "tw_match": "master"
     }
   ],
   "5:12": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "5:13": [
     {
       "surface": "master",
-      "lemma": "master"
+      "tw_match": "master"
     }
   ],
   "5:14": [
     {
       "surface": "perished",
-      "lemma": "perish"
+      "tw_match": "perish"
     }
   ],
   "5:15": [
     {
       "surface": "womb",
-      "lemma": "womb"
+      "tw_match": "womb"
     }
   ],
   "5:16": [
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "5:17": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "5:18": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "5:19": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "possessions",
-      "lemma": "possession"
+      "tw_match": "possession"
     },
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     }
   ],
   "5:20": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "joys",
-      "lemma": "joy"
+      "tw_match": "joy"
     }
   ],
   "6:1": [],
   "6:2": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "possessions",
-      "lemma": "possession"
+      "tw_match": "possession"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     },
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     },
     {
       "surface": "desires",
-      "lemma": "desires"
+      "tw_match": "desires"
     }
   ],
   "6:3": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "years",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "burial place",
-      "lemma": "burial place"
+      "tw_match": "burial place"
     },
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     }
   ],
   "6:4": [],
   "6:5": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "6:6": [
     {
       "surface": "years",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "6:7": [
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     }
   ],
   "6:8": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "6:9": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     }
   ],
   "6:10": [
     {
       "surface": "called",
-      "lemma": "called"
+      "tw_match": "called"
     }
   ],
   "6:11": [],
   "6:12": [
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "declare",
-      "lemma": "declare"
+      "tw_match": "declare"
     }
   ],
   "7:1": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "oil",
-      "lemma": "oil"
+      "tw_match": "oil"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     }
   ],
   "7:2": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "a house",
-      "lemma": "a house"
+      "tw_match": "a house"
     },
     {
       "surface": "mourning",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     },
     {
       "surface": "banquet",
-      "lemma": "banquet"
+      "tw_match": "banquet"
     }
   ],
   "7:3": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "7:4": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "a house",
-      "lemma": "a house"
+      "tw_match": "a house"
     },
     {
       "surface": "mourning",
-      "lemma": "mourn"
+      "tw_match": "mourn"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "house",
-      "lemma": "house"
+      "tw_match": "house"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     }
   ],
   "7:5": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "rebuke",
-      "lemma": "rebuke"
+      "tw_match": "rebuke"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "7:6": [
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "thorns",
-      "lemma": "thorn"
+      "tw_match": "thorn"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "7:7": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "bribe",
-      "lemma": "bribe"
+      "tw_match": "bribe"
     },
     {
       "surface": "destroys",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     }
   ],
   "7:8": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     }
   ],
   "7:9": [
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "7:10": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     }
   ],
   "7:11": [
     {
       "surface": "Wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "inheritance",
-      "lemma": "inheritance"
+      "tw_match": "inheritance"
     }
   ],
   "7:12": [
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     }
   ],
   "7:13": [
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "7:14": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "well",
-      "lemma": "well"
+      "tw_match": "well"
     }
   ],
   "7:15": [
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "perishing",
-      "lemma": "perish"
+      "tw_match": "perish"
     },
     {
       "surface": "righteousness",
-      "lemma": "righteousness"
+      "tw_match": "righteousness"
     },
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "7:16": [
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     }
   ],
   "7:17": [
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     }
   ],
   "7:18": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "fears",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "7:19": [
     {
       "surface": "Wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "rulers",
-      "lemma": "ruler"
+      "tw_match": "ruler"
     }
   ],
   "7:20": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "sin",
-      "lemma": "sin"
+      "tw_match": "sin"
     }
   ],
   "7:21": [
     {
       "surface": "servant",
-      "lemma": "servant"
+      "tw_match": "servant"
     }
   ],
   "7:22": [
     {
       "surface": "times",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "7:23": [
     {
       "surface": "tested",
-      "lemma": "tested"
+      "tw_match": "tested"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     }
   ],
   "7:24": [],
   "7:25": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     }
   ],
   "7:26": [
     {
       "surface": "snares",
-      "lemma": "snare"
+      "tw_match": "snare"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "sinner",
-      "lemma": "sinner"
+      "tw_match": "sinner"
     },
     {
       "surface": "captured",
-      "lemma": "capture"
+      "tw_match": "capture"
     }
   ],
   "7:27": [],
   "7:28": [
     {
       "surface": "soul",
-      "lemma": "soul"
+      "tw_match": "soul"
     }
   ],
   "7:29": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "upright",
-      "lemma": "upright"
+      "tw_match": "upright"
     }
   ],
   "8:1": [
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "knows",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "interpretation",
-      "lemma": "interpretation"
+      "tw_match": "interpretation"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     }
   ],
   "8:2": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "oath",
-      "lemma": "oath"
+      "tw_match": "oath"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "8:3": [
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "pleases",
-      "lemma": "please"
+      "tw_match": "please"
     }
   ],
   "8:4": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     }
   ],
   "8:5": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     }
   ],
   "8:6": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     }
   ],
   "8:7": [
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "declare",
-      "lemma": "declare"
+      "tw_match": "declare"
     }
   ],
   "8:8": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "ruler",
-      "lemma": "ruler"
+      "tw_match": "ruler"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "authority",
-      "lemma": "authority"
+      "tw_match": "authority"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "deliver",
-      "lemma": "deliver"
+      "tw_match": "deliver"
     },
     {
       "surface": "masters",
-      "lemma": "master"
+      "tw_match": "master"
     }
   ],
   "8:9": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "dominion",
-      "lemma": "dominion"
+      "tw_match": "dominion"
     }
   ],
   "8:10": [
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "buried",
-      "lemma": "buried"
+      "tw_match": "buried"
     },
     {
       "surface": "holy place",
-      "lemma": "holy place"
+      "tw_match": "holy place"
     }
   ],
   "8:11": [
     {
       "surface": "decree",
-      "lemma": "decree"
+      "tw_match": "decree"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "8:12": [
     {
       "surface": "sinner",
-      "lemma": "sinner"
+      "tw_match": "sinner"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     },
     {
       "surface": "times",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "8:13": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "fearing",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "8:14": [
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     },
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     }
   ],
   "8:15": [
     {
       "surface": "praised",
-      "lemma": "praised"
+      "tw_match": "praised"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "8:16": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     },
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "8:17": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "seek",
-      "lemma": "seek"
+      "tw_match": "seek"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "9:1": [
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "9:2": [
     {
       "surface": "righteous",
-      "lemma": "righteous"
+      "tw_match": "righteous"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "wicked",
-      "lemma": "wicked"
+      "tw_match": "wicked"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "pure",
-      "lemma": "pure"
+      "tw_match": "pure"
     },
     {
       "surface": "sacrifices",
-      "lemma": "sacrifices"
+      "tw_match": "sacrifices"
     },
     {
       "surface": "sacrifice",
-      "lemma": "sacrifice"
+      "tw_match": "sacrifice"
     },
     {
       "surface": "sinner",
-      "lemma": "sinner"
+      "tw_match": "sinner"
     },
     {
       "surface": "swears",
-      "lemma": "swear"
+      "tw_match": "swear"
     },
     {
       "surface": "oath",
-      "lemma": "oath"
+      "tw_match": "oath"
     },
     {
       "surface": "just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "fears",
-      "lemma": "fear"
+      "tw_match": "fear"
     }
   ],
   "9:3": [
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "9:4": [
     {
       "surface": "better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "lion",
-      "lemma": "lion"
+      "tw_match": "lion"
     }
   ],
   "9:5": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "reward",
-      "lemma": "reward"
+      "tw_match": "reward"
     }
   ],
   "9:6": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "jealousy",
-      "lemma": "jealousy"
+      "tw_match": "jealousy"
     },
     {
       "surface": "perished",
-      "lemma": "perish"
+      "tw_match": "perish"
     }
   ],
   "9:7": [
     {
       "surface": "bread",
-      "lemma": "bread"
+      "tw_match": "bread"
     },
     {
       "surface": "joy",
-      "lemma": "joy"
+      "tw_match": "joy"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "9:8": [
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "oil",
-      "lemma": "oil"
+      "tw_match": "oil"
     }
   ],
   "9:9": [
     {
       "surface": "love",
-      "lemma": "love"
+      "tw_match": "love"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "9:10": [
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "Sheol",
-      "lemma": "Sheol"
+      "tw_match": "Sheol"
     }
   ],
   "9:11": [
     {
       "surface": "mighty",
-      "lemma": "mighty"
+      "tw_match": "mighty"
     },
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "bread",
-      "lemma": "bread"
+      "tw_match": "bread"
     },
     {
       "surface": "discerning",
-      "lemma": "discern"
+      "tw_match": "discern"
     },
     {
       "surface": "understanding",
-      "lemma": "understanding"
+      "tw_match": "understanding"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     }
   ],
   "9:12": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "Like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "snare",
-      "lemma": "snare"
+      "tw_match": "snare"
     },
     {
       "surface": "snared",
-      "lemma": "snare"
+      "tw_match": "snare"
     }
   ],
   "9:13": [
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     }
   ],
   "9:14": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "besieged",
-      "lemma": "besieged"
+      "tw_match": "besieged"
     },
     {
       "surface": "siegeworks",
-      "lemma": "siegeworks"
+      "tw_match": "siegeworks"
     }
   ],
   "9:15": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "delivered",
-      "lemma": "delivered"
+      "tw_match": "delivered"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "9:16": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     }
   ],
   "9:17": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "cry",
-      "lemma": "cry"
+      "tw_match": "cry"
     },
     {
       "surface": "ruler",
-      "lemma": "ruler"
+      "tw_match": "ruler"
     },
     {
       "surface": "fools",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "9:18": [
     {
       "surface": "Better",
-      "lemma": "better"
+      "tw_match": "better"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "sinner",
-      "lemma": "sinner"
+      "tw_match": "sinner"
     },
     {
       "surface": "destroy",
-      "lemma": "destroy"
+      "tw_match": "destroy"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "10:1": [
     {
       "surface": "oil",
-      "lemma": "oil"
+      "tw_match": "oil"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     },
     {
       "surface": "honor",
-      "lemma": "honor"
+      "tw_match": "honor"
     }
   ],
   "10:2": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "right",
-      "lemma": "right"
+      "tw_match": "right"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "10:3": [
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "10:4": [
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "ruler",
-      "lemma": "ruler"
+      "tw_match": "ruler"
     },
     {
       "surface": "leave",
-      "lemma": "leave"
+      "tw_match": "leave"
     },
     {
       "surface": "sins",
-      "lemma": "sin"
+      "tw_match": "sin"
     }
   ],
   "10:5": [
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "sin",
-      "lemma": "sin"
+      "tw_match": "sin"
     },
     {
       "surface": "authority",
-      "lemma": "authority"
+      "tw_match": "authority"
     }
   ],
   "10:6": [
     {
       "surface": "Folly",
-      "lemma": "folly"
+      "tw_match": "folly"
     },
     {
       "surface": "lowly",
-      "lemma": "lowly"
+      "tw_match": "lowly"
     }
   ],
   "10:7": [
     {
       "surface": "slaves",
-      "lemma": "slave"
+      "tw_match": "slave"
     },
     {
       "surface": "horses",
-      "lemma": "horse"
+      "tw_match": "horse"
     },
     {
       "surface": "princes",
-      "lemma": "prince"
+      "tw_match": "prince"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     }
   ],
   "10:8": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "pit",
-      "lemma": "pit"
+      "tw_match": "pit"
     },
     {
       "surface": "snake",
-      "lemma": "snake"
+      "tw_match": "snake"
     }
   ],
   "10:9": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "stones",
-      "lemma": "stone"
+      "tw_match": "stone"
     },
     {
       "surface": "hurt",
-      "lemma": "hurt"
+      "tw_match": "hurt"
     }
   ],
   "10:10": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "iron",
-      "lemma": "iron"
+      "tw_match": "iron"
     },
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "wisdom",
-      "lemma": "wisdom"
+      "tw_match": "wisdom"
     }
   ],
   "10:11": [
     {
       "surface": "snake",
-      "lemma": "snake"
+      "tw_match": "snake"
     },
     {
       "surface": "profit",
-      "lemma": "profit"
+      "tw_match": "profit"
     },
     {
       "surface": "master",
-      "lemma": "master"
+      "tw_match": "master"
     },
     {
       "surface": "tongue",
-      "lemma": "tongue"
+      "tw_match": "tongue"
     }
   ],
   "10:12": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "favor",
-      "lemma": "favor"
+      "tw_match": "favor"
     },
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     }
   ],
   "10:13": [
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ],
   "10:14": [
     {
       "surface": "fool",
-      "lemma": "fool"
+      "tw_match": "fool"
     },
     {
       "surface": "multiply",
-      "lemma": "multiply"
+      "tw_match": "multiply"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "declare",
-      "lemma": "declare"
+      "tw_match": "declare"
     }
   ],
   "10:15": [
     {
       "surface": "foolish",
-      "lemma": "foolish"
+      "tw_match": "foolish"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     }
   ],
   "10:16": [
     {
       "surface": "Woe",
-      "lemma": "woe"
+      "tw_match": "woe"
     },
     {
       "surface": "land",
-      "lemma": "land"
+      "tw_match": "land"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "princes",
-      "lemma": "prince"
+      "tw_match": "prince"
     }
   ],
   "10:17": [
     {
       "surface": "Blessed",
-      "lemma": "bless"
+      "tw_match": "bless"
     },
     {
       "surface": "land",
-      "lemma": "land"
+      "tw_match": "land"
     },
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "nobles",
-      "lemma": "noble"
+      "tw_match": "noble"
     },
     {
       "surface": "princes",
-      "lemma": "prince"
+      "tw_match": "prince"
     },
     {
       "surface": "time",
-      "lemma": "time"
+      "tw_match": "time"
     },
     {
       "surface": "might",
-      "lemma": "might"
+      "tw_match": "might"
     }
   ],
   "10:18": [
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     }
   ],
   "10:19": [
     {
       "surface": "bread",
-      "lemma": "bread"
+      "tw_match": "bread"
     },
     {
       "surface": "wine",
-      "lemma": "wine"
+      "tw_match": "wine"
     },
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     }
   ],
   "10:20": [
     {
       "surface": "king",
-      "lemma": "king"
+      "tw_match": "king"
     },
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "heavens",
-      "lemma": "heavens"
+      "tw_match": "heavens"
     },
     {
       "surface": "carry",
-      "lemma": "carry"
+      "tw_match": "carry"
     },
     {
       "surface": "master",
-      "lemma": "master"
+      "tw_match": "master"
     },
     {
       "surface": "declare",
-      "lemma": "declare"
+      "tw_match": "declare"
     }
   ],
   "11:1": [
     {
       "surface": "bread",
-      "lemma": "bread"
+      "tw_match": "bread"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "11:2": [
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     }
   ],
   "11:3": [
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     }
   ],
   "11:4": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     },
     {
       "surface": "sow",
-      "lemma": "sow"
+      "tw_match": "sow"
     },
     {
       "surface": "harvest",
-      "lemma": "harvest"
+      "tw_match": "harvest"
     }
   ],
   "11:5": [
     {
       "surface": "Just",
-      "lemma": "just"
+      "tw_match": "just"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "wind",
-      "lemma": "wind"
+      "tw_match": "wind"
     },
     {
       "surface": "womb",
-      "lemma": "womb"
+      "tw_match": "womb"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "work",
-      "lemma": "work"
+      "tw_match": "work"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "works",
-      "lemma": "work"
+      "tw_match": "work"
     }
   ],
   "11:6": [
     {
       "surface": "sow",
-      "lemma": "sow"
+      "tw_match": "sow"
     },
     {
       "surface": "seed",
-      "lemma": "seed"
+      "tw_match": "seed"
     },
     {
       "surface": "knowing",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "prosper",
-      "lemma": "prosper"
+      "tw_match": "prosper"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "11:7": [
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     }
   ],
   "11:8": [
     {
       "surface": "years",
-      "lemma": "year"
+      "tw_match": "year"
     },
     {
       "surface": "rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     }
   ],
   "11:9": [
     {
       "surface": "Rejoice",
-      "lemma": "rejoice"
+      "tw_match": "rejoice"
     },
     {
       "surface": "young man",
-      "lemma": "young man"
+      "tw_match": "young man"
     },
     {
       "surface": "glad",
-      "lemma": "glad"
+      "tw_match": "glad"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "know",
-      "lemma": "know"
+      "tw_match": "know"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     }
   ],
   "11:10": [],
   "12:1": [
     {
       "surface": "Creator",
-      "lemma": "creator"
+      "tw_match": "creator"
     },
     {
       "surface": "days",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "years",
-      "lemma": "year"
+      "tw_match": "year"
     }
   ],
   "12:2": [],
   "12:3": [
     {
       "surface": "day",
-      "lemma": "day"
+      "tw_match": "day"
     },
     {
       "surface": "guards",
-      "lemma": "guard"
+      "tw_match": "guard"
     },
     {
       "surface": "the house",
-      "lemma": "the house"
+      "tw_match": "the house"
     },
     {
       "surface": "tremble",
-      "lemma": "tremble"
+      "tw_match": "tremble"
     }
   ],
   "12:4": [
     {
       "surface": "person",
-      "lemma": "person"
+      "tw_match": "person"
     },
     {
       "surface": "humbled",
-      "lemma": "humbled"
+      "tw_match": "humbled"
     }
   ],
   "12:5": [
     {
       "surface": "afraid",
-      "lemma": "afraid"
+      "tw_match": "afraid"
     },
     {
       "surface": "high place",
-      "lemma": "high place"
+      "tw_match": "high place"
     },
     {
       "surface": "terrors",
-      "lemma": "terror"
+      "tw_match": "terror"
     },
     {
       "surface": "locusts",
-      "lemma": "locust"
+      "tw_match": "locust"
     },
     {
       "surface": "fruit",
-      "lemma": "fruit"
+      "tw_match": "fruit"
     },
     {
       "surface": "eternal",
-      "lemma": "eternal"
+      "tw_match": "eternal"
     },
     {
       "surface": "mourners",
-      "lemma": "mourner"
+      "tw_match": "mourner"
     }
   ],
   "12:6": [
     {
       "surface": "silver",
-      "lemma": "silver"
+      "tw_match": "silver"
     },
     {
       "surface": "gold",
-      "lemma": "gold"
+      "tw_match": "gold"
     },
     {
       "surface": "fountain",
-      "lemma": "fountain"
+      "tw_match": "fountain"
     },
     {
       "surface": "cistern",
-      "lemma": "cistern"
+      "tw_match": "cistern"
     }
   ],
   "12:7": [
     {
       "surface": "earth",
-      "lemma": "earth"
+      "tw_match": "earth"
     },
     {
       "surface": "spirit",
-      "lemma": "spirit"
+      "tw_match": "spirit"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     }
   ],
   "12:8": [],
   "12:9": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "knowledge",
-      "lemma": "knowledge"
+      "tw_match": "knowledge"
     },
     {
       "surface": "searched",
-      "lemma": "search"
+      "tw_match": "search"
     },
     {
       "surface": "proverbs",
-      "lemma": "proverb"
+      "tw_match": "proverb"
     }
   ],
   "12:10": [],
   "12:11": [
     {
       "surface": "wise",
-      "lemma": "wise"
+      "tw_match": "wise"
     },
     {
       "surface": "like",
-      "lemma": "like"
+      "tw_match": "like"
     },
     {
       "surface": "masters",
-      "lemma": "master"
+      "tw_match": "master"
     },
     {
       "surface": "Shepherd",
-      "lemma": "shepherd"
+      "tw_match": "shepherd"
     }
   ],
   "12:12": [
     {
       "surface": "warned",
-      "lemma": "warned"
+      "tw_match": "warned"
     },
     {
       "surface": "scrolls",
-      "lemma": "scroll"
+      "tw_match": "scroll"
     }
   ],
   "12:13": [
     {
       "surface": "Fear",
-      "lemma": "fear"
+      "tw_match": "fear"
     },
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "keep",
-      "lemma": "keep"
+      "tw_match": "keep"
     }
   ],
   "12:14": [
     {
       "surface": "God",
-      "lemma": "God"
+      "tw_match": "God"
     },
     {
       "surface": "judgment",
-      "lemma": "judgment"
+      "tw_match": "judgment"
     },
     {
       "surface": "good",
-      "lemma": "good"
+      "tw_match": "good"
     },
     {
       "surface": "evil",
-      "lemma": "evil"
+      "tw_match": "evil"
     }
   ]
 }

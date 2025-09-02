@@ -51,7 +51,7 @@ twl-generator --usfm ./myfile.usfm --book rut
 
 ### Keywords Dataset
 
-Generate per-verse keywords with lemmas (one JSON file per book). The output uses a flat keyed object per book: keys are `"C:V"` and values are ordered arrays of `{ surface, lemma }` using the existing trie and term logic.
+Generate per-verse keywords with TW matches (one JSON file per book). The output uses a flat keyed object per book: keys are `"C:V"` and values are ordered arrays of `{ surface, tw_match }` using the existing trie and term logic.
 
 Command:
 
@@ -83,22 +83,22 @@ Per-book output shape (example):
 ```json
 {
   "1:1": [
-    { "surface": "God", "lemma": "God" },
-    { "surface": "created", "lemma": "create" },
-    { "surface": "heavens", "lemma": "heaven" },
-    { "surface": "earth", "lemma": "earth" }
+    { "surface": "God", "tw_match": "God" },
+    { "surface": "created", "tw_match": "create" },
+    { "surface": "heavens", "tw_match": "heaven" },
+    { "surface": "earth", "tw_match": "earth" }
   ],
   "1:2": [
-    { "surface": "earth", "lemma": "earth" },
-    { "surface": "Spirit", "lemma": "Spirit" },
-    { "surface": "God", "lemma": "God" }
+    { "surface": "earth", "tw_match": "earth" },
+    { "surface": "Spirit", "tw_match": "Spirit" },
+    { "surface": "God", "tw_match": "God" }
   ]
 }
 ```
 
 Notes:
 
-- The dataset uses canonical TW terms for `lemma` and preserves the verse’s surface casing for `surface`.
+- The dataset uses canonical TW terms for `tw_match` and preserves the verse’s surface casing for `surface`.
 - Multi-word terms and morphological variants are supported via the existing trie matcher.
 - Files are named `keywords_<USFMBOOK>.json` (e.g., `keywords_GEN.json`).
 
